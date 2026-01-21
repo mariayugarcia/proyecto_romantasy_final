@@ -1,0 +1,247 @@
+book,chapter_num,afinn_mean
+Fourth Wing,39,-0.65
+Fourth Wing,41,-0.4731457800511509
+Fourth Wing,43,-0.8260869565217391
+Fourth Wing,45,-0.6679841897233202
+Fourth Wing,47,-0.82
+Fourth Wing,49,-0.6331877729257642
+Fourth Wing,51,-0.6455696202531646
+Fourth Wing,53,-1.3691588785046729
+Fourth Wing,55,-0.336
+Fourth Wing,57,-0.9609756097560975
+Fourth Wing,59,-0.6490683229813664
+Fourth Wing,60,-0.4050632911392405
+Fourth Wing,61,-0.6813186813186813
+Fourth Wing,62,-0.7686567164179104
+Fourth Wing,63,-1.319672131147541
+Fourth Wing,64,-0.11214953271028037
+Fourth Wing,65,-0.8017241379310345
+Fourth Wing,66,-0.6060606060606061
+Fourth Wing,67,-0.9464882943143813
+Fourth Wing,68,-1.162962962962963
+Fourth Wing,69,-0.43478260869565216
+Fourth Wing,70,-0.30833333333333335
+Fourth Wing,71,-0.8753541076487252
+Fourth Wing,72,-0.5243445692883895
+Fourth Wing,73,-0.37453183520599254
+Fourth Wing,74,-0.1590909090909091
+Fourth Wing,75,-0.13664596273291926
+Fourth Wing,76,-1.08300395256917
+Fourth Wing,77,-0.6917808219178082
+Fourth Wing,78,-0.9830508474576272
+Fourth Wing,79,-0.6559485530546624
+Fourth Wing,80,-0.5214521452145214
+Fourth Wing,81,-0.6579925650557621
+Fourth Wing,82,-0.8134328358208955
+Fourth Wing,83,-0.5486111111111112
+Fourth Wing,84,-1.1555555555555554
+Fourth Wing,85,-1.0350877192982457
+Fourth Wing,86,-1.079136690647482
+Fourth Wing,87,-1.165289256198347
+Fourth Wing,88,-0.40977443609022557
+Ignite Me,0,2.5
+Ignite Me,79,-0.8428571428571429
+Ignite Me,80,-1
+Ignite Me,81,-0.05555555555555555
+Ignite Me,82,-0.1590909090909091
+Ignite Me,83,-0.8037383177570093
+Ignite Me,84,-1.024390243902439
+Ignite Me,85,-0.9264705882352942
+Ignite Me,86,0.021739130434782608
+Ignite Me,87,-0.6296296296296297
+Ignite Me,88,-0.7951668584579977
+Ignite Me,91,-0.44803098773402195
+Iron Flame,0,-0.5
+Iron Flame,66,0
+Iron Flame,67,-0.4539877300613497
+Iron Flame,68,-0.4870848708487085
+Iron Flame,69,-0.7440758293838863
+Iron Flame,70,-1.0386740331491713
+Iron Flame,71,-0.3230769230769231
+Iron Flame,72,-0.6310679611650486
+Iron Flame,73,-0.4342105263157895
+Iron Flame,74,-1.0035714285714286
+Iron Flame,75,-0.8191489361702128
+Iron Flame,76,-1.2512562814070352
+Iron Flame,77,-0.48484848484848486
+Iron Flame,78,-0.5869565217391305
+Iron Flame,79,-1.164319248826291
+Iron Flame,80,-0.9221556886227545
+Iron Flame,81,-1.013157894736842
+Iron Flame,82,-0.5402843601895735
+Iron Flame,83,-0.9565217391304348
+Iron Flame,84,-0.8301886792452831
+Iron Flame,85,-0.925531914893617
+Iron Flame,86,-0.3720136518771331
+Iron Flame,87,-0.8571428571428571
+Iron Flame,88,-1.0392156862745099
+Iron Flame,89,-0.6351351351351351
+Iron Flame,90,-1.0879120879120878
+Iron Flame,91,-0.8125
+Iron Flame,92,-0.875
+Iron Flame,93,-1.0141342756183747
+Iron Flame,94,-0.7678571428571429
+Iron Flame,95,-1.0160427807486632
+Iron Flame,96,-0.8393782383419689
+Iron Flame,97,-1
+Iron Flame,98,-0.751937984496124
+Iron Flame,99,-0.6324786324786325
+Iron Flame,100,0.12162162162162163
+Iron Flame,101,-1.0082872928176796
+Iron Flame,102,-0.6949685534591195
+Iron Flame,103,-0.44041450777202074
+Iron Flame,104,-0.7251908396946565
+Iron Flame,105,-0.8053691275167785
+Iron Flame,106,-0.6572769953051644
+Iron Flame,107,-0.7026022304832714
+Iron Flame,108,-0.645320197044335
+Iron Flame,109,-0.5358361774744027
+Iron Flame,110,-1.0105820105820107
+Iron Flame,111,-0.5219512195121951
+Iron Flame,112,-0.6363636363636364
+Iron Flame,113,-1.4461538461538461
+Iron Flame,114,-0.9041666666666667
+Iron Flame,115,-0.48412698412698413
+Iron Flame,116,-0.44285714285714284
+Iron Flame,117,-0.8705882352941177
+Iron Flame,118,-0.375
+Iron Flame,119,-0.37254901960784315
+Iron Flame,120,-1.1007751937984496
+Iron Flame,121,-0.6237623762376238
+Iron Flame,122,-0.6172839506172839
+Iron Flame,123,-0.8431372549019608
+Iron Flame,124,-0.9130434782608695
+Iron Flame,125,-0.7127659574468085
+Iron Flame,126,-0.7884615384615384
+Iron Flame,127,-0.7699115044247787
+Iron Flame,128,-0.85625
+Iron Flame,129,-0.8870967741935484
+Iron Flame,130,-0.6036036036036037
+Iron Flame,131,-0.5
+Iron Flame,132,-0.660377358490566
+Onyx Storm (The Empyrean Book 3,0,-1
+Onyx Storm (The Empyrean Book 3,66,-0.8442622950819673
+Onyx Storm (The Empyrean Book 3,67,-0.7612612612612613
+Onyx Storm (The Empyrean Book 3,68,-0.5797101449275363
+Onyx Storm (The Empyrean Book 3,69,-0.525
+Onyx Storm (The Empyrean Book 3,70,-0.52
+Onyx Storm (The Empyrean Book 3,71,-0.348993288590604
+Onyx Storm (The Empyrean Book 3,72,-0.0972972972972973
+Onyx Storm (The Empyrean Book 3,73,-0.47619047619047616
+Onyx Storm (The Empyrean Book 3,74,-0.297029702970297
+Onyx Storm (The Empyrean Book 3,75,-0.675
+Onyx Storm (The Empyrean Book 3,76,-1.0944444444444446
+Onyx Storm (The Empyrean Book 3,77,-0.6824324324324325
+Onyx Storm (The Empyrean Book 3,78,-0.5833333333333334
+Onyx Storm (The Empyrean Book 3,79,-0.40816326530612246
+Onyx Storm (The Empyrean Book 3,80,-0.6845238095238095
+Onyx Storm (The Empyrean Book 3,81,-0.34065934065934067
+Onyx Storm (The Empyrean Book 3,82,-0.5423728813559322
+Onyx Storm (The Empyrean Book 3,83,-0.37435897435897436
+Onyx Storm (The Empyrean Book 3,84,-0.08552631578947369
+Onyx Storm (The Empyrean Book 3,85,-0.9767441860465116
+Onyx Storm (The Empyrean Book 3,86,-0.34285714285714286
+Onyx Storm (The Empyrean Book 3,87,-0.13756613756613756
+Onyx Storm (The Empyrean Book 3,88,-0.08108108108108109
+Onyx Storm (The Empyrean Book 3,89,-0.6259541984732825
+Onyx Storm (The Empyrean Book 3,90,-0.06382978723404255
+Onyx Storm (The Empyrean Book 3,91,-0.5965909090909091
+Onyx Storm (The Empyrean Book 3,92,-0.4703389830508475
+Onyx Storm (The Empyrean Book 3,93,-0.7516778523489933
+Onyx Storm (The Empyrean Book 3,94,-0.7078651685393258
+Onyx Storm (The Empyrean Book 3,95,-0.782051282051282
+Onyx Storm (The Empyrean Book 3,96,-0.5189873417721519
+Onyx Storm (The Empyrean Book 3,97,-0.3173076923076923
+Onyx Storm (The Empyrean Book 3,98,-0.5354330708661418
+Onyx Storm (The Empyrean Book 3,99,-0.2358490566037736
+Onyx Storm (The Empyrean Book 3,100,-0.5321637426900585
+Onyx Storm (The Empyrean Book 3,101,-0.12138728323699421
+Onyx Storm (The Empyrean Book 3,102,-1.294871794871795
+Onyx Storm (The Empyrean Book 3,103,-0.3181818181818182
+Onyx Storm (The Empyrean Book 3,104,0.12837837837837837
+Onyx Storm (The Empyrean Book 3,105,-1.1584158415841583
+Onyx Storm (The Empyrean Book 3,106,-0.031746031746031744
+Onyx Storm (The Empyrean Book 3,107,-0.7596153846153846
+Onyx Storm (The Empyrean Book 3,108,-0.9726027397260274
+Onyx Storm (The Empyrean Book 3,109,-0.8027210884353742
+Onyx Storm (The Empyrean Book 3,110,-1.06
+Onyx Storm (The Empyrean Book 3,111,-0.42441860465116277
+Onyx Storm (The Empyrean Book 3,112,-0.6953125
+Onyx Storm (The Empyrean Book 3,113,-0.14074074074074075
+Onyx Storm (The Empyrean Book 3,114,-0.688
+Onyx Storm (The Empyrean Book 3,115,-0.32323232323232326
+Onyx Storm (The Empyrean Book 3,116,-0.5238095238095238
+Onyx Storm (The Empyrean Book 3,117,-0.6338028169014085
+Onyx Storm (The Empyrean Book 3,118,-0.8939393939393939
+Onyx Storm (The Empyrean Book 3,119,-0.28735632183908044
+Onyx Storm (The Empyrean Book 3,120,-0.5333333333333333
+Onyx Storm (The Empyrean Book 3,121,-0.2
+Onyx Storm (The Empyrean Book 3,122,0
+Onyx Storm (The Empyrean Book 3,123,-0.6041666666666666
+Onyx Storm (The Empyrean Book 3,124,-0.38961038961038963
+Onyx Storm (The Empyrean Book 3,125,-1.1785714285714286
+Onyx Storm (The Empyrean Book 3,126,-0.6222222222222222
+Onyx Storm (The Empyrean Book 3,127,-0.7127659574468085
+Onyx Storm (The Empyrean Book 3,128,-0.7834394904458599
+Onyx Storm (The Empyrean Book 3,129,-0.6788990825688074
+Onyx Storm (The Empyrean Book 3,130,-1.0424242424242425
+Onyx Storm (The Empyrean Book 3,131,-1.175
+Onyx Storm (The Empyrean Book 3,132,-0.38333333333333336
+Shatter Me,0,1
+Shatter Me,11,-0.9210526315789473
+Shatter Me,12,-1.25
+Shatter Me,13,-0.7875
+Shatter Me,14,-1.6422018348623852
+Shatter Me,16,-0.034482758620689655
+Shatter Me,17,-1.0689655172413792
+Shatter Me,18,-0.1
+Shatter Me,19,-0.8545454545454545
+Shatter Me,20,-1.0909090909090908
+Shatter Me,21,-0.5714285714285714
+Shatter Me,22,-0.14754098360655737
+Shatter Me,23,-0.547371380376722
+The Mortal Instruments 01 - Cit,0,-0.6166534181240063
+The Mortal Instruments 01 - Cit,1,0.03587443946188341
+The Mortal Instruments 02 - Cit,0,-0.712752254186346
+The Mortal Instruments 02 - Cit,1,-0.21722846441947566
+The Mortal Instruments 03 - Cit,0,-0.6184046899982235
+The Mortal Instruments 03 - Cit,1,0.09554140127388536
+The Mortal Instruments 04 - Cit,0,-0.5217300020995171
+The Mortal Instruments 05 - Cit,0,-1.162162162162162
+The Mortal Instruments 05 - Cit,1,-3
+The Mortal Instruments 05 - Cit,4,-3
+The Mortal Instruments 05 - Cit,9,-2
+The Mortal Instruments 05 - Cit,13,2
+The Mortal Instruments 05 - Cit,20,3
+The Mortal Instruments 05 - Cit,22,-4
+The Mortal Instruments 05 - Cit,24,-0.37715269804822044
+The Mortal Instruments 05 - Cit,25,-0.5073068893528184
+The Mortal Instruments 06 - Cit,0,-0.523238747553816
+The Mortal Instruments 06 - Cit,1,0.3378640776699029
+The Mortal Instruments 06 - Cit,6,-2
+The Mortal Instruments 06 - Cit,8,-2
+The Mortal Instruments 06 - Cit,9,2
+The Mortal Instruments 06 - Cit,11,0
+The Mortal Instruments 06 - Cit,12,-3
+The Mortal Instruments 06 - Cit,22,-3
+The Mortal Instruments 06 - Cit,24,2
+The Mortal Instruments 06 - Cit,25,2
+Unravel Me,74,-0.6785714285714286
+Unravel Me,75,-0.67
+Unravel Me,76,-0.3275862068965517
+Unravel Me,77,-0.096
+Unravel Me,78,-0.12149532710280374
+Unravel Me,79,-1.1839080459770115
+Unravel Me,80,-0.8429752066115702
+Unravel Me,81,-1.7272727272727273
+Unravel Me,82,-0.35
+Unravel Me,83,-0.6952789699570815
+Unravel Me,86,-0.6349878934624698
+Unravel Me,87,2
+Unravel Me,88,-2
+Unravel Me,90,0
+Unravel Me,95,-0.7931873479318735
+Unravel Me,96,-0.7043847241867044
+Unravel Me,98,-0.4005681818181818
+Unravel Me,100,-0.621822033898305
+Unravel Me,101,0.3333333333333333

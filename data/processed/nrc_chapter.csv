@@ -1,0 +1,2390 @@
+book,chapter_num,sentiment,n,total_words,saga,prop
+The Mortal Instruments 06 - Cit,0,negative,6425,34554,Shadowhunters,0.18594084621172657
+The Mortal Instruments 06 - Cit,0,positive,5799,34554,Shadowhunters,0.16782427504775135
+The Mortal Instruments 03 - Cit,0,negative,5310,25516,Shadowhunters,0.20810471860793228
+The Mortal Instruments 01 - Cit,0,negative,4877,23790,Shadowhunters,0.2050021017234132
+The Mortal Instruments 05 - Cit,24,negative,4507,23736,Shadowhunters,0.1898803505224132
+The Mortal Instruments 02 - Cit,0,negative,4420,21375,Shadowhunters,0.20678362573099415
+The Mortal Instruments 04 - Cit,0,negative,4118,21509,Shadowhunters,0.19145473987633083
+The Mortal Instruments 05 - Cit,24,positive,4080,23736,Shadowhunters,0.1718907987866532
+The Mortal Instruments 03 - Cit,0,positive,3761,25516,Shadowhunters,0.14739771124000628
+The Mortal Instruments 06 - Cit,0,fear,3704,34554,Shadowhunters,0.10719453608844128
+The Mortal Instruments 06 - Cit,0,trust,3690,34554,Shadowhunters,0.10678937315506164
+The Mortal Instruments 01 - Cit,0,positive,3683,23790,Shadowhunters,0.1548129466162253
+The Mortal Instruments 06 - Cit,0,sadness,3515,34554,Shadowhunters,0.10172483648781618
+The Mortal Instruments 04 - Cit,0,positive,3460,21509,Shadowhunters,0.16086289460225953
+The Mortal Instruments 02 - Cit,0,positive,3064,21375,Shadowhunters,0.14334502923976608
+The Mortal Instruments 06 - Cit,0,anger,2873,34554,Shadowhunters,0.08314522197140707
+The Mortal Instruments 03 - Cit,0,sadness,2772,25516,Shadowhunters,0.1086377175105816
+The Mortal Instruments 06 - Cit,0,anticipation,2716,34554,Shadowhunters,0.07860160907564971
+Shatter Me,23,negative,2649,13556,Shadowhunters,0.19541162584833285
+The Mortal Instruments 03 - Cit,0,fear,2634,25516,Shadowhunters,0.10322934629252234
+The Mortal Instruments 01 - Cit,0,sadness,2604,23790,Shadowhunters,0.1094577553593947
+The Mortal Instruments 05 - Cit,24,sadness,2461,23736,Shadowhunters,0.10368217054263566
+The Mortal Instruments 05 - Cit,24,trust,2416,23736,Shadowhunters,0.10178631614425346
+The Mortal Instruments 01 - Cit,0,fear,2400,23790,Shadowhunters,0.1008827238335435
+The Mortal Instruments 06 - Cit,0,joy,2376,34554,Shadowhunters,0.06876193783642993
+The Mortal Instruments 02 - Cit,0,sadness,2358,21375,Shadowhunters,0.11031578947368421
+The Mortal Instruments 02 - Cit,0,fear,2355,21375,Shadowhunters,0.11017543859649123
+The Mortal Instruments 03 - Cit,0,trust,2337,25516,Shadowhunters,0.09158959084496003
+The Mortal Instruments 01 - Cit,0,trust,2336,23790,Shadowhunters,0.09819251786464901
+The Mortal Instruments 05 - Cit,24,fear,2264,23736,Shadowhunters,0.09538254128749579
+The Mortal Instruments 03 - Cit,0,anger,2250,25516,Shadowhunters,0.08817996551183571
+Shatter Me,23,positive,2185,13556,Shadowhunters,0.16118323989377398
+The Mortal Instruments 04 - Cit,0,sadness,2183,21509,Shadowhunters,0.10149239853084756
+The Mortal Instruments 04 - Cit,0,fear,2160,21509,Shadowhunters,0.10042307871123715
+The Mortal Instruments 04 - Cit,0,trust,2119,21509,Shadowhunters,0.09851689990236645
+Ignite Me,91,negative,2074,10868,Shadowhunters,0.19083548030916453
+The Mortal Instruments 05 - Cit,24,anticipation,1968,23736,Shadowhunters,0.08291203235591507
+The Mortal Instruments 01 - Cit,0,anger,1965,23790,Shadowhunters,0.08259773013871374
+The Mortal Instruments 02 - Cit,0,trust,1950,21375,Shadowhunters,0.0912280701754386
+The Mortal Instruments 03 - Cit,0,anticipation,1950,25516,Shadowhunters,0.07642263677692428
+The Mortal Instruments 05 - Cit,24,anger,1891,23736,Shadowhunters,0.07966801482979441
+The Mortal Instruments 02 - Cit,0,anger,1884,21375,Shadowhunters,0.08814035087719298
+Ignite Me,91,positive,1853,10868,Shadowhunters,0.17050055207949943
+The Mortal Instruments 06 - Cit,0,disgust,1796,34554,Shadowhunters,0.05197661631070209
+The Mortal Instruments 04 - Cit,0,anger,1793,21509,Shadowhunters,0.08336045376354084
+The Mortal Instruments 04 - Cit,0,anticipation,1764,21509,Shadowhunters,0.08201218094751034
+The Mortal Instruments 05 - Cit,24,joy,1761,23736,Shadowhunters,0.07419110212335693
+The Mortal Instruments 01 - Cit,0,anticipation,1693,23790,Shadowhunters,0.07116435477091215
+The Mortal Instruments 03 - Cit,0,joy,1676,25516,Shadowhunters,0.06568427653237184
+The Mortal Instruments 06 - Cit,0,surprise,1660,34554,Shadowhunters,0.04804074781501418
+The Mortal Instruments 04 - Cit,0,joy,1658,21509,Shadowhunters,0.07708401134408852
+The Mortal Instruments 01 - Cit,0,joy,1605,23790,Shadowhunters,0.06746532156368222
+The Mortal Instruments 02 - Cit,0,anticipation,1600,21375,Shadowhunters,0.07485380116959064
+The Mortal Instruments 03 - Cit,0,disgust,1578,25516,Shadowhunters,0.061843549145634114
+Shatter Me,23,fear,1535,13556,Shadowhunters,0.11323399232812038
+The Mortal Instruments 01 - Cit,0,disgust,1527,23790,Shadowhunters,0.06418663303909206
+The Mortal Instruments 02 - Cit,0,disgust,1392,21375,Shadowhunters,0.06512280701754386
+The Mortal Instruments 02 - Cit,0,joy,1292,21375,Shadowhunters,0.060444444444444446
+The Mortal Instruments 04 - Cit,0,disgust,1262,21509,Shadowhunters,0.05867311358036171
+The Mortal Instruments 05 - Cit,24,disgust,1249,23736,Shadowhunters,0.05262049207954162
+The Mortal Instruments 03 - Cit,0,surprise,1248,25516,Shadowhunters,0.04891048753723154
+Shatter Me,23,sadness,1214,13556,Shadowhunters,0.08955444083800532
+Shatter Me,23,trust,1174,13556,Shadowhunters,0.08660371791088817
+Shatter Me,23,anticipation,1139,13556,Shadowhunters,0.08402183534966066
+The Mortal Instruments 05 - Cit,24,surprise,1139,23736,Shadowhunters,0.04798618132794068
+Ignite Me,91,fear,1138,10868,Shadowhunters,0.10471107839528893
+Shatter Me,23,anger,1125,13556,Shadowhunters,0.08298908232516966
+Unravel Me,86,negative,1125,5709,Shadowhunters,0.19705727798213346
+The Mortal Instruments 01 - Cit,0,surprise,1100,23790,Shadowhunters,0.04623791509037411
+The Mortal Instruments 02 - Cit,0,surprise,1060,21375,Shadowhunters,0.0495906432748538
+Ignite Me,91,trust,995,10868,Shadowhunters,0.09155318365844682
+The Mortal Instruments 04 - Cit,0,surprise,992,21509,Shadowhunters,0.04612022874145706
+Unravel Me,96,negative,992,4816,Shadowhunters,0.2059800664451827
+Ignite Me,91,anger,972,10868,Shadowhunters,0.08943687891056312
+Ignite Me,91,sadness,917,10868,Shadowhunters,0.08437615016562384
+Unravel Me,86,positive,917,5709,Shadowhunters,0.1606235768085479
+Shatter Me,23,surprise,913,13556,Shadowhunters,0.06735025081144881
+Ignite Me,91,anticipation,909,10868,Shadowhunters,0.08364004416635995
+Shatter Me,23,joy,909,13556,Shadowhunters,0.06705517851873709
+Ignite Me,91,joy,777,10868,Shadowhunters,0.07149429517850571
+Unravel Me,96,positive,727,4816,Shadowhunters,0.15095514950166114
+Shatter Me,23,disgust,713,13556,Shadowhunters,0.05259663617586308
+Unravel Me,100,negative,701,3476,Shadowhunters,0.201668584579977
+Unravel Me,86,fear,654,5709,Shadowhunters,0.11455596426694692
+Ignite Me,91,surprise,651,10868,Shadowhunters,0.05990062569009937
+Ignite Me,91,disgust,582,10868,Shadowhunters,0.05355171144644829
+Ignite Me,88,negative,581,2984,Shadowhunters,0.19470509383378015
+Unravel Me,96,fear,554,4816,Shadowhunters,0.11503322259136213
+Unravel Me,86,sadness,551,5709,Shadowhunters,0.09651427570502714
+Unravel Me,86,trust,510,5709,Shadowhunters,0.08933263268523384
+Unravel Me,86,anger,500,5709,Shadowhunters,0.08758101243650376
+The Mortal Instruments 06 - Cit,1,positive,493,2296,Shadowhunters,0.2147212543554007
+Unravel Me,100,positive,493,3476,Shadowhunters,0.14182968929804374
+Unravel Me,96,sadness,474,4816,Shadowhunters,0.09842192691029901
+Unravel Me,86,anticipation,460,5709,Shadowhunters,0.08057453144158347
+Unravel Me,96,anger,451,4816,Shadowhunters,0.09364617940199335
+Ignite Me,88,positive,447,2984,Shadowhunters,0.149798927613941
+Unravel Me,96,trust,436,4816,Shadowhunters,0.09053156146179402
+Fourth Wing,85,negative,434,2119,Shadowhunters,0.2048135913166588
+Unravel Me,100,fear,406,3476,Shadowhunters,0.11680092059838895
+The Mortal Instruments 03 - Cit,1,positive,382,1894,Shadowhunters,0.2016895459345301
+Unravel Me,86,joy,353,5709,Shadowhunters,0.061832194780171656
+Unravel Me,100,sadness,351,3476,Shadowhunters,0.10097813578826237
+Unravel Me,96,anticipation,347,4816,Shadowhunters,0.07205149501661129
+Fourth Wing,85,fear,345,2119,Shadowhunters,0.16281264747522417
+Ignite Me,88,fear,343,2984,Shadowhunters,0.11494638069705093
+The Mortal Instruments 05 - Cit,25,positive,343,1883,Shadowhunters,0.18215613382899629
+The Mortal Instruments 06 - Cit,1,negative,342,2296,Shadowhunters,0.1489547038327526
+Unravel Me,95,negative,338,1558,Shadowhunters,0.21694480102695765
+The Mortal Instruments 05 - Cit,25,negative,336,1883,Shadowhunters,0.17843866171003717
+Fourth Wing,41,positive,332,1776,Shadowhunters,0.18693693693693694
+Unravel Me,100,anger,328,3476,Shadowhunters,0.09436133486766399
+Iron Flame,101,negative,323,1484,Shadowhunters,0.21765498652291104
+Unravel Me,86,surprise,320,5709,Shadowhunters,0.05605184795936241
+Unravel Me,86,disgust,319,5709,Shadowhunters,0.055876685934489405
+Fourth Wing,41,negative,300,1776,Shadowhunters,0.16891891891891891
+The Mortal Instruments 03 - Cit,1,negative,300,1894,Shadowhunters,0.1583949313621964
+Ignite Me,88,sadness,297,2984,Shadowhunters,0.09953083109919571
+Unravel Me,96,joy,297,4816,Shadowhunters,0.061669435215946845
+Ignite Me,88,anger,282,2984,Shadowhunters,0.09450402144772117
+Unravel Me,100,trust,277,3476,Shadowhunters,0.07968929804372843
+Ignite Me,88,trust,274,2984,Shadowhunters,0.0918230563002681
+Fourth Wing,71,negative,273,1326,Shadowhunters,0.20588235294117646
+Unravel Me,96,disgust,273,4816,Shadowhunters,0.056686046511627904
+The Mortal Instruments 06 - Cit,1,joy,271,2296,Shadowhunters,0.11803135888501742
+Fourth Wing,85,positive,265,2119,Shadowhunters,0.12505899008966492
+Unravel Me,96,surprise,265,4816,Shadowhunters,0.055024916943521594
+The Mortal Instruments 06 - Cit,1,trust,262,2296,Shadowhunters,0.11411149825783973
+Unravel Me,100,anticipation,259,3476,Shadowhunters,0.07451093210586882
+Fourth Wing,59,positive,251,1451,Shadowhunters,0.1729841488628532
+Fourth Wing,59,negative,250,1451,Shadowhunters,0.17229496898690558
+Unravel Me,98,negative,247,1204,Shadowhunters,0.20514950166112958
+Iron Flame,93,negative,246,1128,Shadowhunters,0.21808510638297873
+The Mortal Instruments 03 - Cit,1,trust,245,1894,Shadowhunters,0.1293558606124604
+Fourth Wing,77,negative,242,1332,Shadowhunters,0.1816816816816817
+Fourth Wing,80,positive,240,1304,Shadowhunters,0.18404907975460122
+Fourth Wing,85,anger,239,2119,Shadowhunters,0.11278905143935819
+Fourth Wing,45,positive,238,1203,Shadowhunters,0.19783873649210307
+The Mortal Instruments 06 - Cit,1,anticipation,236,2296,Shadowhunters,0.10278745644599303
+Iron Flame,109,positive,234,1335,Shadowhunters,0.1752808988764045
+Unravel Me,100,disgust,234,3476,Shadowhunters,0.06731875719217491
+Fourth Wing,68,negative,233,1115,Shadowhunters,0.20896860986547086
+Iron Flame,102,negative,233,1229,Shadowhunters,0.18958502847843775
+Iron Flame,109,negative,233,1335,Shadowhunters,0.1745318352059925
+Fourth Wing,67,negative,231,1211,Shadowhunters,0.1907514450867052
+Iron Flame,101,fear,230,1484,Shadowhunters,0.15498652291105122
+Fourth Wing,45,negative,225,1203,Shadowhunters,0.18703241895261846
+Iron Flame,104,negative,223,1165,Shadowhunters,0.19141630901287554
+Iron Flame,127,negative,223,1122,Shadowhunters,0.19875222816399288
+Onyx Storm (The Empyrean Book 3,92,positive,222,1139,Shadowhunters,0.19490781387181738
+Fourth Wing,77,positive,221,1332,Shadowhunters,0.16591591591591592
+Iron Flame,122,negative,216,1099,Shadowhunters,0.19654231119199272
+The Mortal Instruments 02 - Cit,1,positive,216,1199,Shadowhunters,0.18015012510425354
+Unravel Me,100,joy,216,3476,Shadowhunters,0.06214039125431531
+Fourth Wing,71,positive,215,1326,Shadowhunters,0.16214177978883862
+Ignite Me,88,anticipation,215,2984,Shadowhunters,0.07205093833780161
+Iron Flame,102,positive,215,1229,Shadowhunters,0.17493897477624085
+The Mortal Instruments 06 - Cit,1,sadness,215,2296,Shadowhunters,0.09364111498257839
+Iron Flame,78,negative,214,1138,Shadowhunters,0.18804920913884007
+Iron Flame,74,negative,213,1127,Shadowhunters,0.18899733806566105
+The Mortal Instruments 01 - Cit,1,positive,213,1081,Shadowhunters,0.19703977798334876
+Fourth Wing,85,sadness,212,2119,Shadowhunters,0.10004719207173195
+Fourth Wing,80,negative,211,1304,Shadowhunters,0.16180981595092025
+Unravel Me,100,surprise,211,3476,Shadowhunters,0.060701956271576527
+Iron Flame,68,positive,210,1088,Shadowhunters,0.19301470588235295
+Iron Flame,130,negative,210,1037,Shadowhunters,0.20250723240115717
+Fourth Wing,72,positive,209,1190,Shadowhunters,0.17563025210084032
+Iron Flame,104,positive,208,1165,Shadowhunters,0.17854077253218884
+The Mortal Instruments 02 - Cit,1,negative,208,1199,Shadowhunters,0.17347789824854046
+Fourth Wing,72,negative,206,1190,Shadowhunters,0.173109243697479
+Fourth Wing,79,negative,206,1248,Shadowhunters,0.16506410256410256
+Unravel Me,95,fear,206,1558,Shadowhunters,0.13222079589216945
+Fourth Wing,53,negative,205,1101,Shadowhunters,0.18619436875567666
+Fourth Wing,84,negative,203,971,Shadowhunters,0.2090628218331617
+Iron Flame,79,negative,202,978,Shadowhunters,0.2065439672801636
+The Mortal Instruments 05 - Cit,25,trust,202,1883,Shadowhunters,0.10727562400424855
+Fourth Wing,49,positive,201,996,Shadowhunters,0.20180722891566266
+Fourth Wing,67,positive,201,1211,Shadowhunters,0.16597853014037986
+Fourth Wing,73,positive,201,1098,Shadowhunters,0.1830601092896175
+Fourth Wing,81,negative,201,1077,Shadowhunters,0.18662952646239556
+Iron Flame,123,negative,201,1008,Shadowhunters,0.19940476190476192
+The Mortal Instruments 05 - Cit,25,fear,201,1883,Shadowhunters,0.10674455655868295
+Iron Flame,86,negative,200,1095,Shadowhunters,0.182648401826484
+Iron Flame,107,negative,200,1080,Shadowhunters,0.18518518518518517
+Fourth Wing,41,fear,198,1776,Shadowhunters,0.11148648648648649
+Iron Flame,101,positive,198,1484,Shadowhunters,0.1334231805929919
+The Mortal Instruments 03 - Cit,1,joy,197,1894,Shadowhunters,0.10401267159450897
+Fourth Wing,73,negative,196,1098,Shadowhunters,0.1785063752276867
+Fourth Wing,76,negative,193,943,Shadowhunters,0.2046659597030753
+Ignite Me,88,disgust,193,2984,Shadowhunters,0.06467828418230563
+Iron Flame,77,positive,193,1061,Shadowhunters,0.18190386427898209
+Unravel Me,98,positive,192,1204,Shadowhunters,0.15946843853820597
+Iron Flame,122,positive,191,1099,Shadowhunters,0.1737943585077343
+Fourth Wing,55,negative,190,1103,Shadowhunters,0.17225747960108795
+Iron Flame,74,positive,189,1127,Shadowhunters,0.16770186335403728
+Unravel Me,95,positive,189,1558,Shadowhunters,0.12130937098844673
+Onyx Storm (The Empyrean Book 3,92,negative,188,1139,Shadowhunters,0.16505706760316066
+Fourth Wing,88,negative,187,1111,Shadowhunters,0.16831683168316833
+Iron Flame,123,positive,187,1008,Shadowhunters,0.18551587301587302
+Iron Flame,86,positive,186,1095,Shadowhunters,0.16986301369863013
+Iron Flame,107,positive,186,1080,Shadowhunters,0.17222222222222222
+Onyx Storm (The Empyrean Book 3,76,negative,186,872,Shadowhunters,0.21330275229357798
+The Mortal Instruments 05 - Cit,25,sadness,186,1883,Shadowhunters,0.09877854487519915
+Fourth Wing,65,positive,185,1001,Shadowhunters,0.1848151848151848
+Fourth Wing,79,positive,185,1248,Shadowhunters,0.1482371794871795
+Ignite Me,88,joy,185,2984,Shadowhunters,0.06199731903485255
+Iron Flame,111,positive,185,816,Shadowhunters,0.2267156862745098
+Iron Flame,126,negative,185,887,Shadowhunters,0.20856820744081173
+Fourth Wing,70,positive,184,909,Shadowhunters,0.20242024202420242
+Fourth Wing,88,positive,183,1111,Shadowhunters,0.16471647164716471
+Iron Flame,106,positive,183,1026,Shadowhunters,0.1783625730994152
+Onyx Storm (The Empyrean Book 3,129,negative,183,870,Shadowhunters,0.2103448275862069
+Fourth Wing,55,positive,182,1103,Shadowhunters,0.16500453309156846
+Iron Flame,77,negative,182,1061,Shadowhunters,0.17153628652214892
+Fourth Wing,57,negative,181,841,Shadowhunters,0.21521997621878716
+Iron Flame,128,negative,180,797,Shadowhunters,0.2258469259723965
+Onyx Storm (The Empyrean Book 3,67,negative,180,891,Shadowhunters,0.20202020202020202
+Onyx Storm (The Empyrean Book 3,109,negative,180,1026,Shadowhunters,0.17543859649122806
+Fourth Wing,41,trust,177,1776,Shadowhunters,0.09966216216216216
+Fourth Wing,65,negative,175,1001,Shadowhunters,0.17482517482517482
+Iron Flame,68,negative,175,1088,Shadowhunters,0.16084558823529413
+Fourth Wing,49,negative,174,996,Shadowhunters,0.1746987951807229
+Onyx Storm (The Empyrean Book 3,87,positive,174,812,Shadowhunters,0.21428571428571427
+Iron Flame,85,negative,172,836,Shadowhunters,0.20574162679425836
+Fourth Wing,41,sadness,171,1776,Shadowhunters,0.09628378378378379
+Iron Flame,101,sadness,171,1484,Shadowhunters,0.11522911051212938
+The Mortal Instruments 03 - Cit,1,sadness,171,1894,Shadowhunters,0.09028511087645195
+Iron Flame,78,positive,170,1138,Shadowhunters,0.14938488576449913
+Iron Flame,106,negative,169,1026,Shadowhunters,0.16471734892787523
+Fourth Wing,59,anticipation,168,1451,Shadowhunters,0.11578221915920055
+Iron Flame,87,negative,168,950,Shadowhunters,0.17684210526315788
+Iron Flame,125,negative,168,810,Shadowhunters,0.2074074074074074
+Iron Flame,127,positive,168,1122,Shadowhunters,0.1497326203208556
+Fourth Wing,66,positive,167,858,Shadowhunters,0.19463869463869463
+Ignite Me,88,surprise,167,2984,Shadowhunters,0.05596514745308311
+Iron Flame,109,fear,167,1335,Shadowhunters,0.1250936329588015
+Iron Flame,114,negative,167,904,Shadowhunters,0.1847345132743363
+Fourth Wing,74,positive,166,803,Shadowhunters,0.20672478206724781
+Iron Flame,125,positive,165,810,Shadowhunters,0.2037037037037037
+Onyx Storm (The Empyrean Book 3,78,positive,165,860,Shadowhunters,0.19186046511627908
+Onyx Storm (The Empyrean Book 3,100,positive,165,819,Shadowhunters,0.20146520146520147
+Onyx Storm (The Empyrean Book 3,109,positive,165,1026,Shadowhunters,0.1608187134502924
+Iron Flame,67,positive,164,742,Shadowhunters,0.2210242587601078
+Fourth Wing,59,fear,163,1451,Shadowhunters,0.11233631977946244
+Unravel Me,95,anger,163,1558,Shadowhunters,0.10462130937098844
+The Mortal Instruments 03 - Cit,1,anticipation,162,1894,Shadowhunters,0.08553326293558607
+Fourth Wing,41,anger,161,1776,Shadowhunters,0.09065315315315316
+Onyx Storm (The Empyrean Book 3,72,positive,161,738,Shadowhunters,0.2181571815718157
+Onyx Storm (The Empyrean Book 3,101,positive,160,753,Shadowhunters,0.21248339973439576
+Fourth Wing,77,fear,159,1332,Shadowhunters,0.11936936936936937
+Iron Flame,75,positive,159,851,Shadowhunters,0.18683901292596944
+Iron Flame,127,fear,159,1122,Shadowhunters,0.14171122994652408
+Iron Flame,76,negative,158,811,Shadowhunters,0.19482120838471023
+Iron Flame,84,negative,157,783,Shadowhunters,0.20051085568326948
+Iron Flame,101,anger,157,1484,Shadowhunters,0.10579514824797843
+Iron Flame,110,negative,157,834,Shadowhunters,0.1882494004796163
+Iron Flame,118,positive,157,749,Shadowhunters,0.2096128170894526
+The Mortal Instruments 01 - Cit,1,negative,157,1081,Shadowhunters,0.1452358926919519
+Iron Flame,70,positive,156,838,Shadowhunters,0.18615751789976134
+Iron Flame,82,negative,156,808,Shadowhunters,0.19306930693069307
+Fourth Wing,76,positive,155,943,Shadowhunters,0.16436903499469777
+Iron Flame,130,positive,155,1037,Shadowhunters,0.14946962391513982
+Fourth Wing,53,positive,154,1101,Shadowhunters,0.13987284287011809
+Fourth Wing,85,trust,153,2119,Shadowhunters,0.07220386974988202
+Iron Flame,75,negative,153,851,Shadowhunters,0.1797884841363102
+Onyx Storm (The Empyrean Book 3,83,positive,153,733,Shadowhunters,0.208731241473397
+Onyx Storm (The Empyrean Book 3,130,negative,153,678,Shadowhunters,0.22566371681415928
+Fourth Wing,43,negative,152,775,Shadowhunters,0.19612903225806452
+Iron Flame,95,negative,152,784,Shadowhunters,0.19387755102040816
+Iron Flame,69,negative,151,886,Shadowhunters,0.17042889390519186
+Iron Flame,93,positive,151,1128,Shadowhunters,0.13386524822695037
+Iron Flame,96,negative,151,869,Shadowhunters,0.17376294591484465
+Fourth Wing,66,negative,150,858,Shadowhunters,0.17482517482517482
+Iron Flame,96,positive,150,869,Shadowhunters,0.17261219792865362
+Iron Flame,114,positive,150,904,Shadowhunters,0.16592920353982302
+Iron Flame,124,negative,150,780,Shadowhunters,0.19230769230769232
+Onyx Storm (The Empyrean Book 3,94,positive,150,714,Shadowhunters,0.21008403361344538
+Fourth Wing,71,anger,148,1326,Shadowhunters,0.11161387631975868
+Fourth Wing,71,fear,148,1326,Shadowhunters,0.11161387631975868
+The Mortal Instruments 05 - Cit,25,joy,148,1883,Shadowhunters,0.07859798194370685
+The Mortal Instruments 03 - Cit,1,fear,147,1894,Shadowhunters,0.07761351636747624
+The Mortal Instruments 06 - Cit,1,fear,147,2296,Shadowhunters,0.06402439024390244
+Fourth Wing,79,fear,146,1248,Shadowhunters,0.11698717948717949
+Iron Flame,69,positive,146,886,Shadowhunters,0.16478555304740405
+Iron Flame,126,positive,146,887,Shadowhunters,0.16459977452085683
+Iron Flame,70,negative,145,838,Shadowhunters,0.1730310262529833
+Onyx Storm (The Empyrean Book 3,67,positive,145,891,Shadowhunters,0.1627384960718294
+Fourth Wing,68,positive,144,1115,Shadowhunters,0.12914798206278028
+The Mortal Instruments 05 - Cit,25,anticipation,144,1883,Shadowhunters,0.07647371216144451
+Fourth Wing,68,fear,143,1115,Shadowhunters,0.12825112107623318
+Fourth Wing,80,trust,143,1304,Shadowhunters,0.10966257668711657
+Iron Flame,80,positive,143,676,Shadowhunters,0.21153846153846154
+Iron Flame,108,negative,143,756,Shadowhunters,0.18915343915343916
+Onyx Storm (The Empyrean Book 3,95,positive,143,679,Shadowhunters,0.2106038291605302
+Onyx Storm (The Empyrean Book 3,120,negative,143,636,Shadowhunters,0.2248427672955975
+Iron Flame,82,positive,142,808,Shadowhunters,0.17574257425742573
+Iron Flame,124,positive,142,780,Shadowhunters,0.18205128205128204
+Onyx Storm (The Empyrean Book 3,78,negative,142,860,Shadowhunters,0.16511627906976745
+Fourth Wing,67,fear,141,1211,Shadowhunters,0.11643270024772914
+Fourth Wing,84,fear,141,971,Shadowhunters,0.14521112255406798
+Fourth Wing,84,positive,141,971,Shadowhunters,0.14521112255406798
+Iron Flame,104,fear,141,1165,Shadowhunters,0.12103004291845494
+The Mortal Instruments 02 - Cit,1,trust,141,1199,Shadowhunters,0.11759799833194329
+Onyx Storm (The Empyrean Book 3,69,positive,140,694,Shadowhunters,0.2017291066282421
+Onyx Storm (The Empyrean Book 3,92,trust,140,1139,Shadowhunters,0.12291483757682177
+The Mortal Instruments 05 - Cit,25,anger,140,1883,Shadowhunters,0.07434944237918216
+Fourth Wing,61,positive,139,755,Shadowhunters,0.18410596026490067
+Fourth Wing,81,positive,139,1077,Shadowhunters,0.12906220984215414
+Fourth Wing,86,negative,139,663,Shadowhunters,0.2096530920060332
+Iron Flame,79,positive,139,978,Shadowhunters,0.14212678936605316
+Iron Flame,102,fear,139,1229,Shadowhunters,0.11310008136696502
+Onyx Storm (The Empyrean Book 3,85,positive,139,686,Shadowhunters,0.20262390670553937
+Unravel Me,83,negative,139,785,Shadowhunters,0.1770700636942675
+Unravel Me,95,sadness,139,1558,Shadowhunters,0.08921694480102696
+Fourth Wing,85,anticipation,138,2119,Shadowhunters,0.06512505899008966
+Fourth Wing,85,surprise,137,2119,Shadowhunters,0.06465313827277018
+Iron Flame,93,anger,137,1128,Shadowhunters,0.12145390070921985
+Iron Flame,103,positive,137,766,Shadowhunters,0.17885117493472585
+Iron Flame,130,fear,137,1037,Shadowhunters,0.13211186113789777
+Fourth Wing,41,anticipation,136,1776,Shadowhunters,0.07657657657657657
+Fourth Wing,43,positive,136,775,Shadowhunters,0.17548387096774193
+Fourth Wing,59,trust,136,1451,Shadowhunters,0.09372846312887664
+Iron Flame,74,fear,136,1127,Shadowhunters,0.12067435669920142
+Iron Flame,87,positive,136,950,Shadowhunters,0.1431578947368421
+Onyx Storm (The Empyrean Book 3,100,negative,136,819,Shadowhunters,0.16605616605616605
+Onyx Storm (The Empyrean Book 3,128,negative,136,676,Shadowhunters,0.20118343195266272
+Fourth Wing,59,anger,135,1451,Shadowhunters,0.09303928325292901
+Fourth Wing,69,positive,135,696,Shadowhunters,0.1939655172413793
+Fourth Wing,77,anger,135,1332,Shadowhunters,0.10135135135135136
+Iron Flame,103,negative,135,766,Shadowhunters,0.1762402088772846
+Onyx Storm (The Empyrean Book 3,83,negative,135,733,Shadowhunters,0.18417462482946795
+Fourth Wing,47,positive,134,727,Shadowhunters,0.1843191196698762
+The Mortal Instruments 01 - Cit,1,trust,134,1081,Shadowhunters,0.12395929694727105
+Iron Flame,84,positive,133,783,Shadowhunters,0.1698595146871009
+Onyx Storm (The Empyrean Book 3,71,negative,133,631,Shadowhunters,0.21077654516640254
+Onyx Storm (The Empyrean Book 3,110,positive,133,582,Shadowhunters,0.22852233676975944
+Onyx Storm (The Empyrean Book 3,129,positive,133,870,Shadowhunters,0.1528735632183908
+Unravel Me,98,fear,133,1204,Shadowhunters,0.11046511627906977
+Fourth Wing,63,negative,132,583,Shadowhunters,0.22641509433962265
+Onyx Storm (The Empyrean Book 3,80,positive,132,628,Shadowhunters,0.21019108280254778
+Onyx Storm (The Empyrean Book 3,111,negative,132,712,Shadowhunters,0.1853932584269663
+Fourth Wing,53,anger,131,1101,Shadowhunters,0.11898274296094459
+Iron Flame,93,fear,131,1128,Shadowhunters,0.11613475177304965
+Iron Flame,102,trust,131,1229,Shadowhunters,0.10659072416598861
+Onyx Storm (The Empyrean Book 3,94,negative,131,714,Shadowhunters,0.18347338935574228
+The Mortal Instruments 06 - Cit,1,anger,131,2296,Shadowhunters,0.057055749128919864
+Fourth Wing,61,negative,130,755,Shadowhunters,0.17218543046357615
+Fourth Wing,70,negative,130,909,Shadowhunters,0.14301430143014301
+Onyx Storm (The Empyrean Book 3,73,positive,130,615,Shadowhunters,0.21138211382113822
+Onyx Storm (The Empyrean Book 3,93,negative,130,685,Shadowhunters,0.1897810218978102
+Iron Flame,79,fear,129,978,Shadowhunters,0.13190184049079753
+Fourth Wing,67,trust,128,1211,Shadowhunters,0.10569777043765483
+Fourth Wing,69,negative,128,696,Shadowhunters,0.1839080459770115
+Fourth Wing,79,anger,128,1248,Shadowhunters,0.10256410256410256
+Iron Flame,79,anger,128,978,Shadowhunters,0.130879345603272
+Iron Flame,109,trust,128,1335,Shadowhunters,0.09588014981273409
+Iron Flame,110,positive,128,834,Shadowhunters,0.15347721822541965
+Onyx Storm (The Empyrean Book 3,86,positive,128,589,Shadowhunters,0.21731748726655348
+Onyx Storm (The Empyrean Book 3,89,positive,127,601,Shadowhunters,0.2113144758735441
+Unravel Me,95,trust,127,1558,Shadowhunters,0.08151476251604621
+Fourth Wing,68,anger,126,1115,Shadowhunters,0.11300448430493273
+Iron Flame,101,trust,126,1484,Shadowhunters,0.08490566037735849
+Onyx Storm (The Empyrean Book 3,87,negative,126,812,Shadowhunters,0.15517241379310345
+Fourth Wing,45,fear,125,1203,Shadowhunters,0.10390689941812137
+Fourth Wing,47,negative,125,727,Shadowhunters,0.171939477303989
+Fourth Wing,77,anticipation,125,1332,Shadowhunters,0.09384384384384384
+Iron Flame,105,negative,125,633,Shadowhunters,0.19747235387045814
+Iron Flame,118,negative,125,749,Shadowhunters,0.16688918558077437
+Fourth Wing,60,positive,124,689,Shadowhunters,0.1799709724238026
+Fourth Wing,72,fear,124,1190,Shadowhunters,0.10420168067226891
+Iron Flame,74,anger,124,1127,Shadowhunters,0.11002661934338953
+Onyx Storm (The Empyrean Book 3,85,negative,124,686,Shadowhunters,0.18075801749271136
+Fourth Wing,45,trust,123,1203,Shadowhunters,0.10224438902743142
+Iron Flame,89,positive,123,661,Shadowhunters,0.18608169440242056
+Iron Flame,109,anticipation,123,1335,Shadowhunters,0.09213483146067415
+Iron Flame,111,negative,123,816,Shadowhunters,0.15073529411764705
+Iron Flame,120,negative,123,552,Shadowhunters,0.22282608695652173
+Fourth Wing,60,negative,122,689,Shadowhunters,0.17706821480406387
+Fourth Wing,85,disgust,122,2119,Shadowhunters,0.05757432751297782
+Fourth Wing,88,fear,122,1111,Shadowhunters,0.10981098109810981
+Unravel Me,83,positive,122,785,Shadowhunters,0.1554140127388535
+Fourth Wing,51,negative,121,682,Shadowhunters,0.1774193548387097
+Fourth Wing,75,positive,121,650,Shadowhunters,0.18615384615384614
+Fourth Wing,78,negative,121,699,Shadowhunters,0.17310443490701002
+Fourth Wing,80,anticipation,121,1304,Shadowhunters,0.09279141104294479
+Iron Flame,71,positive,121,577,Shadowhunters,0.2097053726169844
+Iron Flame,93,sadness,121,1128,Shadowhunters,0.10726950354609929
+Iron Flame,130,anger,121,1037,Shadowhunters,0.11668273866923819
+Onyx Storm (The Empyrean Book 3,71,positive,121,631,Shadowhunters,0.19175911251980982
+Onyx Storm (The Empyrean Book 3,104,positive,121,603,Shadowhunters,0.20066334991708126
+Onyx Storm (The Empyrean Book 3,111,positive,121,712,Shadowhunters,0.1699438202247191
+Unravel Me,76,negative,121,575,Shadowhunters,0.21043478260869566
+Fourth Wing,67,anger,120,1211,Shadowhunters,0.0990916597853014
+Iron Flame,78,fear,120,1138,Shadowhunters,0.1054481546572935
+Iron Flame,86,fear,120,1095,Shadowhunters,0.1095890410958904
+Iron Flame,113,negative,120,524,Shadowhunters,0.22900763358778625
+Iron Flame,123,fear,120,1008,Shadowhunters,0.11904761904761904
+Unravel Me,98,sadness,120,1204,Shadowhunters,0.09966777408637874
+Fourth Wing,64,positive,119,508,Shadowhunters,0.234251968503937
+Fourth Wing,72,trust,119,1190,Shadowhunters,0.1
+Fourth Wing,81,anger,119,1077,Shadowhunters,0.11049210770659239
+Iron Flame,68,fear,119,1088,Shadowhunters,0.109375
+Iron Flame,95,positive,119,784,Shadowhunters,0.15178571428571427
+Iron Flame,122,anger,119,1099,Shadowhunters,0.10828025477707007
+Iron Flame,122,fear,119,1099,Shadowhunters,0.10828025477707007
+Onyx Storm (The Empyrean Book 3,113,positive,119,644,Shadowhunters,0.18478260869565216
+Onyx Storm (The Empyrean Book 3,117,negative,119,584,Shadowhunters,0.20376712328767124
+The Mortal Instruments 03 - Cit,1,anger,119,1894,Shadowhunters,0.06282998944033791
+Fourth Wing,51,positive,118,682,Shadowhunters,0.17302052785923755
+Fourth Wing,59,sadness,118,1451,Shadowhunters,0.08132322536181943
+Fourth Wing,72,anticipation,118,1190,Shadowhunters,0.09915966386554621
+Fourth Wing,81,fear,118,1077,Shadowhunters,0.1095636025998143
+Iron Flame,89,negative,118,661,Shadowhunters,0.17851739788199697
+Onyx Storm (The Empyrean Book 3,79,positive,118,568,Shadowhunters,0.20774647887323944
+Fourth Wing,68,sadness,117,1115,Shadowhunters,0.10493273542600896
+Fourth Wing,74,negative,117,803,Shadowhunters,0.14570361145703611
+Iron Flame,77,trust,117,1061,Shadowhunters,0.11027332704995288
+Onyx Storm (The Empyrean Book 3,69,negative,117,694,Shadowhunters,0.1685878962536023
+Onyx Storm (The Empyrean Book 3,77,negative,117,548,Shadowhunters,0.21350364963503649
+Onyx Storm (The Empyrean Book 3,118,negative,117,536,Shadowhunters,0.21828358208955223
+Iron Flame,128,positive,116,797,Shadowhunters,0.14554579673776663
+Onyx Storm (The Empyrean Book 3,68,positive,116,635,Shadowhunters,0.1826771653543307
+Onyx Storm (The Empyrean Book 3,101,negative,116,753,Shadowhunters,0.15405046480743692
+The Mortal Instruments 06 - Cit,1,surprise,116,2296,Shadowhunters,0.050522648083623695
+Fourth Wing,62,negative,115,659,Shadowhunters,0.17450682852807284
+Fourth Wing,65,fear,115,1001,Shadowhunters,0.11488511488511488
+Fourth Wing,79,sadness,115,1248,Shadowhunters,0.0921474358974359
+Fourth Wing,80,fear,115,1304,Shadowhunters,0.08819018404907976
+Iron Flame,74,trust,115,1127,Shadowhunters,0.10204081632653061
+Iron Flame,80,negative,115,676,Shadowhunters,0.17011834319526628
+Iron Flame,102,anticipation,115,1229,Shadowhunters,0.0935720097640358
+Iron Flame,104,trust,115,1165,Shadowhunters,0.09871244635193133
+Iron Flame,108,positive,115,756,Shadowhunters,0.15211640211640212
+Iron Flame,109,sadness,115,1335,Shadowhunters,0.08614232209737828
+Iron Flame,129,negative,115,558,Shadowhunters,0.2060931899641577
+The Mortal Instruments 02 - Cit,1,anticipation,115,1199,Shadowhunters,0.09591326105087573
+Fourth Wing,55,trust,114,1103,Shadowhunters,0.10335448776065277
+Iron Flame,85,positive,114,836,Shadowhunters,0.13636363636363635
+Iron Flame,104,anger,114,1165,Shadowhunters,0.09785407725321889
+Iron Flame,106,anger,114,1026,Shadowhunters,0.1111111111111111
+Iron Flame,127,anger,114,1122,Shadowhunters,0.10160427807486631
+Onyx Storm (The Empyrean Book 3,66,negative,114,510,Shadowhunters,0.2235294117647059
+Onyx Storm (The Empyrean Book 3,73,negative,114,615,Shadowhunters,0.18536585365853658
+Onyx Storm (The Empyrean Book 3,92,fear,114,1139,Shadowhunters,0.10008779631255488
+Onyx Storm (The Empyrean Book 3,98,negative,114,543,Shadowhunters,0.20994475138121546
+Onyx Storm (The Empyrean Book 3,117,positive,114,584,Shadowhunters,0.1952054794520548
+Onyx Storm (The Empyrean Book 3,126,negative,114,609,Shadowhunters,0.18719211822660098
+Fourth Wing,72,anger,113,1190,Shadowhunters,0.0949579831932773
+Fourth Wing,79,surprise,113,1248,Shadowhunters,0.09054487179487179
+Fourth Wing,80,anger,113,1304,Shadowhunters,0.08665644171779141
+Iron Flame,76,positive,113,811,Shadowhunters,0.13933415536374846
+Iron Flame,128,fear,113,797,Shadowhunters,0.14178168130489335
+Fourth Wing,53,fear,112,1101,Shadowhunters,0.10172570390554042
+Fourth Wing,78,positive,112,699,Shadowhunters,0.16022889842632332
+Ignite Me,84,negative,112,456,Shadowhunters,0.24561403508771928
+Iron Flame,68,trust,112,1088,Shadowhunters,0.10294117647058823
+Onyx Storm (The Empyrean Book 3,76,positive,112,872,Shadowhunters,0.12844036697247707
+Onyx Storm (The Empyrean Book 3,90,positive,112,610,Shadowhunters,0.18360655737704917
+Onyx Storm (The Empyrean Book 3,91,negative,112,591,Shadowhunters,0.1895093062605753
+The Mortal Instruments 01 - Cit,1,joy,112,1081,Shadowhunters,0.1036077705827937
+The Mortal Instruments 02 - Cit,1,joy,112,1199,Shadowhunters,0.09341117597998332
+Iron Flame,77,fear,111,1061,Shadowhunters,0.10461828463713478
+Iron Flame,86,trust,111,1095,Shadowhunters,0.10136986301369863
+Iron Flame,110,fear,111,834,Shadowhunters,0.13309352517985612
+Iron Flame,127,sadness,111,1122,Shadowhunters,0.09893048128342247
+Onyx Storm (The Empyrean Book 3,68,negative,111,635,Shadowhunters,0.17480314960629922
+Onyx Storm (The Empyrean Book 3,72,negative,111,738,Shadowhunters,0.15040650406504066
+Onyx Storm (The Empyrean Book 3,84,positive,111,531,Shadowhunters,0.20903954802259886
+The Mortal Instruments 02 - Cit,1,sadness,111,1199,Shadowhunters,0.09257714762301918
+Fourth Wing,49,fear,110,996,Shadowhunters,0.11044176706827309
+Fourth Wing,57,positive,110,841,Shadowhunters,0.13079667063020214
+Fourth Wing,70,trust,110,909,Shadowhunters,0.12101210121012101
+Fourth Wing,88,sadness,110,1111,Shadowhunters,0.09900990099009901
+Ignite Me,85,negative,110,530,Shadowhunters,0.20754716981132076
+Ignite Me,87,negative,110,568,Shadowhunters,0.1936619718309859
+Iron Flame,102,sadness,110,1229,Shadowhunters,0.08950366151342555
+Iron Flame,105,positive,110,633,Shadowhunters,0.17377567140600317
+Iron Flame,112,negative,110,636,Shadowhunters,0.17295597484276728
+Onyx Storm (The Empyrean Book 3,76,fear,110,872,Shadowhunters,0.12614678899082568
+Onyx Storm (The Empyrean Book 3,80,negative,110,628,Shadowhunters,0.1751592356687898
+Onyx Storm (The Empyrean Book 3,109,fear,110,1026,Shadowhunters,0.10721247563352826
+Unravel Me,98,anticipation,110,1204,Shadowhunters,0.09136212624584718
+Fourth Wing,81,anticipation,109,1077,Shadowhunters,0.10120705663881151
+Iron Flame,112,positive,109,636,Shadowhunters,0.17138364779874213
+Onyx Storm (The Empyrean Book 3,113,negative,109,644,Shadowhunters,0.16925465838509315
+The Mortal Instruments 01 - Cit,1,sadness,109,1081,Shadowhunters,0.10083256244218317
+Unravel Me,95,disgust,109,1558,Shadowhunters,0.0699614890885751
+Fourth Wing,45,anger,108,1203,Shadowhunters,0.08977556109725686
+Fourth Wing,79,anticipation,108,1248,Shadowhunters,0.08653846153846154
+Fourth Wing,81,sadness,108,1077,Shadowhunters,0.10027855153203342
+Iron Flame,107,fear,108,1080,Shadowhunters,0.1
+Iron Flame,123,anger,108,1008,Shadowhunters,0.10714285714285714
+Fourth Wing,57,fear,107,841,Shadowhunters,0.1272294887039239
+Iron Flame,67,negative,107,742,Shadowhunters,0.14420485175202155
+Iron Flame,78,anger,107,1138,Shadowhunters,0.09402460456942004
+Iron Flame,83,positive,107,526,Shadowhunters,0.20342205323193915
+Iron Flame,87,anger,107,950,Shadowhunters,0.11263157894736842
+Iron Flame,87,fear,107,950,Shadowhunters,0.11263157894736842
+Iron Flame,107,anger,107,1080,Shadowhunters,0.09907407407407408
+Iron Flame,107,sadness,107,1080,Shadowhunters,0.09907407407407408
+Onyx Storm (The Empyrean Book 3,107,positive,107,502,Shadowhunters,0.21314741035856574
+Onyx Storm (The Empyrean Book 3,128,positive,107,676,Shadowhunters,0.15828402366863906
+Onyx Storm (The Empyrean Book 3,129,fear,107,870,Shadowhunters,0.12298850574712644
+Fourth Wing,53,disgust,106,1101,Shadowhunters,0.09627611262488647
+Fourth Wing,55,fear,106,1103,Shadowhunters,0.09610154125113328
+Fourth Wing,73,anger,106,1098,Shadowhunters,0.0965391621129326
+Fourth Wing,80,sadness,106,1304,Shadowhunters,0.08128834355828221
+Iron Flame,119,negative,106,643,Shadowhunters,0.16485225505443235
+Onyx Storm (The Empyrean Book 3,101,trust,106,753,Shadowhunters,0.1407702523240372
+Fourth Wing,41,disgust,105,1776,Shadowhunters,0.05912162162162162
+Fourth Wing,49,trust,105,996,Shadowhunters,0.10542168674698796
+Fourth Wing,73,fear,105,1098,Shadowhunters,0.09562841530054644
+Fourth Wing,76,fear,105,943,Shadowhunters,0.11134676564156946
+Fourth Wing,76,trust,105,943,Shadowhunters,0.11134676564156946
+Fourth Wing,86,fear,105,663,Shadowhunters,0.1583710407239819
+Iron Flame,78,trust,105,1138,Shadowhunters,0.09226713532513181
+Iron Flame,109,anger,105,1335,Shadowhunters,0.07865168539325842
+Iron Flame,119,positive,105,643,Shadowhunters,0.16329704510108864
+Onyx Storm (The Empyrean Book 3,75,negative,105,541,Shadowhunters,0.19408502772643252
+Onyx Storm (The Empyrean Book 3,109,anger,105,1026,Shadowhunters,0.1023391812865497
+Onyx Storm (The Empyrean Book 3,109,trust,105,1026,Shadowhunters,0.1023391812865497
+Onyx Storm (The Empyrean Book 3,114,negative,105,489,Shadowhunters,0.2147239263803681
+Unravel Me,95,anticipation,105,1558,Shadowhunters,0.06739409499358151
+Unravel Me,98,trust,105,1204,Shadowhunters,0.0872093023255814
+Fourth Wing,41,joy,104,1776,Shadowhunters,0.05855855855855856
+Fourth Wing,55,anticipation,104,1103,Shadowhunters,0.0942883046237534
+Fourth Wing,57,anger,104,841,Shadowhunters,0.12366230677764566
+Fourth Wing,71,sadness,104,1326,Shadowhunters,0.0784313725490196
+Fourth Wing,73,trust,104,1098,Shadowhunters,0.0947176684881603
+Fourth Wing,82,negative,104,559,Shadowhunters,0.18604651162790697
+Fourth Wing,88,trust,104,1111,Shadowhunters,0.09360936093609361
+Iron Flame,106,trust,104,1026,Shadowhunters,0.10136452241715399
+Iron Flame,107,trust,104,1080,Shadowhunters,0.0962962962962963
+Onyx Storm (The Empyrean Book 3,75,positive,104,541,Shadowhunters,0.1922365988909427
+Onyx Storm (The Empyrean Book 3,116,negative,104,467,Shadowhunters,0.22269807280513917
+Fourth Wing,71,trust,103,1326,Shadowhunters,0.07767722473604827
+Fourth Wing,77,sadness,103,1332,Shadowhunters,0.07732732732732733
+Fourth Wing,84,anger,103,971,Shadowhunters,0.10607621009268794
+Fourth Wing,88,anger,103,1111,Shadowhunters,0.0927092709270927
+Iron Flame,75,fear,103,851,Shadowhunters,0.12103407755581669
+Iron Flame,98,negative,103,549,Shadowhunters,0.18761384335154827
+Onyx Storm (The Empyrean Book 3,70,positive,103,552,Shadowhunters,0.18659420289855072
+Onyx Storm (The Empyrean Book 3,72,trust,103,738,Shadowhunters,0.13956639566395665
+Onyx Storm (The Empyrean Book 3,95,negative,103,679,Shadowhunters,0.15169366715758467
+Shatter Me,14,negative,103,332,Shadowhunters,0.3102409638554217
+Unravel Me,77,positive,103,458,Shadowhunters,0.22489082969432314
+Fourth Wing,65,anger,102,1001,Shadowhunters,0.1018981018981019
+Fourth Wing,65,trust,102,1001,Shadowhunters,0.1018981018981019
+Fourth Wing,75,negative,102,650,Shadowhunters,0.15692307692307692
+Iron Flame,77,anticipation,102,1061,Shadowhunters,0.09613572101790764
+Iron Flame,78,anticipation,102,1138,Shadowhunters,0.08963093145869948
+Iron Flame,85,fear,102,836,Shadowhunters,0.12200956937799043
+Iron Flame,86,anticipation,102,1095,Shadowhunters,0.09315068493150686
+Iron Flame,95,fear,102,784,Shadowhunters,0.13010204081632654
+Iron Flame,106,fear,102,1026,Shadowhunters,0.09941520467836257
+Iron Flame,122,trust,102,1099,Shadowhunters,0.09281164695177434
+Onyx Storm (The Empyrean Book 3,110,negative,102,582,Shadowhunters,0.17525773195876287
+Unravel Me,80,negative,102,450,Shadowhunters,0.22666666666666666
+Fourth Wing,73,anticipation,101,1098,Shadowhunters,0.09198542805100182
+Iron Flame,83,negative,101,526,Shadowhunters,0.1920152091254753
+Onyx Storm (The Empyrean Book 3,67,trust,101,891,Shadowhunters,0.11335578002244669
+Onyx Storm (The Empyrean Book 3,91,positive,101,591,Shadowhunters,0.17089678510998307
+Onyx Storm (The Empyrean Book 3,92,anger,101,1139,Shadowhunters,0.08867427568042142
+Fourth Wing,67,sadness,100,1211,Shadowhunters,0.08257638315441784
+Fourth Wing,76,anger,100,943,Shadowhunters,0.10604453870625663
+Fourth Wing,77,trust,100,1332,Shadowhunters,0.07507507507507508
+Iron Flame,68,anticipation,100,1088,Shadowhunters,0.09191176470588236
+Iron Flame,69,trust,100,886,Shadowhunters,0.11286681715575621
+Iron Flame,86,sadness,100,1095,Shadowhunters,0.091324200913242
+Iron Flame,104,anticipation,100,1165,Shadowhunters,0.08583690987124463
+Onyx Storm (The Empyrean Book 3,76,anger,100,872,Shadowhunters,0.11467889908256881
+Onyx Storm (The Empyrean Book 3,130,fear,100,678,Shadowhunters,0.14749262536873156
+Fourth Wing,62,positive,99,659,Shadowhunters,0.15022761760242792
+Iron Flame,70,fear,99,838,Shadowhunters,0.11813842482100238
+Iron Flame,76,fear,99,811,Shadowhunters,0.1220715166461159
+Iron Flame,115,positive,99,514,Shadowhunters,0.1926070038910506
+Onyx Storm (The Empyrean Book 3,90,negative,99,610,Shadowhunters,0.16229508196721312
+Onyx Storm (The Empyrean Book 3,103,positive,99,586,Shadowhunters,0.1689419795221843
+Fourth Wing,83,negative,98,522,Shadowhunters,0.18773946360153257
+Iron Flame,87,trust,98,950,Shadowhunters,0.1031578947368421
+Iron Flame,98,positive,98,549,Shadowhunters,0.1785063752276867
+Iron Flame,114,anger,98,904,Shadowhunters,0.1084070796460177
+Iron Flame,126,fear,98,887,Shadowhunters,0.1104847801578354
+Onyx Storm (The Empyrean Book 3,87,trust,98,812,Shadowhunters,0.1206896551724138
+Onyx Storm (The Empyrean Book 3,88,positive,98,398,Shadowhunters,0.24623115577889448
+Onyx Storm (The Empyrean Book 3,121,positive,98,418,Shadowhunters,0.23444976076555024
+The Mortal Instruments 02 - Cit,1,fear,98,1199,Shadowhunters,0.0817347789824854
+Fourth Wing,66,trust,97,858,Shadowhunters,0.11305361305361306
+Fourth Wing,71,anticipation,97,1326,Shadowhunters,0.07315233785822021
+Fourth Wing,79,trust,97,1248,Shadowhunters,0.07772435897435898
+Iron Flame,77,anger,97,1061,Shadowhunters,0.09142318567389256
+Iron Flame,85,anger,97,836,Shadowhunters,0.11602870813397129
+Iron Flame,111,trust,97,816,Shadowhunters,0.11887254901960784
+Iron Flame,122,anticipation,97,1099,Shadowhunters,0.08826205641492266
+Onyx Storm (The Empyrean Book 3,120,positive,97,636,Shadowhunters,0.15251572327044025
+Onyx Storm (The Empyrean Book 3,67,fear,96,891,Shadowhunters,0.10774410774410774
+Onyx Storm (The Empyrean Book 3,70,negative,96,552,Shadowhunters,0.17391304347826086
+Onyx Storm (The Empyrean Book 3,79,negative,96,568,Shadowhunters,0.16901408450704225
+Shatter Me,12,negative,96,349,Shadowhunters,0.27507163323782235
+Shatter Me,14,fear,96,332,Shadowhunters,0.2891566265060241
+Fourth Wing,53,trust,95,1101,Shadowhunters,0.08628519527702089
+Fourth Wing,80,joy,95,1304,Shadowhunters,0.07285276073619631
+Iron Flame,91,positive,95,475,Shadowhunters,0.2
+Iron Flame,99,positive,95,495,Shadowhunters,0.1919191919191919
+Iron Flame,102,anger,95,1229,Shadowhunters,0.07729861676159479
+Iron Flame,104,sadness,95,1165,Shadowhunters,0.0815450643776824
+Iron Flame,130,sadness,95,1037,Shadowhunters,0.09161041465766634
+Onyx Storm (The Empyrean Book 3,93,fear,95,685,Shadowhunters,0.1386861313868613
+Onyx Storm (The Empyrean Book 3,93,positive,95,685,Shadowhunters,0.1386861313868613
+Onyx Storm (The Empyrean Book 3,98,positive,95,543,Shadowhunters,0.17495395948434622
+Onyx Storm (The Empyrean Book 3,104,negative,95,603,Shadowhunters,0.15754560530679934
+Onyx Storm (The Empyrean Book 3,128,fear,95,676,Shadowhunters,0.14053254437869822
+The Mortal Instruments 01 - Cit,1,anticipation,95,1081,Shadowhunters,0.08788159111933395
+Fourth Wing,45,anticipation,94,1203,Shadowhunters,0.07813798836242726
+Fourth Wing,55,anger,94,1103,Shadowhunters,0.08522212148685404
+Fourth Wing,55,sadness,94,1103,Shadowhunters,0.08522212148685404
+Fourth Wing,84,sadness,94,971,Shadowhunters,0.09680741503604531
+Iron Flame,68,sadness,94,1088,Shadowhunters,0.08639705882352941
+Iron Flame,96,fear,94,869,Shadowhunters,0.10817031070195628
+Iron Flame,96,trust,94,869,Shadowhunters,0.10817031070195628
+Iron Flame,127,anticipation,94,1122,Shadowhunters,0.08377896613190731
+Iron Flame,130,trust,94,1037,Shadowhunters,0.09064609450337512
+Onyx Storm (The Empyrean Book 3,99,positive,94,434,Shadowhunters,0.21658986175115208
+Onyx Storm (The Empyrean Book 3,103,negative,94,586,Shadowhunters,0.16040955631399317
+Onyx Storm (The Empyrean Book 3,125,negative,94,440,Shadowhunters,0.21363636363636362
+Onyx Storm (The Empyrean Book 3,129,anger,94,870,Shadowhunters,0.10804597701149425
+Fourth Wing,74,fear,93,803,Shadowhunters,0.11581569115815692
+Fourth Wing,82,positive,93,559,Shadowhunters,0.16636851520572452
+Onyx Storm (The Empyrean Book 3,78,fear,93,860,Shadowhunters,0.10813953488372093
+Onyx Storm (The Empyrean Book 3,112,positive,93,447,Shadowhunters,0.2080536912751678
+Onyx Storm (The Empyrean Book 3,126,positive,93,609,Shadowhunters,0.15270935960591134
+The Mortal Instruments 05 - Cit,25,disgust,93,1883,Shadowhunters,0.04938927243759957
+Fourth Wing,41,surprise,92,1776,Shadowhunters,0.0518018018018018
+Fourth Wing,43,fear,92,775,Shadowhunters,0.11870967741935484
+Fourth Wing,71,surprise,92,1326,Shadowhunters,0.0693815987933635
+Iron Flame,69,fear,92,886,Shadowhunters,0.1038374717832957
+Iron Flame,78,sadness,92,1138,Shadowhunters,0.08084358523725835
+Iron Flame,86,anger,92,1095,Shadowhunters,0.08401826484018265
+Iron Flame,94,negative,92,477,Shadowhunters,0.1928721174004193
+Iron Flame,115,negative,92,514,Shadowhunters,0.17898832684824903
+Iron Flame,124,anger,92,780,Shadowhunters,0.11794871794871795
+Onyx Storm (The Empyrean Book 3,84,negative,92,531,Shadowhunters,0.17325800376647835
+Onyx Storm (The Empyrean Book 3,129,sadness,92,870,Shadowhunters,0.10574712643678161
+Unravel Me,95,joy,92,1558,Shadowhunters,0.059050064184852376
+Iron Flame,99,negative,91,495,Shadowhunters,0.18383838383838383
+Iron Flame,108,fear,91,756,Shadowhunters,0.12037037037037036
+Iron Flame,120,fear,91,552,Shadowhunters,0.16485507246376813
+Iron Flame,126,sadness,91,887,Shadowhunters,0.10259301014656144
+Iron Flame,127,trust,91,1122,Shadowhunters,0.08110516934046345
+Onyx Storm (The Empyrean Book 3,67,anger,91,891,Shadowhunters,0.10213243546576879
+Onyx Storm (The Empyrean Book 3,89,negative,91,601,Shadowhunters,0.15141430948419302
+Onyx Storm (The Empyrean Book 3,109,sadness,91,1026,Shadowhunters,0.08869395711500974
+Shatter Me,14,anger,91,332,Shadowhunters,0.2740963855421687
+The Mortal Instruments 03 - Cit,1,surprise,91,1894,Shadowhunters,0.04804646251319958
+Fourth Wing,45,sadness,90,1203,Shadowhunters,0.07481296758104738
+Fourth Wing,49,anger,90,996,Shadowhunters,0.09036144578313253
+Fourth Wing,66,fear,90,858,Shadowhunters,0.1048951048951049
+Fourth Wing,84,trust,90,971,Shadowhunters,0.09268795056642637
+Iron Flame,67,trust,90,742,Shadowhunters,0.12129380053908356
+Iron Flame,114,fear,90,904,Shadowhunters,0.09955752212389381
+Onyx Storm (The Empyrean Book 3,86,negative,90,589,Shadowhunters,0.15280135823429541
+The Mortal Instruments 05 - Cit,25,surprise,90,1883,Shadowhunters,0.04779607010090282
+Unravel Me,95,surprise,90,1558,Shadowhunters,0.057766367137355584
+Fourth Wing,53,sadness,89,1101,Shadowhunters,0.08083560399636694
+Fourth Wing,67,anticipation,89,1211,Shadowhunters,0.07349298100743187
+Fourth Wing,80,surprise,89,1304,Shadowhunters,0.06825153374233128
+Fourth Wing,83,positive,89,522,Shadowhunters,0.17049808429118773
+Fourth Wing,88,anticipation,89,1111,Shadowhunters,0.08010801080108011
+Fourth Wing,88,joy,89,1111,Shadowhunters,0.08010801080108011
+Iron Flame,68,anger,89,1088,Shadowhunters,0.0818014705882353
+Iron Flame,70,trust,89,838,Shadowhunters,0.10620525059665871
+Iron Flame,75,trust,89,851,Shadowhunters,0.1045828437132785
+Iron Flame,91,negative,89,475,Shadowhunters,0.18736842105263157
+Iron Flame,93,anticipation,89,1128,Shadowhunters,0.07890070921985816
+Iron Flame,128,anger,89,797,Shadowhunters,0.11166875784190715
+Onyx Storm (The Empyrean Book 3,109,anticipation,89,1026,Shadowhunters,0.08674463937621832
+Fourth Wing,59,surprise,88,1451,Shadowhunters,0.06064782908339077
+Fourth Wing,65,sadness,88,1001,Shadowhunters,0.08791208791208792
+Fourth Wing,68,anticipation,88,1115,Shadowhunters,0.07892376681614349
+Ignite Me,87,positive,88,568,Shadowhunters,0.15492957746478872
+Iron Flame,80,trust,88,676,Shadowhunters,0.1301775147928994
+Iron Flame,87,sadness,88,950,Shadowhunters,0.09263157894736843
+Iron Flame,110,anger,88,834,Shadowhunters,0.10551558752997602
+Iron Flame,123,trust,88,1008,Shadowhunters,0.0873015873015873
+Onyx Storm (The Empyrean Book 3,92,anticipation,88,1139,Shadowhunters,0.07726075504828797
+Onyx Storm (The Empyrean Book 3,95,trust,88,679,Shadowhunters,0.12960235640648013
+Onyx Storm (The Empyrean Book 3,105,negative,88,430,Shadowhunters,0.20465116279069767
+Iron Flame,71,negative,87,577,Shadowhunters,0.15077989601386482
+Iron Flame,101,anticipation,87,1484,Shadowhunters,0.05862533692722372
+Iron Flame,103,fear,87,766,Shadowhunters,0.11357702349869452
+Onyx Storm (The Empyrean Book 3,92,sadness,87,1139,Shadowhunters,0.07638279192273925
+Onyx Storm (The Empyrean Book 3,123,negative,87,451,Shadowhunters,0.19290465631929046
+Unravel Me,75,negative,87,452,Shadowhunters,0.19247787610619468
+Unravel Me,98,anger,87,1204,Shadowhunters,0.07225913621262459
+Unravel Me,98,surprise,87,1204,Shadowhunters,0.07225913621262459
+Fourth Wing,43,anger,86,775,Shadowhunters,0.11096774193548387
+Fourth Wing,68,trust,86,1115,Shadowhunters,0.07713004484304933
+Fourth Wing,73,sadness,86,1098,Shadowhunters,0.07832422586520947
+Fourth Wing,74,trust,86,803,Shadowhunters,0.10709838107098381
+Iron Flame,73,positive,86,395,Shadowhunters,0.21772151898734177
+Iron Flame,74,disgust,86,1127,Shadowhunters,0.07630878438331855
+Iron Flame,75,anger,86,851,Shadowhunters,0.10105757931844889
+Iron Flame,79,anticipation,86,978,Shadowhunters,0.08793456032719836
+Iron Flame,84,anger,86,783,Shadowhunters,0.10983397190293742
+Iron Flame,123,anticipation,86,1008,Shadowhunters,0.08531746031746032
+Onyx Storm (The Empyrean Book 3,85,fear,86,686,Shadowhunters,0.12536443148688048
+Onyx Storm (The Empyrean Book 3,123,positive,86,451,Shadowhunters,0.19068736141906872
+Onyx Storm (The Empyrean Book 3,130,positive,86,678,Shadowhunters,0.12684365781710916
+Fourth Wing,49,anticipation,85,996,Shadowhunters,0.0853413654618474
+Fourth Wing,53,anticipation,85,1101,Shadowhunters,0.07720254314259764
+Fourth Wing,70,anticipation,85,909,Shadowhunters,0.09350935093509351
+Fourth Wing,77,surprise,85,1332,Shadowhunters,0.06381381381381382
+Fourth Wing,79,joy,85,1248,Shadowhunters,0.06810897435897435
+Fourth Wing,86,positive,85,663,Shadowhunters,0.1282051282051282
+Iron Flame,69,anger,85,886,Shadowhunters,0.09593679458239278
+Iron Flame,74,sadness,85,1127,Shadowhunters,0.07542147293700088
+Iron Flame,76,anger,85,811,Shadowhunters,0.10480887792848335
+Iron Flame,85,sadness,85,836,Shadowhunters,0.10167464114832536
+Iron Flame,101,disgust,85,1484,Shadowhunters,0.05727762803234501
+Iron Flame,118,trust,85,749,Shadowhunters,0.11348464619492657
+Iron Flame,124,fear,85,780,Shadowhunters,0.10897435897435898
+Onyx Storm (The Empyrean Book 3,89,trust,85,601,Shadowhunters,0.14143094841930118
+Onyx Storm (The Empyrean Book 3,97,positive,85,460,Shadowhunters,0.18478260869565216
+Fourth Wing,64,negative,84,508,Shadowhunters,0.16535433070866143
+Fourth Wing,66,anger,84,858,Shadowhunters,0.0979020979020979
+Fourth Wing,77,disgust,84,1332,Shadowhunters,0.06306306306306306
+Iron Flame,82,trust,84,808,Shadowhunters,0.10396039603960396
+Iron Flame,108,trust,84,756,Shadowhunters,0.1111111111111111
+Iron Flame,110,sadness,84,834,Shadowhunters,0.10071942446043165
+Iron Flame,120,anger,84,552,Shadowhunters,0.15217391304347827
+Onyx Storm (The Empyrean Book 3,80,trust,84,628,Shadowhunters,0.1337579617834395
+Onyx Storm (The Empyrean Book 3,83,trust,84,733,Shadowhunters,0.1145975443383356
+Onyx Storm (The Empyrean Book 3,100,trust,84,819,Shadowhunters,0.10256410256410256
+Shatter Me,19,negative,84,356,Shadowhunters,0.23595505617977527
+Fourth Wing,51,fear,83,682,Shadowhunters,0.1217008797653959
+Fourth Wing,70,anger,83,909,Shadowhunters,0.09130913091309131
+Iron Flame,88,negative,83,428,Shadowhunters,0.1939252336448598
+Iron Flame,106,anticipation,83,1026,Shadowhunters,0.08089668615984405
+Iron Flame,111,fear,83,816,Shadowhunters,0.1017156862745098
+Iron Flame,124,trust,83,780,Shadowhunters,0.10641025641025641
+Iron Flame,126,anger,83,887,Shadowhunters,0.0935738444193912
+Iron Flame,129,positive,83,558,Shadowhunters,0.14874551971326164
+Onyx Storm (The Empyrean Book 3,82,negative,83,474,Shadowhunters,0.1751054852320675
+Onyx Storm (The Empyrean Book 3,86,trust,83,589,Shadowhunters,0.14091680814940577
+Onyx Storm (The Empyrean Book 3,130,anger,83,678,Shadowhunters,0.1224188790560472
+The Mortal Instruments 06 - Cit,1,disgust,83,2296,Shadowhunters,0.03614982578397213
+Unravel Me,76,positive,83,575,Shadowhunters,0.1443478260869565
+Ignite Me,83,negative,82,417,Shadowhunters,0.19664268585131894
+Iron Flame,69,sadness,82,886,Shadowhunters,0.09255079006772009
+Iron Flame,87,anticipation,82,950,Shadowhunters,0.0863157894736842
+Iron Flame,109,disgust,82,1335,Shadowhunters,0.06142322097378277
+Iron Flame,110,trust,82,834,Shadowhunters,0.09832134292565947
+Iron Flame,125,fear,82,810,Shadowhunters,0.10123456790123457
+Onyx Storm (The Empyrean Book 3,76,sadness,82,872,Shadowhunters,0.09403669724770643
+Onyx Storm (The Empyrean Book 3,77,positive,82,548,Shadowhunters,0.14963503649635038
+Onyx Storm (The Empyrean Book 3,78,sadness,82,860,Shadowhunters,0.09534883720930233
+The Mortal Instruments 01 - Cit,1,fear,82,1081,Shadowhunters,0.07585568917668825
+Unravel Me,83,trust,82,785,Shadowhunters,0.10445859872611465
+Fourth Wing,61,trust,81,755,Shadowhunters,0.10728476821192053
+Fourth Wing,72,sadness,81,1190,Shadowhunters,0.0680672268907563
+Fourth Wing,78,fear,81,699,Shadowhunters,0.11587982832618025
+Fourth Wing,81,trust,81,1077,Shadowhunters,0.07520891364902507
+Iron Flame,70,anger,81,838,Shadowhunters,0.09665871121718377
+Iron Flame,71,trust,81,577,Shadowhunters,0.14038128249566725
+Iron Flame,89,trust,81,661,Shadowhunters,0.12254160363086233
+Iron Flame,106,sadness,81,1026,Shadowhunters,0.07894736842105263
+Iron Flame,114,trust,81,904,Shadowhunters,0.08960176991150443
+Iron Flame,126,anticipation,81,887,Shadowhunters,0.09131905298759865
+Iron Flame,126,trust,81,887,Shadowhunters,0.09131905298759865
+Onyx Storm (The Empyrean Book 3,71,fear,81,631,Shadowhunters,0.12836767036450078
+Onyx Storm (The Empyrean Book 3,97,negative,81,460,Shadowhunters,0.17608695652173914
+Onyx Storm (The Empyrean Book 3,112,negative,81,447,Shadowhunters,0.18120805369127516
+Fourth Wing,55,joy,80,1103,Shadowhunters,0.07252946509519492
+Fourth Wing,73,disgust,80,1098,Shadowhunters,0.07285974499089254
+Fourth Wing,82,fear,80,559,Shadowhunters,0.14311270125223613
+Fourth Wing,86,anger,80,663,Shadowhunters,0.12066365007541478
+Iron Flame,78,joy,80,1138,Shadowhunters,0.070298769771529
+Iron Flame,111,anticipation,80,816,Shadowhunters,0.09803921568627451
+Iron Flame,112,fear,80,636,Shadowhunters,0.12578616352201258
+Iron Flame,128,sadness,80,797,Shadowhunters,0.10037641154328733
+Onyx Storm (The Empyrean Book 3,69,trust,80,694,Shadowhunters,0.11527377521613832
+Onyx Storm (The Empyrean Book 3,93,anger,80,685,Shadowhunters,0.11678832116788321
+Onyx Storm (The Empyrean Book 3,94,trust,80,714,Shadowhunters,0.11204481792717087
+Onyx Storm (The Empyrean Book 3,107,negative,80,502,Shadowhunters,0.1593625498007968
+Onyx Storm (The Empyrean Book 3,111,anger,80,712,Shadowhunters,0.11235955056179775
+Onyx Storm (The Empyrean Book 3,113,anticipation,80,644,Shadowhunters,0.12422360248447205
+Onyx Storm (The Empyrean Book 3,128,anger,80,676,Shadowhunters,0.11834319526627218
+Onyx Storm (The Empyrean Book 3,131,negative,80,341,Shadowhunters,0.23460410557184752
+Shatter Me,17,negative,80,415,Shadowhunters,0.1927710843373494
+The Mortal Instruments 03 - Cit,1,disgust,80,1894,Shadowhunters,0.042238648363252376
+Iron Flame,84,fear,79,783,Shadowhunters,0.10089399744572158
+Iron Flame,94,positive,79,477,Shadowhunters,0.16561844863731656
+Iron Flame,95,anger,79,784,Shadowhunters,0.10076530612244898
+Iron Flame,125,trust,79,810,Shadowhunters,0.09753086419753086
+Fourth Wing,51,sadness,78,682,Shadowhunters,0.11436950146627566
+Fourth Wing,55,disgust,78,1103,Shadowhunters,0.07071622846781506
+Fourth Wing,60,fear,78,689,Shadowhunters,0.11320754716981132
+Fourth Wing,62,fear,78,659,Shadowhunters,0.11836115326251896
+Fourth Wing,77,joy,78,1332,Shadowhunters,0.05855855855855856
+Fourth Wing,78,anger,78,699,Shadowhunters,0.11158798283261803
+Ignite Me,85,positive,78,530,Shadowhunters,0.1471698113207547
+Iron Flame,76,sadness,78,811,Shadowhunters,0.09617755856966707
+Iron Flame,79,trust,78,978,Shadowhunters,0.07975460122699386
+Iron Flame,84,trust,78,783,Shadowhunters,0.09961685823754789
+Iron Flame,95,sadness,78,784,Shadowhunters,0.09948979591836735
+Iron Flame,96,anticipation,78,869,Shadowhunters,0.08975834292289989
+Iron Flame,103,trust,78,766,Shadowhunters,0.10182767624020887
+Iron Flame,123,sadness,78,1008,Shadowhunters,0.07738095238095238
+Onyx Storm (The Empyrean Book 3,67,sadness,78,891,Shadowhunters,0.08754208754208755
+Onyx Storm (The Empyrean Book 3,82,positive,78,474,Shadowhunters,0.16455696202531644
+Onyx Storm (The Empyrean Book 3,87,anticipation,78,812,Shadowhunters,0.0960591133004926
+Onyx Storm (The Empyrean Book 3,106,positive,78,344,Shadowhunters,0.22674418604651161
+The Mortal Instruments 02 - Cit,1,anger,78,1199,Shadowhunters,0.06505421184320268
+Unravel Me,77,negative,78,458,Shadowhunters,0.1703056768558952
+Fourth Wing,60,trust,77,689,Shadowhunters,0.11175616835994194
+Fourth Wing,74,anticipation,77,803,Shadowhunters,0.0958904109589041
+Fourth Wing,87,negative,77,382,Shadowhunters,0.20157068062827224
+Iron Flame,78,disgust,77,1138,Shadowhunters,0.06766256590509666
+Iron Flame,107,anticipation,77,1080,Shadowhunters,0.0712962962962963
+Iron Flame,118,fear,77,749,Shadowhunters,0.102803738317757
+Iron Flame,119,fear,77,643,Shadowhunters,0.11975116640746501
+Iron Flame,122,sadness,77,1099,Shadowhunters,0.07006369426751592
+Iron Flame,125,anger,77,810,Shadowhunters,0.09506172839506173
+Onyx Storm (The Empyrean Book 3,72,fear,77,738,Shadowhunters,0.1043360433604336
+Onyx Storm (The Empyrean Book 3,85,anger,77,686,Shadowhunters,0.11224489795918367
+Onyx Storm (The Empyrean Book 3,114,positive,77,489,Shadowhunters,0.1574642126789366
+Fourth Wing,47,sadness,76,727,Shadowhunters,0.10453920220082531
+Fourth Wing,49,sadness,76,996,Shadowhunters,0.07630522088353414
+Fourth Wing,69,fear,76,696,Shadowhunters,0.10919540229885058
+Fourth Wing,70,fear,76,909,Shadowhunters,0.08360836083608361
+Fourth Wing,76,sadness,76,943,Shadowhunters,0.08059384941675504
+Iron Flame,74,anticipation,76,1127,Shadowhunters,0.06743566992014197
+Iron Flame,103,anger,76,766,Shadowhunters,0.09921671018276762
+Iron Flame,109,surprise,76,1335,Shadowhunters,0.05692883895131086
+Iron Flame,112,anger,76,636,Shadowhunters,0.11949685534591195
+Onyx Storm (The Empyrean Book 3,78,trust,76,860,Shadowhunters,0.08837209302325581
+Onyx Storm (The Empyrean Book 3,100,sadness,76,819,Shadowhunters,0.0927960927960928
+Onyx Storm (The Empyrean Book 3,113,trust,76,644,Shadowhunters,0.11801242236024845
+Onyx Storm (The Empyrean Book 3,118,positive,76,536,Shadowhunters,0.1417910447761194
+Fourth Wing,51,trust,75,682,Shadowhunters,0.10997067448680352
+Fourth Wing,57,sadness,75,841,Shadowhunters,0.089179548156956
+Fourth Wing,63,anger,75,583,Shadowhunters,0.12864493996569468
+Fourth Wing,69,anger,75,696,Shadowhunters,0.10775862068965517
+Fourth Wing,71,disgust,75,1326,Shadowhunters,0.05656108597285068
+Iron Flame,82,fear,75,808,Shadowhunters,0.09282178217821782
+Iron Flame,114,sadness,75,904,Shadowhunters,0.08296460176991151
+Onyx Storm (The Empyrean Book 3,68,fear,75,635,Shadowhunters,0.11811023622047244
+Onyx Storm (The Empyrean Book 3,79,trust,75,568,Shadowhunters,0.13204225352112675
+Onyx Storm (The Empyrean Book 3,99,negative,75,434,Shadowhunters,0.1728110599078341
+Unravel Me,75,positive,75,452,Shadowhunters,0.16592920353982302
+Unravel Me,83,sadness,75,785,Shadowhunters,0.09554140127388536
+Fourth Wing,59,disgust,74,1451,Shadowhunters,0.05099931082012405
+Fourth Wing,65,anticipation,74,1001,Shadowhunters,0.07392607392607392
+Fourth Wing,72,joy,74,1190,Shadowhunters,0.06218487394957983
+Fourth Wing,85,joy,74,2119,Shadowhunters,0.034922133081642284
+Iron Flame,67,fear,74,742,Shadowhunters,0.09973045822102426
+Iron Flame,70,sadness,74,838,Shadowhunters,0.0883054892601432
+Iron Flame,96,anger,74,869,Shadowhunters,0.08515535097813579
+Iron Flame,96,sadness,74,869,Shadowhunters,0.08515535097813579
+Onyx Storm (The Empyrean Book 3,74,negative,74,416,Shadowhunters,0.1778846153846154
+Onyx Storm (The Empyrean Book 3,74,positive,74,416,Shadowhunters,0.1778846153846154
+Onyx Storm (The Empyrean Book 3,100,anticipation,74,819,Shadowhunters,0.09035409035409035
+Onyx Storm (The Empyrean Book 3,109,joy,74,1026,Shadowhunters,0.07212475633528265
+Onyx Storm (The Empyrean Book 3,111,anticipation,74,712,Shadowhunters,0.10393258426966293
+Fourth Wing,47,fear,73,727,Shadowhunters,0.10041265474552957
+Fourth Wing,63,fear,73,583,Shadowhunters,0.12521440823327615
+Fourth Wing,67,disgust,73,1211,Shadowhunters,0.06028075970272502
+Fourth Wing,69,trust,73,696,Shadowhunters,0.10488505747126436
+Fourth Wing,72,disgust,73,1190,Shadowhunters,0.06134453781512605
+Fourth Wing,72,surprise,73,1190,Shadowhunters,0.06134453781512605
+Fourth Wing,81,surprise,73,1077,Shadowhunters,0.06778087279480037
+Iron Flame,69,anticipation,73,886,Shadowhunters,0.08239277652370203
+Iron Flame,76,trust,73,811,Shadowhunters,0.09001233045622688
+Iron Flame,85,trust,73,836,Shadowhunters,0.08732057416267942
+Iron Flame,106,joy,73,1026,Shadowhunters,0.07115009746588694
+Iron Flame,108,anger,73,756,Shadowhunters,0.09656084656084656
+Iron Flame,130,anticipation,73,1037,Shadowhunters,0.0703953712632594
+Onyx Storm (The Empyrean Book 3,71,anger,73,631,Shadowhunters,0.11568938193343899
+Onyx Storm (The Empyrean Book 3,76,trust,73,872,Shadowhunters,0.08371559633027523
+Onyx Storm (The Empyrean Book 3,90,trust,73,610,Shadowhunters,0.11967213114754098
+Onyx Storm (The Empyrean Book 3,96,positive,73,346,Shadowhunters,0.21098265895953758
+Onyx Storm (The Empyrean Book 3,111,fear,73,712,Shadowhunters,0.10252808988764045
+Onyx Storm (The Empyrean Book 3,119,negative,73,370,Shadowhunters,0.1972972972972973
+Unravel Me,83,fear,73,785,Shadowhunters,0.0929936305732484
+Fourth Wing,45,joy,72,1203,Shadowhunters,0.059850374064837904
+Fourth Wing,75,trust,72,650,Shadowhunters,0.11076923076923077
+Fourth Wing,86,sadness,72,663,Shadowhunters,0.1085972850678733
+Iron Flame,77,sadness,72,1061,Shadowhunters,0.06786050895381715
+Iron Flame,84,sadness,72,783,Shadowhunters,0.09195402298850575
+Iron Flame,93,surprise,72,1128,Shadowhunters,0.06382978723404255
+Iron Flame,109,joy,72,1335,Shadowhunters,0.05393258426966292
+Iron Flame,114,anticipation,72,904,Shadowhunters,0.07964601769911504
+Onyx Storm (The Empyrean Book 3,81,negative,72,361,Shadowhunters,0.1994459833795014
+Onyx Storm (The Empyrean Book 3,87,anger,72,812,Shadowhunters,0.08866995073891626
+Onyx Storm (The Empyrean Book 3,100,joy,72,819,Shadowhunters,0.08791208791208792
+Onyx Storm (The Empyrean Book 3,116,positive,72,467,Shadowhunters,0.15417558886509636
+Fourth Wing,53,surprise,71,1101,Shadowhunters,0.06448683015440508
+Fourth Wing,57,trust,71,841,Shadowhunters,0.08442330558858502
+Fourth Wing,61,anger,71,755,Shadowhunters,0.09403973509933775
+Fourth Wing,71,joy,71,1326,Shadowhunters,0.053544494720965306
+Fourth Wing,74,anger,71,803,Shadowhunters,0.08841843088418432
+Fourth Wing,80,disgust,71,1304,Shadowhunters,0.054447852760736194
+Iron Flame,78,surprise,71,1138,Shadowhunters,0.06239015817223199
+Iron Flame,79,sadness,71,978,Shadowhunters,0.07259713701431493
+Iron Flame,95,trust,71,784,Shadowhunters,0.09056122448979592
+Iron Flame,102,joy,71,1229,Shadowhunters,0.05777054515866558
+Onyx Storm (The Empyrean Book 3,121,negative,71,418,Shadowhunters,0.16985645933014354
+Unravel Me,83,anticipation,71,785,Shadowhunters,0.09044585987261146
+Unravel Me,98,joy,71,1204,Shadowhunters,0.058970099667774084
+Fourth Wing,43,trust,70,775,Shadowhunters,0.09032258064516129
+Fourth Wing,47,trust,70,727,Shadowhunters,0.09628610729023383
+Fourth Wing,61,fear,70,755,Shadowhunters,0.09271523178807947
+Iron Flame,68,joy,70,1088,Shadowhunters,0.06433823529411764
+Iron Flame,132,negative,70,354,Shadowhunters,0.1977401129943503
+Onyx Storm (The Empyrean Book 3,75,fear,70,541,Shadowhunters,0.12939001848428835
+Onyx Storm (The Empyrean Book 3,92,disgust,70,1139,Shadowhunters,0.061457418788410885
+Onyx Storm (The Empyrean Book 3,100,fear,70,819,Shadowhunters,0.08547008547008547
+Onyx Storm (The Empyrean Book 3,101,anticipation,70,753,Shadowhunters,0.09296148738379814
+Onyx Storm (The Empyrean Book 3,111,trust,70,712,Shadowhunters,0.09831460674157304
+Onyx Storm (The Empyrean Book 3,118,fear,70,536,Shadowhunters,0.13059701492537312
+Fourth Wing,43,sadness,69,775,Shadowhunters,0.08903225806451613
+Fourth Wing,75,fear,69,650,Shadowhunters,0.10615384615384615
+Fourth Wing,76,anticipation,69,943,Shadowhunters,0.07317073170731707
+Iron Flame,82,anger,69,808,Shadowhunters,0.0853960396039604
+Iron Flame,82,sadness,69,808,Shadowhunters,0.0853960396039604
+Iron Flame,89,fear,69,661,Shadowhunters,0.1043872919818457
+Iron Flame,119,anger,69,643,Shadowhunters,0.10730948678071539
+Iron Flame,125,sadness,69,810,Shadowhunters,0.08518518518518518
+Iron Flame,127,surprise,69,1122,Shadowhunters,0.06149732620320856
+Onyx Storm (The Empyrean Book 3,66,positive,69,510,Shadowhunters,0.13529411764705881
+Onyx Storm (The Empyrean Book 3,78,anticipation,69,860,Shadowhunters,0.08023255813953488
+Onyx Storm (The Empyrean Book 3,83,fear,69,733,Shadowhunters,0.0941336971350614
+Onyx Storm (The Empyrean Book 3,94,fear,69,714,Shadowhunters,0.09663865546218488
+Onyx Storm (The Empyrean Book 3,95,fear,69,679,Shadowhunters,0.101620029455081
+Onyx Storm (The Empyrean Book 3,96,negative,69,346,Shadowhunters,0.1994219653179191
+Onyx Storm (The Empyrean Book 3,102,negative,69,391,Shadowhunters,0.17647058823529413
+Shatter Me,13,negative,69,301,Shadowhunters,0.2292358803986711
+Unravel Me,83,anger,69,785,Shadowhunters,0.08789808917197452
+Fourth Wing,45,disgust,68,1203,Shadowhunters,0.05652535328345802
+Fourth Wing,57,disgust,68,841,Shadowhunters,0.08085612366230678
+Fourth Wing,59,joy,68,1451,Shadowhunters,0.04686423156443832
+Fourth Wing,62,anger,68,659,Shadowhunters,0.10318664643399089
+Fourth Wing,63,positive,68,583,Shadowhunters,0.11663807890222985
+Fourth Wing,81,joy,68,1077,Shadowhunters,0.06313834726090993
+Fourth Wing,88,surprise,68,1111,Shadowhunters,0.0612061206120612
+Iron Flame,72,negative,68,409,Shadowhunters,0.16625916870415647
+Iron Flame,81,negative,68,340,Shadowhunters,0.2
+Iron Flame,113,anger,68,524,Shadowhunters,0.1297709923664122
+Iron Flame,121,positive,68,390,Shadowhunters,0.17435897435897435
+Onyx Storm (The Empyrean Book 3,66,fear,68,510,Shadowhunters,0.13333333333333333
+Onyx Storm (The Empyrean Book 3,69,fear,68,694,Shadowhunters,0.09798270893371758
+Onyx Storm (The Empyrean Book 3,70,trust,68,552,Shadowhunters,0.12318840579710146
+Onyx Storm (The Empyrean Book 3,73,trust,68,615,Shadowhunters,0.11056910569105691
+Onyx Storm (The Empyrean Book 3,76,anticipation,68,872,Shadowhunters,0.0779816513761468
+Onyx Storm (The Empyrean Book 3,78,anger,68,860,Shadowhunters,0.07906976744186046
+Onyx Storm (The Empyrean Book 3,92,joy,68,1139,Shadowhunters,0.05970149253731343
+Onyx Storm (The Empyrean Book 3,98,fear,68,543,Shadowhunters,0.1252302025782689
+Onyx Storm (The Empyrean Book 3,115,negative,68,352,Shadowhunters,0.19318181818181818
+Onyx Storm (The Empyrean Book 3,117,fear,68,584,Shadowhunters,0.11643835616438356
+Onyx Storm (The Empyrean Book 3,130,sadness,68,678,Shadowhunters,0.10029498525073746
+Unravel Me,78,positive,68,300,Shadowhunters,0.22666666666666666
+Fourth Wing,47,anger,67,727,Shadowhunters,0.0921595598349381
+Fourth Wing,49,joy,67,996,Shadowhunters,0.06726907630522089
+Fourth Wing,83,fear,67,522,Shadowhunters,0.12835249042145594
+Fourth Wing,84,anticipation,67,971,Shadowhunters,0.0690010298661174
+Iron Flame,90,negative,67,379,Shadowhunters,0.17678100263852242
+Iron Flame,90,positive,67,379,Shadowhunters,0.17678100263852242
+Iron Flame,104,surprise,67,1165,Shadowhunters,0.05751072961373391
+Iron Flame,108,anticipation,67,756,Shadowhunters,0.08862433862433862
+Iron Flame,108,sadness,67,756,Shadowhunters,0.08862433862433862
+Onyx Storm (The Empyrean Book 3,72,anticipation,67,738,Shadowhunters,0.09078590785907859
+Onyx Storm (The Empyrean Book 3,85,trust,67,686,Shadowhunters,0.09766763848396501
+Onyx Storm (The Empyrean Book 3,94,anger,67,714,Shadowhunters,0.0938375350140056
+Onyx Storm (The Empyrean Book 3,125,positive,67,440,Shadowhunters,0.15227272727272728
+Onyx Storm (The Empyrean Book 3,126,fear,67,609,Shadowhunters,0.11001642036124795
+Onyx Storm (The Empyrean Book 3,127,negative,67,375,Shadowhunters,0.17866666666666667
+Onyx Storm (The Empyrean Book 3,129,trust,67,870,Shadowhunters,0.07701149425287357
+Shatter Me,17,positive,67,415,Shadowhunters,0.1614457831325301
+The Mortal Instruments 01 - Cit,1,surprise,67,1081,Shadowhunters,0.061979648473635525
+Ignite Me,87,fear,66,568,Shadowhunters,0.11619718309859155
+Iron Flame,67,anger,66,742,Shadowhunters,0.0889487870619946
+Iron Flame,77,surprise,66,1061,Shadowhunters,0.06220546654099906
+Iron Flame,85,disgust,66,836,Shadowhunters,0.07894736842105263
+Iron Flame,86,joy,66,1095,Shadowhunters,0.06027397260273973
+Iron Flame,102,surprise,66,1229,Shadowhunters,0.05370219690805533
+Iron Flame,107,joy,66,1080,Shadowhunters,0.06111111111111111
+Iron Flame,113,positive,66,524,Shadowhunters,0.12595419847328243
+Iron Flame,117,negative,66,320,Shadowhunters,0.20625
+Iron Flame,122,disgust,66,1099,Shadowhunters,0.06005459508644222
+Onyx Storm (The Empyrean Book 3,67,anticipation,66,891,Shadowhunters,0.07407407407407407
+Onyx Storm (The Empyrean Book 3,69,anger,66,694,Shadowhunters,0.09510086455331412
+Onyx Storm (The Empyrean Book 3,75,trust,66,541,Shadowhunters,0.12199630314232902
+Onyx Storm (The Empyrean Book 3,101,fear,66,753,Shadowhunters,0.08764940239043825
+Onyx Storm (The Empyrean Book 3,101,joy,66,753,Shadowhunters,0.08764940239043825
+Onyx Storm (The Empyrean Book 3,104,anticipation,66,603,Shadowhunters,0.10945273631840796
+Onyx Storm (The Empyrean Book 3,119,positive,66,370,Shadowhunters,0.1783783783783784
+Onyx Storm (The Empyrean Book 3,120,fear,66,636,Shadowhunters,0.10377358490566038
+Fourth Wing,60,sadness,65,689,Shadowhunters,0.09433962264150944
+Fourth Wing,62,anticipation,65,659,Shadowhunters,0.09863429438543247
+Fourth Wing,67,surprise,65,1211,Shadowhunters,0.053674649050371594
+Fourth Wing,68,disgust,65,1115,Shadowhunters,0.05829596412556054
+Fourth Wing,70,sadness,65,909,Shadowhunters,0.07150715071507151
+Fourth Wing,73,joy,65,1098,Shadowhunters,0.05919854280510018
+Fourth Wing,79,disgust,65,1248,Shadowhunters,0.052083333333333336
+Iron Flame,72,positive,65,409,Shadowhunters,0.15892420537897312
+Iron Flame,82,anticipation,65,808,Shadowhunters,0.08044554455445545
+Iron Flame,86,surprise,65,1095,Shadowhunters,0.0593607305936073
+Iron Flame,93,trust,65,1128,Shadowhunters,0.057624113475177305
+Iron Flame,118,anger,65,749,Shadowhunters,0.08678237650200267
+Iron Flame,119,trust,65,643,Shadowhunters,0.10108864696734059
+Iron Flame,125,anticipation,65,810,Shadowhunters,0.08024691358024691
+Onyx Storm (The Empyrean Book 3,81,positive,65,361,Shadowhunters,0.18005540166204986
+Onyx Storm (The Empyrean Book 3,105,positive,65,430,Shadowhunters,0.1511627906976744
+Onyx Storm (The Empyrean Book 3,110,trust,65,582,Shadowhunters,0.11168384879725086
+Fourth Wing,60,anticipation,64,689,Shadowhunters,0.09288824383164006
+Fourth Wing,61,anticipation,64,755,Shadowhunters,0.0847682119205298
+Fourth Wing,64,trust,64,508,Shadowhunters,0.12598425196850394
+Fourth Wing,66,sadness,64,858,Shadowhunters,0.07459207459207459
+Iron Flame,68,surprise,64,1088,Shadowhunters,0.058823529411764705
+Iron Flame,79,disgust,64,978,Shadowhunters,0.065439672801636
+Iron Flame,105,anger,64,633,Shadowhunters,0.10110584518167456
+Iron Flame,105,fear,64,633,Shadowhunters,0.10110584518167456
+Iron Flame,106,surprise,64,1026,Shadowhunters,0.06237816764132553
+Iron Flame,107,disgust,64,1080,Shadowhunters,0.05925925925925926
+Iron Flame,121,negative,64,390,Shadowhunters,0.1641025641025641
+Iron Flame,124,sadness,64,780,Shadowhunters,0.08205128205128205
+Iron Flame,129,sadness,64,558,Shadowhunters,0.11469534050179211
+Onyx Storm (The Empyrean Book 3,87,fear,64,812,Shadowhunters,0.07881773399014778
+Onyx Storm (The Empyrean Book 3,93,trust,64,685,Shadowhunters,0.09343065693430656
+Onyx Storm (The Empyrean Book 3,95,anticipation,64,679,Shadowhunters,0.09425625920471281
+Onyx Storm (The Empyrean Book 3,103,trust,64,586,Shadowhunters,0.10921501706484642
+Onyx Storm (The Empyrean Book 3,108,negative,64,348,Shadowhunters,0.1839080459770115
+Onyx Storm (The Empyrean Book 3,117,anger,64,584,Shadowhunters,0.1095890410958904
+Fourth Wing,65,disgust,63,1001,Shadowhunters,0.06293706293706294
+Fourth Wing,67,joy,63,1211,Shadowhunters,0.05202312138728324
+Fourth Wing,68,surprise,63,1115,Shadowhunters,0.05650224215246637
+Fourth Wing,70,joy,63,909,Shadowhunters,0.06930693069306931
+Fourth Wing,74,sadness,63,803,Shadowhunters,0.0784557907845579
+Ignite Me,84,positive,63,456,Shadowhunters,0.13815789473684212
+Iron Flame,70,anticipation,63,838,Shadowhunters,0.07517899761336516
+Iron Flame,80,fear,63,676,Shadowhunters,0.09319526627218935
+Iron Flame,103,sadness,63,766,Shadowhunters,0.08224543080939947
+Iron Flame,105,trust,63,633,Shadowhunters,0.0995260663507109
+Iron Flame,113,fear,63,524,Shadowhunters,0.12022900763358779
+Iron Flame,114,joy,63,904,Shadowhunters,0.06969026548672566
+Onyx Storm (The Empyrean Book 3,127,positive,63,375,Shadowhunters,0.168
+Fourth Wing,82,trust,62,559,Shadowhunters,0.11091234347048301
+Iron Flame,73,negative,62,395,Shadowhunters,0.1569620253164557
+Iron Flame,77,joy,62,1061,Shadowhunters,0.058435438265786996
+Iron Flame,80,anger,62,676,Shadowhunters,0.09171597633136094
+Iron Flame,87,disgust,62,950,Shadowhunters,0.06526315789473684
+Iron Flame,98,anticipation,62,549,Shadowhunters,0.11293260473588343
+Iron Flame,100,positive,62,324,Shadowhunters,0.19135802469135801
+Iron Flame,129,fear,62,558,Shadowhunters,0.1111111111111111
+Onyx Storm (The Empyrean Book 3,66,anger,62,510,Shadowhunters,0.12156862745098039
+Onyx Storm (The Empyrean Book 3,69,anticipation,62,694,Shadowhunters,0.0893371757925072
+Onyx Storm (The Empyrean Book 3,78,surprise,62,860,Shadowhunters,0.07209302325581396
+Onyx Storm (The Empyrean Book 3,80,fear,62,628,Shadowhunters,0.09872611464968153
+Onyx Storm (The Empyrean Book 3,90,anticipation,62,610,Shadowhunters,0.10163934426229508
+Onyx Storm (The Empyrean Book 3,103,anticipation,62,586,Shadowhunters,0.10580204778156997
+Onyx Storm (The Empyrean Book 3,103,fear,62,586,Shadowhunters,0.10580204778156997
+Onyx Storm (The Empyrean Book 3,104,joy,62,603,Shadowhunters,0.10281923714759536
+Onyx Storm (The Empyrean Book 3,118,anger,62,536,Shadowhunters,0.11567164179104478
+Onyx Storm (The Empyrean Book 3,120,anger,62,636,Shadowhunters,0.09748427672955975
+Onyx Storm (The Empyrean Book 3,120,sadness,62,636,Shadowhunters,0.09748427672955975
+Onyx Storm (The Empyrean Book 3,126,trust,62,609,Shadowhunters,0.10180623973727422
+Onyx Storm (The Empyrean Book 3,128,sadness,62,676,Shadowhunters,0.09171597633136094
+The Mortal Instruments 02 - Cit,1,disgust,62,1199,Shadowhunters,0.05170975813177648
+Fourth Wing,47,anticipation,61,727,Shadowhunters,0.08390646492434663
+Fourth Wing,51,anger,61,682,Shadowhunters,0.08944281524926687
+Fourth Wing,55,surprise,61,1103,Shadowhunters,0.05530371713508613
+Fourth Wing,81,disgust,61,1077,Shadowhunters,0.056638811513463325
+Fourth Wing,87,fear,61,382,Shadowhunters,0.15968586387434555
+Ignite Me,83,fear,61,417,Shadowhunters,0.14628297362110312
+Iron Flame,75,anticipation,61,851,Shadowhunters,0.07168037602820211
+Iron Flame,75,disgust,61,851,Shadowhunters,0.07168037602820211
+Iron Flame,75,sadness,61,851,Shadowhunters,0.07168037602820211
+Iron Flame,93,disgust,61,1128,Shadowhunters,0.054078014184397165
+Iron Flame,103,anticipation,61,766,Shadowhunters,0.07963446475195822
+Iron Flame,107,surprise,61,1080,Shadowhunters,0.05648148148148148
+Onyx Storm (The Empyrean Book 3,68,trust,61,635,Shadowhunters,0.09606299212598425
+Onyx Storm (The Empyrean Book 3,87,sadness,61,812,Shadowhunters,0.07512315270935961
+Onyx Storm (The Empyrean Book 3,92,surprise,61,1139,Shadowhunters,0.053555750658472345
+Onyx Storm (The Empyrean Book 3,116,fear,61,467,Shadowhunters,0.13062098501070663
+Unravel Me,80,positive,61,450,Shadowhunters,0.13555555555555557
+Fourth Wing,45,surprise,60,1203,Shadowhunters,0.04987531172069826
+Fourth Wing,66,anticipation,60,858,Shadowhunters,0.06993006993006994
+Fourth Wing,78,sadness,60,699,Shadowhunters,0.08583690987124463
+Iron Flame,67,anticipation,60,742,Shadowhunters,0.08086253369272237
+Iron Flame,67,sadness,60,742,Shadowhunters,0.08086253369272237
+Iron Flame,76,anticipation,60,811,Shadowhunters,0.07398273736128237
+Iron Flame,95,anticipation,60,784,Shadowhunters,0.07653061224489796
+Iron Flame,101,surprise,60,1484,Shadowhunters,0.04043126684636118
+Iron Flame,105,anticipation,60,633,Shadowhunters,0.0947867298578199
+Iron Flame,118,anticipation,60,749,Shadowhunters,0.0801068090787717
+Iron Flame,118,sadness,60,749,Shadowhunters,0.0801068090787717
+Iron Flame,128,trust,60,797,Shadowhunters,0.07528230865746549
+Onyx Storm (The Empyrean Book 3,73,fear,60,615,Shadowhunters,0.0975609756097561
+Onyx Storm (The Empyrean Book 3,91,fear,60,591,Shadowhunters,0.10152284263959391
+Unravel Me,79,negative,60,261,Shadowhunters,0.22988505747126436
+Fourth Wing,61,disgust,59,755,Shadowhunters,0.0781456953642384
+Fourth Wing,75,anticipation,59,650,Shadowhunters,0.09076923076923077
+Fourth Wing,82,anger,59,559,Shadowhunters,0.10554561717352415
+Iron Flame,77,disgust,59,1061,Shadowhunters,0.05560791705937795
+Iron Flame,83,fear,59,526,Shadowhunters,0.11216730038022814
+Iron Flame,88,positive,59,428,Shadowhunters,0.1378504672897196
+Iron Flame,98,fear,59,549,Shadowhunters,0.10746812386156648
+Iron Flame,99,fear,59,495,Shadowhunters,0.1191919191919192
+Iron Flame,111,anger,59,816,Shadowhunters,0.07230392156862746
+Onyx Storm (The Empyrean Book 3,77,fear,59,548,Shadowhunters,0.10766423357664233
+Onyx Storm (The Empyrean Book 3,77,sadness,59,548,Shadowhunters,0.10766423357664233
+Onyx Storm (The Empyrean Book 3,88,negative,59,398,Shadowhunters,0.14824120603015076
+Onyx Storm (The Empyrean Book 3,93,sadness,59,685,Shadowhunters,0.08613138686131387
+Onyx Storm (The Empyrean Book 3,98,anger,59,543,Shadowhunters,0.10865561694290976
+Fourth Wing,78,anticipation,58,699,Shadowhunters,0.08297567954220315
+Iron Flame,69,disgust,58,886,Shadowhunters,0.0654627539503386
+Iron Flame,83,anger,58,526,Shadowhunters,0.11026615969581749
+Iron Flame,89,sadness,58,661,Shadowhunters,0.08774583963691376
+Iron Flame,94,fear,58,477,Shadowhunters,0.12159329140461216
+Iron Flame,112,trust,58,636,Shadowhunters,0.09119496855345911
+Iron Flame,122,joy,58,1099,Shadowhunters,0.052775250227479524
+Iron Flame,130,disgust,58,1037,Shadowhunters,0.055930568948891035
+Iron Flame,132,positive,58,354,Shadowhunters,0.1638418079096045
+Onyx Storm (The Empyrean Book 3,68,anger,58,635,Shadowhunters,0.09133858267716535
+Onyx Storm (The Empyrean Book 3,76,disgust,58,872,Shadowhunters,0.06651376146788991
+Onyx Storm (The Empyrean Book 3,77,trust,58,548,Shadowhunters,0.10583941605839416
+Onyx Storm (The Empyrean Book 3,82,fear,58,474,Shadowhunters,0.12236286919831224
+Onyx Storm (The Empyrean Book 3,86,fear,58,589,Shadowhunters,0.09847198641765705
+Onyx Storm (The Empyrean Book 3,94,anticipation,58,714,Shadowhunters,0.08123249299719888
+Onyx Storm (The Empyrean Book 3,98,trust,58,543,Shadowhunters,0.10681399631675875
+Onyx Storm (The Empyrean Book 3,102,positive,58,391,Shadowhunters,0.1483375959079284
+Onyx Storm (The Empyrean Book 3,104,trust,58,603,Shadowhunters,0.09618573797678276
+Onyx Storm (The Empyrean Book 3,107,fear,58,502,Shadowhunters,0.11553784860557768
+Onyx Storm (The Empyrean Book 3,108,positive,58,348,Shadowhunters,0.16666666666666666
+Onyx Storm (The Empyrean Book 3,109,disgust,58,1026,Shadowhunters,0.056530214424951264
+Onyx Storm (The Empyrean Book 3,117,trust,58,584,Shadowhunters,0.09931506849315068
+Onyx Storm (The Empyrean Book 3,120,anticipation,58,636,Shadowhunters,0.09119496855345911
+The Mortal Instruments 02 - Cit,1,surprise,58,1199,Shadowhunters,0.04837364470391994
+Fourth Wing,70,surprise,57,909,Shadowhunters,0.0627062706270627
+Ignite Me,85,fear,57,530,Shadowhunters,0.10754716981132076
+Ignite Me,87,sadness,57,568,Shadowhunters,0.10035211267605634
+Iron Flame,76,disgust,57,811,Shadowhunters,0.07028360049321825
+Iron Flame,117,positive,57,320,Shadowhunters,0.178125
+Onyx Storm (The Empyrean Book 3,85,anticipation,57,686,Shadowhunters,0.08309037900874636
+Onyx Storm (The Empyrean Book 3,86,anticipation,57,589,Shadowhunters,0.0967741935483871
+Onyx Storm (The Empyrean Book 3,90,fear,57,610,Shadowhunters,0.09344262295081968
+Onyx Storm (The Empyrean Book 3,100,anger,57,819,Shadowhunters,0.0695970695970696
+Onyx Storm (The Empyrean Book 3,110,fear,57,582,Shadowhunters,0.0979381443298969
+Onyx Storm (The Empyrean Book 3,114,anticipation,57,489,Shadowhunters,0.1165644171779141
+Onyx Storm (The Empyrean Book 3,118,sadness,57,536,Shadowhunters,0.10634328358208955
+Onyx Storm (The Empyrean Book 3,126,anger,57,609,Shadowhunters,0.09359605911330049
+The Mortal Instruments 01 - Cit,1,anger,57,1081,Shadowhunters,0.05272895467160037
+Fourth Wing,66,joy,56,858,Shadowhunters,0.06526806526806526
+Fourth Wing,70,disgust,56,909,Shadowhunters,0.061606160616061605
+Fourth Wing,76,surprise,56,943,Shadowhunters,0.05938494167550371
+Fourth Wing,88,disgust,56,1111,Shadowhunters,0.050405040504050404
+Ignite Me,85,anger,56,530,Shadowhunters,0.10566037735849057
+Iron Flame,84,anticipation,56,783,Shadowhunters,0.07151979565772669
+Iron Flame,89,anger,56,661,Shadowhunters,0.08472012102874432
+Iron Flame,96,surprise,56,869,Shadowhunters,0.06444188722669736
+Iron Flame,99,trust,56,495,Shadowhunters,0.11313131313131314
+Iron Flame,100,negative,56,324,Shadowhunters,0.1728395061728395
+Iron Flame,124,anticipation,56,780,Shadowhunters,0.07179487179487179
+Onyx Storm (The Empyrean Book 3,83,sadness,56,733,Shadowhunters,0.07639836289222374
+Onyx Storm (The Empyrean Book 3,93,anticipation,56,685,Shadowhunters,0.08175182481751825
+Fourth Wing,62,sadness,55,659,Shadowhunters,0.0834597875569044
+Fourth Wing,62,trust,55,659,Shadowhunters,0.0834597875569044
+Fourth Wing,69,sadness,55,696,Shadowhunters,0.07902298850574713
+Ignite Me,84,fear,55,456,Shadowhunters,0.1206140350877193
+Iron Flame,68,disgust,55,1088,Shadowhunters,0.050551470588235295
+Iron Flame,80,anticipation,55,676,Shadowhunters,0.08136094674556213
+Iron Flame,81,positive,55,340,Shadowhunters,0.16176470588235295
+Iron Flame,88,fear,55,428,Shadowhunters,0.12850467289719625
+Iron Flame,93,joy,55,1128,Shadowhunters,0.04875886524822695
+Iron Flame,98,anger,55,549,Shadowhunters,0.10018214936247723
+Iron Flame,111,sadness,55,816,Shadowhunters,0.06740196078431372
+Iron Flame,114,disgust,55,904,Shadowhunters,0.06084070796460177
+Onyx Storm (The Empyrean Book 3,72,anger,55,738,Shadowhunters,0.07452574525745258
+Onyx Storm (The Empyrean Book 3,73,anger,55,615,Shadowhunters,0.08943089430894309
+Onyx Storm (The Empyrean Book 3,80,anger,55,628,Shadowhunters,0.0875796178343949
+Onyx Storm (The Empyrean Book 3,82,anger,55,474,Shadowhunters,0.1160337552742616
+Onyx Storm (The Empyrean Book 3,83,anger,55,733,Shadowhunters,0.07503410641200546
+Onyx Storm (The Empyrean Book 3,89,anticipation,55,601,Shadowhunters,0.09151414309484193
+Onyx Storm (The Empyrean Book 3,110,anger,55,582,Shadowhunters,0.09450171821305842
+Onyx Storm (The Empyrean Book 3,125,fear,55,440,Shadowhunters,0.125
+Onyx Storm (The Empyrean Book 3,131,positive,55,341,Shadowhunters,0.16129032258064516
+Shatter Me,20,negative,55,248,Shadowhunters,0.2217741935483871
+The Mortal Instruments 01 - Cit,1,disgust,55,1081,Shadowhunters,0.05087881591119334
+Fourth Wing,66,disgust,54,858,Shadowhunters,0.06293706293706294
+Fourth Wing,69,anticipation,54,696,Shadowhunters,0.07758620689655173
+Fourth Wing,73,surprise,54,1098,Shadowhunters,0.04918032786885246
+Fourth Wing,75,anger,54,650,Shadowhunters,0.08307692307692308
+Fourth Wing,78,disgust,54,699,Shadowhunters,0.07725321888412018
+Fourth Wing,78,trust,54,699,Shadowhunters,0.07725321888412018
+Ignite Me,79,negative,54,261,Shadowhunters,0.20689655172413793
+Ignite Me,83,positive,54,417,Shadowhunters,0.12949640287769784
+Iron Flame,82,disgust,54,808,Shadowhunters,0.06683168316831684
+Iron Flame,102,disgust,54,1229,Shadowhunters,0.043938161106590726
+Iron Flame,116,negative,54,264,Shadowhunters,0.20454545454545456
+Iron Flame,119,sadness,54,643,Shadowhunters,0.08398133748055987
+Iron Flame,120,positive,54,552,Shadowhunters,0.09782608695652174
+Iron Flame,120,sadness,54,552,Shadowhunters,0.09782608695652174
+Iron Flame,122,surprise,54,1099,Shadowhunters,0.04913557779799818
+Iron Flame,129,anger,54,558,Shadowhunters,0.0967741935483871
+Onyx Storm (The Empyrean Book 3,71,trust,54,631,Shadowhunters,0.08557844690966719
+Onyx Storm (The Empyrean Book 3,78,disgust,54,860,Shadowhunters,0.06279069767441861
+Onyx Storm (The Empyrean Book 3,79,anger,54,568,Shadowhunters,0.09507042253521127
+Onyx Storm (The Empyrean Book 3,83,anticipation,54,733,Shadowhunters,0.07366984993178717
+Onyx Storm (The Empyrean Book 3,95,sadness,54,679,Shadowhunters,0.07952871870397643
+Unravel Me,76,fear,54,575,Shadowhunters,0.09391304347826086
+Unravel Me,76,surprise,54,575,Shadowhunters,0.09391304347826086
+Unravel Me,77,trust,54,458,Shadowhunters,0.11790393013100436
+Unravel Me,83,joy,54,785,Shadowhunters,0.06878980891719745
+Fourth Wing,53,joy,53,1101,Shadowhunters,0.048138056312443236
+Fourth Wing,84,disgust,53,971,Shadowhunters,0.05458290422245108
+Iron Flame,86,disgust,53,1095,Shadowhunters,0.048401826484018265
+Iron Flame,89,anticipation,53,661,Shadowhunters,0.08018154311649017
+Iron Flame,91,trust,53,475,Shadowhunters,0.11157894736842106
+Iron Flame,99,anger,53,495,Shadowhunters,0.10707070707070707
+Iron Flame,106,disgust,53,1026,Shadowhunters,0.05165692007797271
+Iron Flame,110,anticipation,53,834,Shadowhunters,0.06354916067146282
+Iron Flame,114,surprise,53,904,Shadowhunters,0.0586283185840708
+Iron Flame,115,trust,53,514,Shadowhunters,0.10311284046692606
+Iron Flame,123,disgust,53,1008,Shadowhunters,0.05257936507936508
+Onyx Storm (The Empyrean Book 3,67,disgust,53,891,Shadowhunters,0.05948372615039282
+Onyx Storm (The Empyrean Book 3,72,joy,53,738,Shadowhunters,0.07181571815718157
+Onyx Storm (The Empyrean Book 3,80,anticipation,53,628,Shadowhunters,0.08439490445859872
+Onyx Storm (The Empyrean Book 3,90,joy,53,610,Shadowhunters,0.08688524590163935
+Onyx Storm (The Empyrean Book 3,91,sadness,53,591,Shadowhunters,0.08967851099830795
+Onyx Storm (The Empyrean Book 3,91,surprise,53,591,Shadowhunters,0.08967851099830795
+Onyx Storm (The Empyrean Book 3,97,anger,53,460,Shadowhunters,0.11521739130434783
+Onyx Storm (The Empyrean Book 3,99,trust,53,434,Shadowhunters,0.12211981566820276
+Onyx Storm (The Empyrean Book 3,104,surprise,53,603,Shadowhunters,0.087893864013267
+Onyx Storm (The Empyrean Book 3,122,positive,53,266,Shadowhunters,0.19924812030075187
+Onyx Storm (The Empyrean Book 3,123,trust,53,451,Shadowhunters,0.11751662971175167
+Onyx Storm (The Empyrean Book 3,125,anger,53,440,Shadowhunters,0.12045454545454545
+Onyx Storm (The Empyrean Book 3,126,anticipation,53,609,Shadowhunters,0.08702791461412152
+Onyx Storm (The Empyrean Book 3,129,anticipation,53,870,Shadowhunters,0.06091954022988506
+Shatter Me,19,positive,53,356,Shadowhunters,0.14887640449438203
+Unravel Me,83,surprise,53,785,Shadowhunters,0.06751592356687898
+Fourth Wing,75,joy,52,650,Shadowhunters,0.08
+Iron Flame,74,joy,52,1127,Shadowhunters,0.04614019520851819
+Iron Flame,76,surprise,52,811,Shadowhunters,0.06411837237977805
+Iron Flame,87,surprise,52,950,Shadowhunters,0.05473684210526316
+Iron Flame,96,joy,52,869,Shadowhunters,0.05983889528193326
+Iron Flame,112,sadness,52,636,Shadowhunters,0.08176100628930817
+Onyx Storm (The Empyrean Book 3,66,sadness,52,510,Shadowhunters,0.10196078431372549
+Onyx Storm (The Empyrean Book 3,68,anticipation,52,635,Shadowhunters,0.08188976377952756
+Onyx Storm (The Empyrean Book 3,70,fear,52,552,Shadowhunters,0.09420289855072464
+Onyx Storm (The Empyrean Book 3,76,surprise,52,872,Shadowhunters,0.05963302752293578
+Onyx Storm (The Empyrean Book 3,82,trust,52,474,Shadowhunters,0.10970464135021098
+Onyx Storm (The Empyrean Book 3,84,trust,52,531,Shadowhunters,0.09792843691148775
+Onyx Storm (The Empyrean Book 3,97,fear,52,460,Shadowhunters,0.11304347826086956
+Unravel Me,76,anticipation,52,575,Shadowhunters,0.09043478260869565
+Unravel Me,80,anger,52,450,Shadowhunters,0.11555555555555555
+Unravel Me,80,sadness,52,450,Shadowhunters,0.11555555555555555
+Unravel Me,98,disgust,52,1204,Shadowhunters,0.04318936877076412
+Fourth Wing,57,anticipation,51,841,Shadowhunters,0.06064209274673008
+Fourth Wing,60,anger,51,689,Shadowhunters,0.07402031930333818
+Fourth Wing,87,anger,51,382,Shadowhunters,0.13350785340314136
+Iron Flame,69,surprise,51,886,Shadowhunters,0.05756207674943566
+Iron Flame,71,anticipation,51,577,Shadowhunters,0.08838821490467938
+Iron Flame,74,surprise,51,1127,Shadowhunters,0.04525288376220053
+Iron Flame,82,surprise,51,808,Shadowhunters,0.06311881188118812
+Iron Flame,85,anticipation,51,836,Shadowhunters,0.061004784688995214
+Iron Flame,94,anger,51,477,Shadowhunters,0.1069182389937107
+Iron Flame,95,disgust,51,784,Shadowhunters,0.06505102040816327
+Iron Flame,104,disgust,51,1165,Shadowhunters,0.04377682403433476
+Iron Flame,104,joy,51,1165,Shadowhunters,0.04377682403433476
+Onyx Storm (The Empyrean Book 3,71,anticipation,51,631,Shadowhunters,0.08082408874801902
+Onyx Storm (The Empyrean Book 3,77,anger,51,548,Shadowhunters,0.09306569343065693
+Onyx Storm (The Empyrean Book 3,84,anticipation,51,531,Shadowhunters,0.096045197740113
+Onyx Storm (The Empyrean Book 3,128,anticipation,51,676,Shadowhunters,0.07544378698224852
+Onyx Storm (The Empyrean Book 3,128,trust,51,676,Shadowhunters,0.07544378698224852
+Onyx Storm (The Empyrean Book 3,129,surprise,51,870,Shadowhunters,0.05862068965517241
+Shatter Me,17,fear,51,415,Shadowhunters,0.12289156626506025
+Unravel Me,76,trust,51,575,Shadowhunters,0.08869565217391304
+Unravel Me,77,joy,51,458,Shadowhunters,0.11135371179039301
+Fourth Wing,43,disgust,50,775,Shadowhunters,0.06451612903225806
+Fourth Wing,61,sadness,50,755,Shadowhunters,0.06622516556291391
+Fourth Wing,63,sadness,50,583,Shadowhunters,0.08576329331046312
+Fourth Wing,65,joy,50,1001,Shadowhunters,0.04995004995004995
+Fourth Wing,68,joy,50,1115,Shadowhunters,0.04484304932735426
+Fourth Wing,83,anger,50,522,Shadowhunters,0.09578544061302682
+Fourth Wing,87,sadness,50,382,Shadowhunters,0.13089005235602094
+Ignite Me,80,negative,50,223,Shadowhunters,0.2242152466367713
+Iron Flame,87,joy,50,950,Shadowhunters,0.05263157894736842
+Iron Flame,105,sadness,50,633,Shadowhunters,0.07898894154818326
+Onyx Storm (The Empyrean Book 3,70,anger,50,552,Shadowhunters,0.09057971014492754
+Onyx Storm (The Empyrean Book 3,73,anticipation,50,615,Shadowhunters,0.08130081300813008
+Onyx Storm (The Empyrean Book 3,79,fear,50,568,Shadowhunters,0.0880281690140845
+Onyx Storm (The Empyrean Book 3,84,fear,50,531,Shadowhunters,0.09416195856873823
+Onyx Storm (The Empyrean Book 3,84,joy,50,531,Shadowhunters,0.09416195856873823
+Onyx Storm (The Empyrean Book 3,91,anger,50,591,Shadowhunters,0.08460236886632826
+Onyx Storm (The Empyrean Book 3,100,surprise,50,819,Shadowhunters,0.06105006105006105
+Onyx Storm (The Empyrean Book 3,101,anger,50,753,Shadowhunters,0.06640106241699867
+Onyx Storm (The Empyrean Book 3,107,trust,50,502,Shadowhunters,0.099601593625498
+Onyx Storm (The Empyrean Book 3,115,positive,50,352,Shadowhunters,0.14204545454545456
+Onyx Storm (The Empyrean Book 3,116,anger,50,467,Shadowhunters,0.10706638115631692
+Onyx Storm (The Empyrean Book 3,126,sadness,50,609,Shadowhunters,0.08210180623973727
+Unravel Me,75,anticipation,50,452,Shadowhunters,0.11061946902654868
+Unravel Me,75,fear,50,452,Shadowhunters,0.11061946902654868
+Unravel Me,80,fear,50,450,Shadowhunters,0.1111111111111111
+Fourth Wing,82,anticipation,49,559,Shadowhunters,0.08765652951699464
+Ignite Me,87,anger,49,568,Shadowhunters,0.08626760563380281
+Iron Flame,84,disgust,49,783,Shadowhunters,0.06257982120051085
+Iron Flame,91,fear,49,475,Shadowhunters,0.1031578947368421
+Iron Flame,116,positive,49,264,Shadowhunters,0.1856060606060606
+Iron Flame,119,disgust,49,643,Shadowhunters,0.07620528771384137
+Iron Flame,128,anticipation,49,797,Shadowhunters,0.06148055207026349
+Onyx Storm (The Empyrean Book 3,68,sadness,49,635,Shadowhunters,0.07716535433070866
+Onyx Storm (The Empyrean Book 3,78,joy,49,860,Shadowhunters,0.056976744186046514
+Onyx Storm (The Empyrean Book 3,83,surprise,49,733,Shadowhunters,0.06684856753069578
+Onyx Storm (The Empyrean Book 3,88,trust,49,398,Shadowhunters,0.12311557788944724
+Onyx Storm (The Empyrean Book 3,90,sadness,49,610,Shadowhunters,0.08032786885245902
+Onyx Storm (The Empyrean Book 3,91,joy,49,591,Shadowhunters,0.0829103214890017
+Onyx Storm (The Empyrean Book 3,106,trust,49,344,Shadowhunters,0.14244186046511628
+Onyx Storm (The Empyrean Book 3,109,surprise,49,1026,Shadowhunters,0.04775828460038986
+Onyx Storm (The Empyrean Book 3,112,fear,49,447,Shadowhunters,0.10961968680089486
+Onyx Storm (The Empyrean Book 3,113,sadness,49,644,Shadowhunters,0.07608695652173914
+Onyx Storm (The Empyrean Book 3,113,surprise,49,644,Shadowhunters,0.07608695652173914
+Onyx Storm (The Empyrean Book 3,114,fear,49,489,Shadowhunters,0.10020449897750511
+Onyx Storm (The Empyrean Book 3,117,sadness,49,584,Shadowhunters,0.0839041095890411
+Onyx Storm (The Empyrean Book 3,120,trust,49,636,Shadowhunters,0.0770440251572327
+Onyx Storm (The Empyrean Book 3,127,fear,49,375,Shadowhunters,0.13066666666666665
+Shatter Me,22,negative,49,266,Shadowhunters,0.18421052631578946
+Fourth Wing,49,surprise,48,996,Shadowhunters,0.04819277108433735
+Fourth Wing,61,joy,48,755,Shadowhunters,0.06357615894039735
+Fourth Wing,74,surprise,48,803,Shadowhunters,0.05977584059775841
+Fourth Wing,83,trust,48,522,Shadowhunters,0.09195402298850575
+Ignite Me,83,sadness,48,417,Shadowhunters,0.11510791366906475
+Ignite Me,84,sadness,48,456,Shadowhunters,0.10526315789473684
+Iron Flame,69,joy,48,886,Shadowhunters,0.05417607223476298
+Iron Flame,70,joy,48,838,Shadowhunters,0.057279236276849645
+Iron Flame,71,fear,48,577,Shadowhunters,0.0831889081455806
+Iron Flame,88,anger,48,428,Shadowhunters,0.11214953271028037
+Iron Flame,90,fear,48,379,Shadowhunters,0.1266490765171504
+Iron Flame,108,surprise,48,756,Shadowhunters,0.06349206349206349
+Iron Flame,111,joy,48,816,Shadowhunters,0.058823529411764705
+Iron Flame,129,anticipation,48,558,Shadowhunters,0.08602150537634409
+Iron Flame,129,trust,48,558,Shadowhunters,0.08602150537634409
+Iron Flame,130,surprise,48,1037,Shadowhunters,0.04628736740597879
+Iron Flame,132,fear,48,354,Shadowhunters,0.13559322033898305
+Onyx Storm (The Empyrean Book 3,73,sadness,48,615,Shadowhunters,0.07804878048780488
+Onyx Storm (The Empyrean Book 3,85,sadness,48,686,Shadowhunters,0.06997084548104957
+Onyx Storm (The Empyrean Book 3,87,joy,48,812,Shadowhunters,0.059113300492610835
+Onyx Storm (The Empyrean Book 3,89,joy,48,601,Shadowhunters,0.07986688851913477
+Onyx Storm (The Empyrean Book 3,90,anger,48,610,Shadowhunters,0.07868852459016394
+Onyx Storm (The Empyrean Book 3,97,trust,48,460,Shadowhunters,0.10434782608695652
+Onyx Storm (The Empyrean Book 3,113,fear,48,644,Shadowhunters,0.07453416149068323
+Onyx Storm (The Empyrean Book 3,113,joy,48,644,Shadowhunters,0.07453416149068323
+Onyx Storm (The Empyrean Book 3,122,negative,48,266,Shadowhunters,0.18045112781954886
+Unravel Me,76,anger,48,575,Shadowhunters,0.08347826086956522
+Fourth Wing,43,anticipation,47,775,Shadowhunters,0.06064516129032258
+Fourth Wing,62,surprise,47,659,Shadowhunters,0.07132018209408195
+Fourth Wing,63,trust,47,583,Shadowhunters,0.08061749571183534
+Fourth Wing,65,surprise,47,1001,Shadowhunters,0.04695304695304695
+Fourth Wing,86,trust,47,663,Shadowhunters,0.07088989441930618
+Iron Flame,67,disgust,47,742,Shadowhunters,0.06334231805929919
+Iron Flame,71,sadness,47,577,Shadowhunters,0.08145580589254767
+Iron Flame,101,joy,47,1484,Shadowhunters,0.03167115902964959
+Iron Flame,119,anticipation,47,643,Shadowhunters,0.07309486780715396
+Iron Flame,121,trust,47,390,Shadowhunters,0.12051282051282051
+Iron Flame,127,disgust,47,1122,Shadowhunters,0.04188948306595366
+Onyx Storm (The Empyrean Book 3,69,sadness,47,694,Shadowhunters,0.06772334293948126
+Onyx Storm (The Empyrean Book 3,79,anticipation,47,568,Shadowhunters,0.08274647887323944
+Onyx Storm (The Empyrean Book 3,103,anger,47,586,Shadowhunters,0.08020477815699659
+Onyx Storm (The Empyrean Book 3,103,joy,47,586,Shadowhunters,0.08020477815699659
+Onyx Storm (The Empyrean Book 3,111,sadness,47,712,Shadowhunters,0.06601123595505617
+Onyx Storm (The Empyrean Book 3,112,trust,47,447,Shadowhunters,0.10514541387024609
+Onyx Storm (The Empyrean Book 3,114,surprise,47,489,Shadowhunters,0.09611451942740286
+Onyx Storm (The Empyrean Book 3,124,negative,47,274,Shadowhunters,0.17153284671532848
+Onyx Storm (The Empyrean Book 3,129,disgust,47,870,Shadowhunters,0.054022988505747126
+Shatter Me,11,negative,47,204,Shadowhunters,0.23039215686274508
+Unravel Me,76,joy,47,575,Shadowhunters,0.0817391304347826
+Unravel Me,83,disgust,47,785,Shadowhunters,0.05987261146496815
+Fourth Wing,51,anticipation,46,682,Shadowhunters,0.06744868035190615
+Fourth Wing,84,surprise,46,971,Shadowhunters,0.04737384140061792
+Ignite Me,84,anger,46,456,Shadowhunters,0.10087719298245613
+Ignite Me,87,trust,46,568,Shadowhunters,0.08098591549295775
+Iron Flame,70,disgust,46,838,Shadowhunters,0.05489260143198091
+Iron Flame,83,anticipation,46,526,Shadowhunters,0.08745247148288973
+Iron Flame,96,disgust,46,869,Shadowhunters,0.05293440736478711
+Iron Flame,98,trust,46,549,Shadowhunters,0.08378870673952642
+Iron Flame,110,surprise,46,834,Shadowhunters,0.05515587529976019
+Iron Flame,113,sadness,46,524,Shadowhunters,0.08778625954198473
+Iron Flame,115,anger,46,514,Shadowhunters,0.08949416342412451
+Iron Flame,127,joy,46,1122,Shadowhunters,0.040998217468805706
+Iron Flame,130,joy,46,1037,Shadowhunters,0.044358727097396335
+Iron Flame,131,positive,46,252,Shadowhunters,0.18253968253968253
+Onyx Storm (The Empyrean Book 3,75,sadness,46,541,Shadowhunters,0.08502772643253234
+Onyx Storm (The Empyrean Book 3,82,sadness,46,474,Shadowhunters,0.0970464135021097
+Onyx Storm (The Empyrean Book 3,87,surprise,46,812,Shadowhunters,0.05665024630541872
+Onyx Storm (The Empyrean Book 3,95,anger,46,679,Shadowhunters,0.06774668630338733
+Onyx Storm (The Empyrean Book 3,101,sadness,46,753,Shadowhunters,0.06108897742363878
+Onyx Storm (The Empyrean Book 3,105,fear,46,430,Shadowhunters,0.10697674418604651
+Onyx Storm (The Empyrean Book 3,124,positive,46,274,Shadowhunters,0.1678832116788321
+Onyx Storm (The Empyrean Book 3,130,surprise,46,678,Shadowhunters,0.06784660766961652
+Shatter Me,21,negative,46,263,Shadowhunters,0.17490494296577946
+Fourth Wing,75,sadness,45,650,Shadowhunters,0.06923076923076923
+Fourth Wing,76,joy,45,943,Shadowhunters,0.04772004241781548
+Ignite Me,85,sadness,45,530,Shadowhunters,0.08490566037735849
+Iron Flame,80,disgust,45,676,Shadowhunters,0.06656804733727811
+Iron Flame,94,anticipation,45,477,Shadowhunters,0.09433962264150944
+Iron Flame,103,surprise,45,766,Shadowhunters,0.0587467362924282
+Iron Flame,112,anticipation,45,636,Shadowhunters,0.07075471698113207
+Iron Flame,115,anticipation,45,514,Shadowhunters,0.08754863813229571
+Onyx Storm (The Empyrean Book 3,80,sadness,45,628,Shadowhunters,0.07165605095541401
+Onyx Storm (The Empyrean Book 3,83,joy,45,733,Shadowhunters,0.061391541609822645
+Onyx Storm (The Empyrean Book 3,87,disgust,45,812,Shadowhunters,0.05541871921182266
+Onyx Storm (The Empyrean Book 3,94,sadness,45,714,Shadowhunters,0.06302521008403361
+Onyx Storm (The Empyrean Book 3,97,anticipation,45,460,Shadowhunters,0.09782608695652174
+Onyx Storm (The Empyrean Book 3,110,anticipation,45,582,Shadowhunters,0.07731958762886598
+Onyx Storm (The Empyrean Book 3,113,anger,45,644,Shadowhunters,0.06987577639751552
+Onyx Storm (The Empyrean Book 3,114,anger,45,489,Shadowhunters,0.09202453987730061
+Onyx Storm (The Empyrean Book 3,116,trust,45,467,Shadowhunters,0.09635974304068523
+Onyx Storm (The Empyrean Book 3,121,trust,45,418,Shadowhunters,0.1076555023923445
+Onyx Storm (The Empyrean Book 3,123,anger,45,451,Shadowhunters,0.09977827050997783
+Onyx Storm (The Empyrean Book 3,130,anticipation,45,678,Shadowhunters,0.06637168141592921
+Fourth Wing,78,surprise,44,699,Shadowhunters,0.06294706723891273
+Fourth Wing,83,sadness,44,522,Shadowhunters,0.0842911877394636
+Ignite Me,85,anticipation,44,530,Shadowhunters,0.0830188679245283
+Iron Flame,71,anger,44,577,Shadowhunters,0.07625649913344887
+Iron Flame,72,anger,44,409,Shadowhunters,0.10757946210268948
+Iron Flame,72,anticipation,44,409,Shadowhunters,0.10757946210268948
+Iron Flame,112,surprise,44,636,Shadowhunters,0.06918238993710692
+Iron Flame,123,joy,44,1008,Shadowhunters,0.04365079365079365
+Iron Flame,126,surprise,44,887,Shadowhunters,0.0496054114994363
+Onyx Storm (The Empyrean Book 3,70,sadness,44,552,Shadowhunters,0.07971014492753623
+Onyx Storm (The Empyrean Book 3,72,sadness,44,738,Shadowhunters,0.05962059620596206
+Onyx Storm (The Empyrean Book 3,74,anger,44,416,Shadowhunters,0.10576923076923077
+Onyx Storm (The Empyrean Book 3,74,trust,44,416,Shadowhunters,0.10576923076923077
+Onyx Storm (The Empyrean Book 3,93,surprise,44,685,Shadowhunters,0.06423357664233577
+Onyx Storm (The Empyrean Book 3,104,sadness,44,603,Shadowhunters,0.07296849087893864
+Onyx Storm (The Empyrean Book 3,107,anticipation,44,502,Shadowhunters,0.08764940239043825
+Onyx Storm (The Empyrean Book 3,117,anticipation,44,584,Shadowhunters,0.07534246575342465
+Onyx Storm (The Empyrean Book 3,118,anticipation,44,536,Shadowhunters,0.08208955223880597
+Onyx Storm (The Empyrean Book 3,123,anticipation,44,451,Shadowhunters,0.0975609756097561
+Onyx Storm (The Empyrean Book 3,132,positive,44,234,Shadowhunters,0.18803418803418803
+Unravel Me,78,negative,44,300,Shadowhunters,0.14666666666666667
+Fourth Wing,47,disgust,43,727,Shadowhunters,0.059147180192572216
+Fourth Wing,61,surprise,43,755,Shadowhunters,0.05695364238410596
+Fourth Wing,64,fear,43,508,Shadowhunters,0.08464566929133858
+Iron Flame,73,fear,43,395,Shadowhunters,0.10886075949367088
+Iron Flame,73,trust,43,395,Shadowhunters,0.10886075949367088
+Iron Flame,79,surprise,43,978,Shadowhunters,0.04396728016359918
+Iron Flame,80,sadness,43,676,Shadowhunters,0.06360946745562131
+Iron Flame,82,joy,43,808,Shadowhunters,0.053217821782178217
+Iron Flame,90,trust,43,379,Shadowhunters,0.11345646437994723
+Iron Flame,103,joy,43,766,Shadowhunters,0.05613577023498695
+Iron Flame,110,disgust,43,834,Shadowhunters,0.05155875299760192
+Iron Flame,111,disgust,43,816,Shadowhunters,0.05269607843137255
+Iron Flame,111,surprise,43,816,Shadowhunters,0.05269607843137255
+Iron Flame,123,surprise,43,1008,Shadowhunters,0.04265873015873016
+Onyx Storm (The Empyrean Book 3,67,surprise,43,891,Shadowhunters,0.04826038159371493
+Onyx Storm (The Empyrean Book 3,69,joy,43,694,Shadowhunters,0.06195965417867435
+Onyx Storm (The Empyrean Book 3,86,sadness,43,589,Shadowhunters,0.0730050933786078
+Onyx Storm (The Empyrean Book 3,89,fear,43,601,Shadowhunters,0.07154742096505824
+Onyx Storm (The Empyrean Book 3,89,surprise,43,601,Shadowhunters,0.07154742096505824
+Onyx Storm (The Empyrean Book 3,104,anger,43,603,Shadowhunters,0.07131011608623548
+Onyx Storm (The Empyrean Book 3,112,anger,43,447,Shadowhunters,0.09619686800894854
+Onyx Storm (The Empyrean Book 3,123,fear,43,451,Shadowhunters,0.09534368070953436
+Onyx Storm (The Empyrean Book 3,126,surprise,43,609,Shadowhunters,0.07060755336617405
+Onyx Storm (The Empyrean Book 3,129,joy,43,870,Shadowhunters,0.04942528735632184
+Onyx Storm (The Empyrean Book 3,132,negative,43,234,Shadowhunters,0.18376068376068377
+Shatter Me,13,positive,43,301,Shadowhunters,0.14285714285714285
+Shatter Me,21,positive,43,263,Shadowhunters,0.1634980988593156
+The Mortal Instruments 05 - Cit,0,negative,43,186,Shadowhunters,0.23118279569892472
+Unravel Me,74,negative,43,195,Shadowhunters,0.2205128205128205
+Fourth Wing,43,surprise,42,775,Shadowhunters,0.05419354838709677
+Fourth Wing,57,surprise,42,841,Shadowhunters,0.04994054696789536
+Fourth Wing,64,anger,42,508,Shadowhunters,0.08267716535433071
+Fourth Wing,64,anticipation,42,508,Shadowhunters,0.08267716535433071
+Fourth Wing,69,disgust,42,696,Shadowhunters,0.0603448275862069
+Fourth Wing,74,joy,42,803,Shadowhunters,0.052303860523038606
+Fourth Wing,75,surprise,42,650,Shadowhunters,0.06461538461538462
+Fourth Wing,83,anticipation,42,522,Shadowhunters,0.08045977011494253
+Fourth Wing,86,anticipation,42,663,Shadowhunters,0.06334841628959276
+Ignite Me,87,joy,42,568,Shadowhunters,0.07394366197183098
+Iron Flame,75,surprise,42,851,Shadowhunters,0.04935370152761457
+Iron Flame,83,trust,42,526,Shadowhunters,0.07984790874524715
+Iron Flame,85,surprise,42,836,Shadowhunters,0.050239234449760764
+Iron Flame,88,sadness,42,428,Shadowhunters,0.09813084112149532
+Iron Flame,88,trust,42,428,Shadowhunters,0.09813084112149532
+Iron Flame,91,anger,42,475,Shadowhunters,0.08842105263157894
+Iron Flame,94,sadness,42,477,Shadowhunters,0.0880503144654088
+Iron Flame,110,joy,42,834,Shadowhunters,0.050359712230215826
+Iron Flame,115,fear,42,514,Shadowhunters,0.08171206225680934
+Iron Flame,126,joy,42,887,Shadowhunters,0.04735062006764374
+Iron Flame,128,surprise,42,797,Shadowhunters,0.05269761606022585
+Onyx Storm (The Empyrean Book 3,74,fear,42,416,Shadowhunters,0.10096153846153846
+Onyx Storm (The Empyrean Book 3,77,anticipation,42,548,Shadowhunters,0.07664233576642336
+Onyx Storm (The Empyrean Book 3,91,anticipation,42,591,Shadowhunters,0.07106598984771574
+Onyx Storm (The Empyrean Book 3,96,fear,42,346,Shadowhunters,0.12138728323699421
+Onyx Storm (The Empyrean Book 3,102,sadness,42,391,Shadowhunters,0.10741687979539642
+Onyx Storm (The Empyrean Book 3,103,sadness,42,586,Shadowhunters,0.07167235494880546
+Onyx Storm (The Empyrean Book 3,104,fear,42,603,Shadowhunters,0.06965174129353234
+Onyx Storm (The Empyrean Book 3,105,sadness,42,430,Shadowhunters,0.09767441860465116
+Onyx Storm (The Empyrean Book 3,106,negative,42,344,Shadowhunters,0.12209302325581395
+Onyx Storm (The Empyrean Book 3,108,fear,42,348,Shadowhunters,0.1206896551724138
+Fourth Wing,47,joy,41,727,Shadowhunters,0.05639614855570839
+Fourth Wing,60,surprise,41,689,Shadowhunters,0.059506531204644414
+Fourth Wing,63,surprise,41,583,Shadowhunters,0.07032590051457976
+Iron Flame,67,joy,41,742,Shadowhunters,0.05525606469002695
+Iron Flame,72,fear,41,409,Shadowhunters,0.10024449877750612
+Iron Flame,73,anticipation,41,395,Shadowhunters,0.10379746835443038
+Iron Flame,91,anticipation,41,475,Shadowhunters,0.0863157894736842
+Iron Flame,95,surprise,41,784,Shadowhunters,0.05229591836734694
+Iron Flame,97,negative,41,163,Shadowhunters,0.25153374233128833
+Iron Flame,98,sadness,41,549,Shadowhunters,0.07468123861566485
+Iron Flame,99,anticipation,41,495,Shadowhunters,0.08282828282828283
+Iron Flame,103,disgust,41,766,Shadowhunters,0.05352480417754569
+Iron Flame,105,disgust,41,633,Shadowhunters,0.06477093206951026
+Iron Flame,128,disgust,41,797,Shadowhunters,0.05144291091593475
+Onyx Storm (The Empyrean Book 3,66,trust,41,510,Shadowhunters,0.0803921568627451
+Onyx Storm (The Empyrean Book 3,68,surprise,41,635,Shadowhunters,0.06456692913385827
+Onyx Storm (The Empyrean Book 3,70,anticipation,41,552,Shadowhunters,0.07427536231884058
+Onyx Storm (The Empyrean Book 3,82,anticipation,41,474,Shadowhunters,0.08649789029535865
+Onyx Storm (The Empyrean Book 3,89,anger,41,601,Shadowhunters,0.06821963394342762
+Onyx Storm (The Empyrean Book 3,105,anger,41,430,Shadowhunters,0.09534883720930233
+Onyx Storm (The Empyrean Book 3,107,anger,41,502,Shadowhunters,0.08167330677290836
+Onyx Storm (The Empyrean Book 3,130,trust,41,678,Shadowhunters,0.06047197640117994
+Onyx Storm (The Empyrean Book 3,131,fear,41,341,Shadowhunters,0.12023460410557185
+Shatter Me,12,sadness,41,349,Shadowhunters,0.1174785100286533
+Fourth Wing,49,disgust,40,996,Shadowhunters,0.040160642570281124
+Fourth Wing,62,disgust,40,659,Shadowhunters,0.06069802731411229
+Fourth Wing,74,disgust,40,803,Shadowhunters,0.049813200498132
+Ignite Me,85,trust,40,530,Shadowhunters,0.07547169811320754
+Iron Flame,83,sadness,40,526,Shadowhunters,0.07604562737642585
+Iron Flame,84,joy,40,783,Shadowhunters,0.05108556832694764
+Iron Flame,92,negative,40,184,Shadowhunters,0.21739130434782608
+Iron Flame,94,trust,40,477,Shadowhunters,0.08385744234800839
+Iron Flame,118,disgust,40,749,Shadowhunters,0.0534045393858478
+Iron Flame,118,joy,40,749,Shadowhunters,0.0534045393858478
+Iron Flame,118,surprise,40,749,Shadowhunters,0.0534045393858478
+Onyx Storm (The Empyrean Book 3,66,anticipation,40,510,Shadowhunters,0.0784313725490196
+Onyx Storm (The Empyrean Book 3,68,joy,40,635,Shadowhunters,0.06299212598425197
+Onyx Storm (The Empyrean Book 3,91,trust,40,591,Shadowhunters,0.0676818950930626
+Onyx Storm (The Empyrean Book 3,94,disgust,40,714,Shadowhunters,0.056022408963585436
+Onyx Storm (The Empyrean Book 3,95,joy,40,679,Shadowhunters,0.05891016200294551
+Onyx Storm (The Empyrean Book 3,99,anger,40,434,Shadowhunters,0.09216589861751152
+Onyx Storm (The Empyrean Book 3,101,surprise,40,753,Shadowhunters,0.05312084993359894
+Onyx Storm (The Empyrean Book 3,102,anger,40,391,Shadowhunters,0.10230179028132992
+Onyx Storm (The Empyrean Book 3,102,fear,40,391,Shadowhunters,0.10230179028132992
+Onyx Storm (The Empyrean Book 3,102,trust,40,391,Shadowhunters,0.10230179028132992
+Onyx Storm (The Empyrean Book 3,106,joy,40,344,Shadowhunters,0.11627906976744186
+Onyx Storm (The Empyrean Book 3,107,sadness,40,502,Shadowhunters,0.0796812749003984
+Onyx Storm (The Empyrean Book 3,108,sadness,40,348,Shadowhunters,0.11494252873563218
+Onyx Storm (The Empyrean Book 3,111,joy,40,712,Shadowhunters,0.056179775280898875
+Onyx Storm (The Empyrean Book 3,111,surprise,40,712,Shadowhunters,0.056179775280898875
+Onyx Storm (The Empyrean Book 3,115,fear,40,352,Shadowhunters,0.11363636363636363
+Onyx Storm (The Empyrean Book 3,119,fear,40,370,Shadowhunters,0.10810810810810811
+Onyx Storm (The Empyrean Book 3,126,joy,40,609,Shadowhunters,0.06568144499178982
+Shatter Me,17,trust,40,415,Shadowhunters,0.0963855421686747
+Unravel Me,76,sadness,40,575,Shadowhunters,0.06956521739130435
+Fourth Wing,63,anticipation,39,583,Shadowhunters,0.06689536878216124
+Fourth Wing,63,disgust,39,583,Shadowhunters,0.06689536878216124
+Fourth Wing,76,disgust,39,943,Shadowhunters,0.041357370095440084
+Fourth Wing,82,sadness,39,559,Shadowhunters,0.06976744186046512
+Fourth Wing,86,surprise,39,663,Shadowhunters,0.058823529411764705
+Fourth Wing,87,positive,39,382,Shadowhunters,0.10209424083769633
+Ignite Me,85,disgust,39,530,Shadowhunters,0.07358490566037736
+Ignite Me,87,anticipation,39,568,Shadowhunters,0.06866197183098592
+Ignite Me,87,surprise,39,568,Shadowhunters,0.06866197183098592
+Iron Flame,72,trust,39,409,Shadowhunters,0.09535452322738386
+Iron Flame,91,sadness,39,475,Shadowhunters,0.08210526315789474
+Iron Flame,108,joy,39,756,Shadowhunters,0.051587301587301584
+Iron Flame,113,trust,39,524,Shadowhunters,0.07442748091603053
+Iron Flame,121,anticipation,39,390,Shadowhunters,0.1
+Iron Flame,125,disgust,39,810,Shadowhunters,0.04814814814814815
+Iron Flame,131,negative,39,252,Shadowhunters,0.15476190476190477
+Onyx Storm (The Empyrean Book 3,81,fear,39,361,Shadowhunters,0.10803324099722991
+Onyx Storm (The Empyrean Book 3,84,anger,39,531,Shadowhunters,0.07344632768361582
+Onyx Storm (The Empyrean Book 3,89,sadness,39,601,Shadowhunters,0.064891846921797
+Onyx Storm (The Empyrean Book 3,95,surprise,39,679,Shadowhunters,0.05743740795287187
+Onyx Storm (The Empyrean Book 3,114,sadness,39,489,Shadowhunters,0.07975460122699386
+Onyx Storm (The Empyrean Book 3,119,sadness,39,370,Shadowhunters,0.10540540540540541
+Shatter Me,17,anger,39,415,Shadowhunters,0.09397590361445783
+Shatter Me,19,fear,39,356,Shadowhunters,0.10955056179775281
+Shatter Me,20,fear,39,248,Shadowhunters,0.15725806451612903
+Unravel Me,75,trust,39,452,Shadowhunters,0.08628318584070796
+Ignite Me,81,negative,38,248,Shadowhunters,0.1532258064516129
+Ignite Me,86,positive,38,177,Shadowhunters,0.21468926553672316
+Iron Flame,79,joy,38,978,Shadowhunters,0.03885480572597137
+Iron Flame,81,trust,38,340,Shadowhunters,0.11176470588235295
+Iron Flame,98,surprise,38,549,Shadowhunters,0.0692167577413479
+Iron Flame,132,sadness,38,354,Shadowhunters,0.10734463276836158
+Onyx Storm (The Empyrean Book 3,67,joy,38,891,Shadowhunters,0.04264870931537598
+Onyx Storm (The Empyrean Book 3,69,surprise,38,694,Shadowhunters,0.05475504322766571
+Onyx Storm (The Empyrean Book 3,71,sadness,38,631,Shadowhunters,0.060221870047543584
+Onyx Storm (The Empyrean Book 3,84,surprise,38,531,Shadowhunters,0.07156308851224105
+Onyx Storm (The Empyrean Book 3,86,anger,38,589,Shadowhunters,0.06451612903225806
+Onyx Storm (The Empyrean Book 3,96,trust,38,346,Shadowhunters,0.10982658959537572
+Onyx Storm (The Empyrean Book 3,98,anticipation,38,543,Shadowhunters,0.06998158379373849
+Onyx Storm (The Empyrean Book 3,105,trust,38,430,Shadowhunters,0.08837209302325581
+Onyx Storm (The Empyrean Book 3,118,trust,38,536,Shadowhunters,0.0708955223880597
+Onyx Storm (The Empyrean Book 3,125,sadness,38,440,Shadowhunters,0.08636363636363636
+Onyx Storm (The Empyrean Book 3,125,trust,38,440,Shadowhunters,0.08636363636363636
+Onyx Storm (The Empyrean Book 3,127,anger,38,375,Shadowhunters,0.10133333333333333
+Shatter Me,19,anger,38,356,Shadowhunters,0.10674157303370786
+Unravel Me,80,trust,38,450,Shadowhunters,0.08444444444444445
+Fourth Wing,47,surprise,37,727,Shadowhunters,0.05089408528198074
+Fourth Wing,51,joy,37,682,Shadowhunters,0.054252199413489736
+Fourth Wing,62,joy,37,659,Shadowhunters,0.05614567526555387
+Fourth Wing,78,joy,37,699,Shadowhunters,0.05293276108726753
+Ignite Me,83,anger,37,417,Shadowhunters,0.08872901678657075
+Iron Flame,70,surprise,37,838,Shadowhunters,0.0441527446300716
+Iron Flame,71,joy,37,577,Shadowhunters,0.06412478336221837
+Iron Flame,89,joy,37,661,Shadowhunters,0.05597579425113464
+Iron Flame,90,anger,37,379,Shadowhunters,0.09762532981530343
+Iron Flame,112,disgust,37,636,Shadowhunters,0.05817610062893082
+Iron Flame,115,joy,37,514,Shadowhunters,0.07198443579766536
+Iron Flame,119,surprise,37,643,Shadowhunters,0.05754276827371695
+Iron Flame,124,disgust,37,780,Shadowhunters,0.047435897435897434
+Iron Flame,124,surprise,37,780,Shadowhunters,0.047435897435897434
+Onyx Storm (The Empyrean Book 3,71,disgust,37,631,Shadowhunters,0.058637083993660855
+Onyx Storm (The Empyrean Book 3,73,surprise,37,615,Shadowhunters,0.06016260162601626
+Onyx Storm (The Empyrean Book 3,75,anger,37,541,Shadowhunters,0.06839186691312385
+Onyx Storm (The Empyrean Book 3,81,trust,37,361,Shadowhunters,0.10249307479224377
+Onyx Storm (The Empyrean Book 3,94,joy,37,714,Shadowhunters,0.05182072829131653
+Onyx Storm (The Empyrean Book 3,94,surprise,37,714,Shadowhunters,0.05182072829131653
+Onyx Storm (The Empyrean Book 3,98,sadness,37,543,Shadowhunters,0.06813996316758748
+Onyx Storm (The Empyrean Book 3,98,surprise,37,543,Shadowhunters,0.06813996316758748
+Onyx Storm (The Empyrean Book 3,103,surprise,37,586,Shadowhunters,0.06313993174061433
+Onyx Storm (The Empyrean Book 3,112,sadness,37,447,Shadowhunters,0.08277404921700224
+Onyx Storm (The Empyrean Book 3,119,trust,37,370,Shadowhunters,0.1
+Onyx Storm (The Empyrean Book 3,121,anticipation,37,418,Shadowhunters,0.08851674641148326
+Shatter Me,13,fear,37,301,Shadowhunters,0.12292358803986711
+Shatter Me,17,sadness,37,415,Shadowhunters,0.0891566265060241
+Fourth Wing,60,joy,36,689,Shadowhunters,0.05224963715529753
+Fourth Wing,66,surprise,36,858,Shadowhunters,0.04195804195804196
+Ignite Me,85,joy,36,530,Shadowhunters,0.06792452830188679
+Iron Flame,75,joy,36,851,Shadowhunters,0.04230317273795535
+Iron Flame,76,joy,36,811,Shadowhunters,0.04438964241676942
+Iron Flame,83,disgust,36,526,Shadowhunters,0.06844106463878327
+Iron Flame,89,surprise,36,661,Shadowhunters,0.05446293494704992
+Iron Flame,116,anger,36,264,Shadowhunters,0.13636363636363635
+Iron Flame,117,anger,36,320,Shadowhunters,0.1125
+Iron Flame,121,anger,36,390,Shadowhunters,0.09230769230769231
+Iron Flame,126,disgust,36,887,Shadowhunters,0.040586245772266064
+Onyx Storm (The Empyrean Book 3,81,anger,36,361,Shadowhunters,0.0997229916897507
+Onyx Storm (The Empyrean Book 3,86,joy,36,589,Shadowhunters,0.06112054329371817
+Onyx Storm (The Empyrean Book 3,88,anticipation,36,398,Shadowhunters,0.09045226130653267
+Onyx Storm (The Empyrean Book 3,99,fear,36,434,Shadowhunters,0.08294930875576037
+Onyx Storm (The Empyrean Book 3,116,sadness,36,467,Shadowhunters,0.07708779443254818
+Onyx Storm (The Empyrean Book 3,120,surprise,36,636,Shadowhunters,0.05660377358490566
+Onyx Storm (The Empyrean Book 3,122,trust,36,266,Shadowhunters,0.13533834586466165
+Onyx Storm (The Empyrean Book 3,123,sadness,36,451,Shadowhunters,0.07982261640798226
+Onyx Storm (The Empyrean Book 3,128,surprise,36,676,Shadowhunters,0.05325443786982249
+Onyx Storm (The Empyrean Book 3,131,sadness,36,341,Shadowhunters,0.10557184750733138
+Onyx Storm (The Empyrean Book 3,131,trust,36,341,Shadowhunters,0.10557184750733138
+Shatter Me,12,anger,36,349,Shadowhunters,0.10315186246418338
+Unravel Me,77,anticipation,36,458,Shadowhunters,0.07860262008733625
+Ignite Me,79,positive,35,261,Shadowhunters,0.13409961685823754
+Ignite Me,81,fear,35,248,Shadowhunters,0.14112903225806453
+Ignite Me,81,positive,35,248,Shadowhunters,0.14112903225806453
+Iron Flame,80,surprise,35,676,Shadowhunters,0.051775147928994084
+Iron Flame,81,anticipation,35,340,Shadowhunters,0.10294117647058823
+Iron Flame,115,sadness,35,514,Shadowhunters,0.06809338521400778
+Iron Flame,120,trust,35,552,Shadowhunters,0.06340579710144928
+Iron Flame,125,joy,35,810,Shadowhunters,0.043209876543209874
+Onyx Storm (The Empyrean Book 3,70,joy,35,552,Shadowhunters,0.06340579710144928
+Onyx Storm (The Empyrean Book 3,70,surprise,35,552,Shadowhunters,0.06340579710144928
+Onyx Storm (The Empyrean Book 3,80,joy,35,628,Shadowhunters,0.05573248407643312
+Onyx Storm (The Empyrean Book 3,85,disgust,35,686,Shadowhunters,0.05102040816326531
+Onyx Storm (The Empyrean Book 3,100,disgust,35,819,Shadowhunters,0.042735042735042736
+Onyx Storm (The Empyrean Book 3,105,anticipation,35,430,Shadowhunters,0.08139534883720931
+Onyx Storm (The Empyrean Book 3,106,anticipation,35,344,Shadowhunters,0.10174418604651163
+Onyx Storm (The Empyrean Book 3,111,disgust,35,712,Shadowhunters,0.04915730337078652
+Onyx Storm (The Empyrean Book 3,115,anticipation,35,352,Shadowhunters,0.09943181818181818
+Onyx Storm (The Empyrean Book 3,128,disgust,35,676,Shadowhunters,0.051775147928994084
+Shatter Me,12,fear,35,349,Shadowhunters,0.10028653295128939
+Shatter Me,22,positive,35,266,Shadowhunters,0.13157894736842105
+Unravel Me,75,sadness,35,452,Shadowhunters,0.07743362831858407
+Unravel Me,77,fear,35,458,Shadowhunters,0.07641921397379912
+Fourth Wing,64,sadness,34,508,Shadowhunters,0.06692913385826772
+Fourth Wing,75,disgust,34,650,Shadowhunters,0.052307692307692305
+Iron Flame,85,joy,34,836,Shadowhunters,0.04066985645933014
+Iron Flame,100,anticipation,34,324,Shadowhunters,0.10493827160493827
+Iron Flame,119,joy,34,643,Shadowhunters,0.05287713841368585
+Iron Flame,124,joy,34,780,Shadowhunters,0.04358974358974359
+Onyx Storm (The Empyrean Book 3,72,surprise,34,738,Shadowhunters,0.04607046070460705
+Onyx Storm (The Empyrean Book 3,74,sadness,34,416,Shadowhunters,0.08173076923076923
+Onyx Storm (The Empyrean Book 3,79,joy,34,568,Shadowhunters,0.05985915492957746
+Onyx Storm (The Empyrean Book 3,85,surprise,34,686,Shadowhunters,0.04956268221574344
+Onyx Storm (The Empyrean Book 3,90,surprise,34,610,Shadowhunters,0.05573770491803279
+Onyx Storm (The Empyrean Book 3,93,joy,34,685,Shadowhunters,0.049635036496350364
+Onyx Storm (The Empyrean Book 3,97,sadness,34,460,Shadowhunters,0.07391304347826087
+Onyx Storm (The Empyrean Book 3,110,surprise,34,582,Shadowhunters,0.058419243986254296
+Onyx Storm (The Empyrean Book 3,125,anticipation,34,440,Shadowhunters,0.07727272727272727
+Shatter Me,12,positive,34,349,Shadowhunters,0.09742120343839542
+Shatter Me,19,sadness,34,356,Shadowhunters,0.09550561797752809
+Shatter Me,22,fear,34,266,Shadowhunters,0.12781954887218044
+Unravel Me,78,trust,34,300,Shadowhunters,0.11333333333333333
+Fourth Wing,84,joy,33,971,Shadowhunters,0.03398558187435633
+Iron Flame,67,surprise,33,742,Shadowhunters,0.0444743935309973
+Iron Flame,72,sadness,33,409,Shadowhunters,0.08068459657701711
+Iron Flame,81,anger,33,340,Shadowhunters,0.09705882352941177
+Iron Flame,84,surprise,33,783,Shadowhunters,0.0421455938697318
+Iron Flame,90,sadness,33,379,Shadowhunters,0.0870712401055409
+Iron Flame,100,sadness,33,324,Shadowhunters,0.10185185185185185
+Iron Flame,113,anticipation,33,524,Shadowhunters,0.06297709923664122
+Iron Flame,115,disgust,33,514,Shadowhunters,0.06420233463035019
+Iron Flame,117,anticipation,33,320,Shadowhunters,0.103125
+Iron Flame,120,disgust,33,552,Shadowhunters,0.059782608695652176
+Iron Flame,121,fear,33,390,Shadowhunters,0.08461538461538462
+Iron Flame,132,trust,33,354,Shadowhunters,0.09322033898305085
+Onyx Storm (The Empyrean Book 3,69,disgust,33,694,Shadowhunters,0.04755043227665706
+Onyx Storm (The Empyrean Book 3,72,disgust,33,738,Shadowhunters,0.044715447154471545
+Onyx Storm (The Empyrean Book 3,74,surprise,33,416,Shadowhunters,0.07932692307692307
+Onyx Storm (The Empyrean Book 3,83,disgust,33,733,Shadowhunters,0.045020463847203276
+Onyx Storm (The Empyrean Book 3,88,joy,33,398,Shadowhunters,0.0829145728643216
+Onyx Storm (The Empyrean Book 3,95,disgust,33,679,Shadowhunters,0.048600883652430045
+Onyx Storm (The Empyrean Book 3,96,anger,33,346,Shadowhunters,0.0953757225433526
+Onyx Storm (The Empyrean Book 3,99,joy,33,434,Shadowhunters,0.07603686635944701
+Onyx Storm (The Empyrean Book 3,101,disgust,33,753,Shadowhunters,0.043824701195219126
+Onyx Storm (The Empyrean Book 3,110,sadness,33,582,Shadowhunters,0.05670103092783505
+Onyx Storm (The Empyrean Book 3,115,sadness,33,352,Shadowhunters,0.09375
+Onyx Storm (The Empyrean Book 3,120,joy,33,636,Shadowhunters,0.05188679245283019
+Onyx Storm (The Empyrean Book 3,127,sadness,33,375,Shadowhunters,0.088
+Unravel Me,75,joy,33,452,Shadowhunters,0.07300884955752213
+Fourth Wing,51,surprise,32,682,Shadowhunters,0.0469208211143695
+Fourth Wing,57,joy,32,841,Shadowhunters,0.03804994054696789
+Ignite Me,83,anticipation,32,417,Shadowhunters,0.07673860911270983
+Ignite Me,87,disgust,32,568,Shadowhunters,0.056338028169014086
+Iron Flame,88,anticipation,32,428,Shadowhunters,0.07476635514018691
+Iron Flame,99,sadness,32,495,Shadowhunters,0.06464646464646465
+Iron Flame,113,disgust,32,524,Shadowhunters,0.061068702290076333
+Iron Flame,115,surprise,32,514,Shadowhunters,0.0622568093385214
+Iron Flame,117,trust,32,320,Shadowhunters,0.1
+Iron Flame,121,joy,32,390,Shadowhunters,0.08205128205128205
+Iron Flame,129,disgust,32,558,Shadowhunters,0.05734767025089606
+Onyx Storm (The Empyrean Book 3,68,disgust,32,635,Shadowhunters,0.050393700787401574
+Onyx Storm (The Empyrean Book 3,79,surprise,32,568,Shadowhunters,0.056338028169014086
+Onyx Storm (The Empyrean Book 3,81,anticipation,32,361,Shadowhunters,0.0886426592797784
+Onyx Storm (The Empyrean Book 3,96,sadness,32,346,Shadowhunters,0.09248554913294797
+Onyx Storm (The Empyrean Book 3,103,disgust,32,586,Shadowhunters,0.05460750853242321
+Onyx Storm (The Empyrean Book 3,107,joy,32,502,Shadowhunters,0.06374501992031872
+Onyx Storm (The Empyrean Book 3,108,anger,32,348,Shadowhunters,0.09195402298850575
+Onyx Storm (The Empyrean Book 3,115,anger,32,352,Shadowhunters,0.09090909090909091
+Onyx Storm (The Empyrean Book 3,117,disgust,32,584,Shadowhunters,0.0547945205479452
+Onyx Storm (The Empyrean Book 3,127,anticipation,32,375,Shadowhunters,0.08533333333333333
+Onyx Storm (The Empyrean Book 3,127,trust,32,375,Shadowhunters,0.08533333333333333
+Shatter Me,13,sadness,32,301,Shadowhunters,0.10631229235880399
+Shatter Me,20,anger,32,248,Shadowhunters,0.12903225806451613
+Unravel Me,79,fear,32,261,Shadowhunters,0.12260536398467432
+Fourth Wing,43,joy,31,775,Shadowhunters,0.04
+Fourth Wing,51,disgust,31,682,Shadowhunters,0.045454545454545456
+Fourth Wing,60,disgust,31,689,Shadowhunters,0.04499274310595065
+Ignite Me,84,disgust,31,456,Shadowhunters,0.06798245614035088
+Ignite Me,84,joy,31,456,Shadowhunters,0.06798245614035088
+Iron Flame,71,disgust,31,577,Shadowhunters,0.053726169844020795
+Iron Flame,73,anger,31,395,Shadowhunters,0.07848101265822785
+Iron Flame,92,positive,31,184,Shadowhunters,0.16847826086956522
+Iron Flame,95,joy,31,784,Shadowhunters,0.039540816326530615
+Iron Flame,99,disgust,31,495,Shadowhunters,0.06262626262626263
+Iron Flame,100,fear,31,324,Shadowhunters,0.09567901234567901
+Iron Flame,113,surprise,31,524,Shadowhunters,0.05916030534351145
+Iron Flame,120,anticipation,31,552,Shadowhunters,0.05615942028985507
+Iron Flame,125,surprise,31,810,Shadowhunters,0.03827160493827161
+Onyx Storm (The Empyrean Book 3,75,anticipation,31,541,Shadowhunters,0.05730129390018484
+Onyx Storm (The Empyrean Book 3,75,surprise,31,541,Shadowhunters,0.05730129390018484
+Onyx Storm (The Empyrean Book 3,76,joy,31,872,Shadowhunters,0.03555045871559633
+Onyx Storm (The Empyrean Book 3,79,disgust,31,568,Shadowhunters,0.05457746478873239
+Onyx Storm (The Empyrean Book 3,79,sadness,31,568,Shadowhunters,0.05457746478873239
+Onyx Storm (The Empyrean Book 3,86,surprise,31,589,Shadowhunters,0.05263157894736842
+Onyx Storm (The Empyrean Book 3,91,disgust,31,591,Shadowhunters,0.05245346869712352
+Onyx Storm (The Empyrean Book 3,108,trust,31,348,Shadowhunters,0.08908045977011494
+Onyx Storm (The Empyrean Book 3,112,anticipation,31,447,Shadowhunters,0.06935123042505593
+Onyx Storm (The Empyrean Book 3,121,fear,31,418,Shadowhunters,0.07416267942583732
+Onyx Storm (The Empyrean Book 3,121,sadness,31,418,Shadowhunters,0.07416267942583732
+Onyx Storm (The Empyrean Book 3,124,trust,31,274,Shadowhunters,0.11313868613138686
+Onyx Storm (The Empyrean Book 3,130,joy,31,678,Shadowhunters,0.045722713864306784
+Onyx Storm (The Empyrean Book 3,131,anger,31,341,Shadowhunters,0.09090909090909091
+Shatter Me,21,fear,31,263,Shadowhunters,0.11787072243346007
+Unravel Me,75,surprise,31,452,Shadowhunters,0.06858407079646017
+Unravel Me,78,joy,31,300,Shadowhunters,0.10333333333333333
+Fourth Wing,64,joy,30,508,Shadowhunters,0.05905511811023622
+Fourth Wing,69,joy,30,696,Shadowhunters,0.04310344827586207
+Fourth Wing,83,surprise,30,522,Shadowhunters,0.05747126436781609
+Fourth Wing,87,disgust,30,382,Shadowhunters,0.078534031413612565
+Ignite Me,79,fear,30,261,Shadowhunters,0.11494252873563218
+Ignite Me,82,negative,30,178,Shadowhunters,0.16853932584269662
+Ignite Me,83,trust,30,417,Shadowhunters,0.07194244604316546
+Iron Flame,71,surprise,30,577,Shadowhunters,0.05199306759098787
+Iron Flame,89,disgust,30,661,Shadowhunters,0.0453857791225416
+Iron Flame,94,disgust,30,477,Shadowhunters,0.06289308176100629
+Iron Flame,121,sadness,30,390,Shadowhunters,0.07692307692307693
+Onyx Storm (The Empyrean Book 3,73,joy,30,615,Shadowhunters,0.04878048780487805
+Onyx Storm (The Empyrean Book 3,75,joy,30,541,Shadowhunters,0.05545286506469501
+Onyx Storm (The Empyrean Book 3,77,disgust,30,548,Shadowhunters,0.05474452554744526
+Onyx Storm (The Empyrean Book 3,84,sadness,30,531,Shadowhunters,0.05649717514124294
+Onyx Storm (The Empyrean Book 3,88,anger,30,398,Shadowhunters,0.07537688442211055
+Onyx Storm (The Empyrean Book 3,99,anticipation,30,434,Shadowhunters,0.06912442396313365
+Onyx Storm (The Empyrean Book 3,99,surprise,30,434,Shadowhunters,0.06912442396313365
+Onyx Storm (The Empyrean Book 3,110,joy,30,582,Shadowhunters,0.05154639175257732
+Onyx Storm (The Empyrean Book 3,116,anticipation,30,467,Shadowhunters,0.06423982869379015
+Onyx Storm (The Empyrean Book 3,118,disgust,30,536,Shadowhunters,0.055970149253731345
+Onyx Storm (The Empyrean Book 3,119,anticipation,30,370,Shadowhunters,0.08108108108108109
+Onyx Storm (The Empyrean Book 3,120,disgust,30,636,Shadowhunters,0.04716981132075472
+Onyx Storm (The Empyrean Book 3,121,joy,30,418,Shadowhunters,0.07177033492822966
+Onyx Storm (The Empyrean Book 3,122,fear,30,266,Shadowhunters,0.11278195488721804
+Onyx Storm (The Empyrean Book 3,126,disgust,30,609,Shadowhunters,0.04926108374384237
+Onyx Storm (The Empyrean Book 3,127,disgust,30,375,Shadowhunters,0.08
+Shatter Me,17,disgust,30,415,Shadowhunters,0.07228915662650602
+Shatter Me,19,trust,30,356,Shadowhunters,0.08426966292134831
+Unravel Me,74,fear,30,195,Shadowhunters,0.15384615384615385
+Unravel Me,75,anger,30,452,Shadowhunters,0.06637168141592921
+Fourth Wing,83,disgust,29,522,Shadowhunters,0.05555555555555555
+Ignite Me,82,positive,29,178,Shadowhunters,0.16292134831460675
+Iron Flame,0,positive,29,144,Shadowhunters,0.2013888888888889
+Iron Flame,73,sadness,29,395,Shadowhunters,0.07341772151898734
+Iron Flame,108,disgust,29,756,Shadowhunters,0.03835978835978836
+Iron Flame,116,fear,29,264,Shadowhunters,0.10984848484848485
+Iron Flame,120,surprise,29,552,Shadowhunters,0.05253623188405797
+Iron Flame,121,surprise,29,390,Shadowhunters,0.07435897435897436
+Iron Flame,132,anger,29,354,Shadowhunters,0.08192090395480225
+Onyx Storm (The Empyrean Book 3,74,anticipation,29,416,Shadowhunters,0.06971153846153846
+Onyx Storm (The Empyrean Book 3,89,disgust,29,601,Shadowhunters,0.048252911813643926
+Onyx Storm (The Empyrean Book 3,107,surprise,29,502,Shadowhunters,0.05776892430278884
+Onyx Storm (The Empyrean Book 3,114,joy,29,489,Shadowhunters,0.05930470347648262
+Onyx Storm (The Empyrean Book 3,115,surprise,29,352,Shadowhunters,0.08238636363636363
+Onyx Storm (The Empyrean Book 3,124,fear,29,274,Shadowhunters,0.10583941605839416
+Shatter Me,17,anticipation,29,415,Shadowhunters,0.06987951807228916
+The Mortal Instruments 05 - Cit,0,positive,29,186,Shadowhunters,0.15591397849462366
+Unravel Me,77,surprise,29,458,Shadowhunters,0.06331877729257641
+Unravel Me,79,anger,29,261,Shadowhunters,0.1111111111111111
+Fourth Wing,69,surprise,28,696,Shadowhunters,0.040229885057471264
+Fourth Wing,86,disgust,28,663,Shadowhunters,0.042232277526395176
+Ignite Me,81,surprise,28,248,Shadowhunters,0.11290322580645161
+Ignite Me,81,trust,28,248,Shadowhunters,0.11290322580645161
+Ignite Me,83,joy,28,417,Shadowhunters,0.0671462829736211
+Ignite Me,86,negative,28,177,Shadowhunters,0.15819209039548024
+Iron Flame,72,joy,28,409,Shadowhunters,0.06845965770171149
+Iron Flame,97,positive,28,163,Shadowhunters,0.17177914110429449
+Iron Flame,105,joy,28,633,Shadowhunters,0.044233807266982623
+Iron Flame,105,surprise,28,633,Shadowhunters,0.044233807266982623
+Iron Flame,129,surprise,28,558,Shadowhunters,0.05017921146953405
+Iron Flame,131,trust,28,252,Shadowhunters,0.1111111111111111
+Onyx Storm (The Empyrean Book 3,70,disgust,28,552,Shadowhunters,0.050724637681159424
+Onyx Storm (The Empyrean Book 3,93,disgust,28,685,Shadowhunters,0.040875912408759124
+Onyx Storm (The Empyrean Book 3,102,anticipation,28,391,Shadowhunters,0.07161125319693094
+Onyx Storm (The Empyrean Book 3,102,disgust,28,391,Shadowhunters,0.07161125319693094
+Onyx Storm (The Empyrean Book 3,105,disgust,28,430,Shadowhunters,0.06511627906976744
+Onyx Storm (The Empyrean Book 3,108,anticipation,28,348,Shadowhunters,0.08045977011494253
+Onyx Storm (The Empyrean Book 3,110,disgust,28,582,Shadowhunters,0.048109965635738834
+Onyx Storm (The Empyrean Book 3,115,trust,28,352,Shadowhunters,0.07954545454545454
+Onyx Storm (The Empyrean Book 3,116,surprise,28,467,Shadowhunters,0.059957173447537475
+Onyx Storm (The Empyrean Book 3,132,fear,28,234,Shadowhunters,0.11965811965811966
+Shatter Me,13,anger,28,301,Shadowhunters,0.09302325581395349
+Shatter Me,17,joy,28,415,Shadowhunters,0.06746987951807229
+Shatter Me,20,sadness,28,248,Shadowhunters,0.11290322580645161
+Shatter Me,21,sadness,28,263,Shadowhunters,0.10646387832699619
+Shatter Me,22,sadness,28,266,Shadowhunters,0.10526315789473684
+Unravel Me,77,sadness,28,458,Shadowhunters,0.0611353711790393
+Fourth Wing,82,disgust,27,559,Shadowhunters,0.04830053667262969
+Ignite Me,84,trust,27,456,Shadowhunters,0.05921052631578947
+Iron Flame,80,joy,27,676,Shadowhunters,0.03994082840236687
+Iron Flame,81,fear,27,340,Shadowhunters,0.07941176470588235
+Iron Flame,91,disgust,27,475,Shadowhunters,0.056842105263157895
+Iron Flame,117,sadness,27,320,Shadowhunters,0.084375
+Iron Flame,128,joy,27,797,Shadowhunters,0.033877038895859475
+Onyx Storm (The Empyrean Book 3,66,disgust,27,510,Shadowhunters,0.052941176470588235
+Onyx Storm (The Empyrean Book 3,88,fear,27,398,Shadowhunters,0.0678391959798995
+Onyx Storm (The Empyrean Book 3,118,surprise,27,536,Shadowhunters,0.05037313432835821
+Onyx Storm (The Empyrean Book 3,121,anger,27,418,Shadowhunters,0.0645933014354067
+Onyx Storm (The Empyrean Book 3,124,sadness,27,274,Shadowhunters,0.09854014598540146
+Onyx Storm (The Empyrean Book 3,132,trust,27,234,Shadowhunters,0.11538461538461539
+Unravel Me,79,positive,27,261,Shadowhunters,0.10344827586206896
+Unravel Me,79,sadness,27,261,Shadowhunters,0.10344827586206896
+Fourth Wing,39,positive,26,120,Shadowhunters,0.21666666666666667
+Fourth Wing,86,joy,26,663,Shadowhunters,0.0392156862745098
+Ignite Me,79,trust,26,261,Shadowhunters,0.09961685823754789
+Ignite Me,84,anticipation,26,456,Shadowhunters,0.05701754385964912
+Iron Flame,81,sadness,26,340,Shadowhunters,0.07647058823529412
+Iron Flame,100,surprise,26,324,Shadowhunters,0.08024691358024691
+Iron Flame,100,trust,26,324,Shadowhunters,0.08024691358024691
+Iron Flame,113,joy,26,524,Shadowhunters,0.04961832061068702
+Onyx Storm (The Empyrean Book 3,80,disgust,26,628,Shadowhunters,0.041401273885350316
+Onyx Storm (The Empyrean Book 3,80,surprise,26,628,Shadowhunters,0.041401273885350316
+Onyx Storm (The Empyrean Book 3,88,surprise,26,398,Shadowhunters,0.06532663316582915
+Onyx Storm (The Empyrean Book 3,105,surprise,26,430,Shadowhunters,0.06046511627906977
+Onyx Storm (The Empyrean Book 3,106,fear,26,344,Shadowhunters,0.0755813953488372
+Onyx Storm (The Empyrean Book 3,106,sadness,26,344,Shadowhunters,0.0755813953488372
+Onyx Storm (The Empyrean Book 3,115,joy,26,352,Shadowhunters,0.07386363636363637
+Onyx Storm (The Empyrean Book 3,121,surprise,26,418,Shadowhunters,0.06220095693779904
+Shatter Me,11,fear,26,204,Shadowhunters,0.12745098039215685
+Shatter Me,11,sadness,26,204,Shadowhunters,0.12745098039215685
+Shatter Me,12,trust,26,349,Shadowhunters,0.07449856733524356
+Unravel Me,78,fear,26,300,Shadowhunters,0.08666666666666667
+Unravel Me,79,disgust,26,261,Shadowhunters,0.09961685823754789
+Unravel Me,80,anticipation,26,450,Shadowhunters,0.057777777777777775
+Unravel Me,80,disgust,26,450,Shadowhunters,0.057777777777777775
+Fourth Wing,64,disgust,25,508,Shadowhunters,0.04921259842519685
+Fourth Wing,64,surprise,25,508,Shadowhunters,0.04921259842519685
+Fourth Wing,83,joy,25,522,Shadowhunters,0.04789272030651341
+Fourth Wing,87,trust,25,382,Shadowhunters,0.06544502617801047
+Ignite Me,80,anger,25,223,Shadowhunters,0.11210762331838565
+Ignite Me,80,positive,25,223,Shadowhunters,0.11210762331838565
+Ignite Me,81,anticipation,25,248,Shadowhunters,0.10080645161290322
+Ignite Me,83,disgust,25,417,Shadowhunters,0.05995203836930456
+Ignite Me,85,surprise,25,530,Shadowhunters,0.04716981132075472
+Iron Flame,88,disgust,25,428,Shadowhunters,0.05841121495327103
+Iron Flame,90,disgust,25,379,Shadowhunters,0.06596306068601583
+Iron Flame,112,joy,25,636,Shadowhunters,0.03930817610062893
+Iron Flame,116,trust,25,264,Shadowhunters,0.0946969696969697
+Iron Flame,117,fear,25,320,Shadowhunters,0.078125
+Iron Flame,131,fear,25,252,Shadowhunters,0.0992063492063492
+Onyx Storm (The Empyrean Book 3,77,joy,25,548,Shadowhunters,0.04562043795620438
+Onyx Storm (The Empyrean Book 3,77,surprise,25,548,Shadowhunters,0.04562043795620438
+Onyx Storm (The Empyrean Book 3,86,disgust,25,589,Shadowhunters,0.042444821731748725
+Onyx Storm (The Empyrean Book 3,112,joy,25,447,Shadowhunters,0.05592841163310962
+Onyx Storm (The Empyrean Book 3,114,trust,25,489,Shadowhunters,0.05112474437627812
+Onyx Storm (The Empyrean Book 3,122,anger,25,266,Shadowhunters,0.09398496240601503
+Onyx Storm (The Empyrean Book 3,124,anticipation,25,274,Shadowhunters,0.09124087591240876
+Onyx Storm (The Empyrean Book 3,125,disgust,25,440,Shadowhunters,0.056818181818181816
+Onyx Storm (The Empyrean Book 3,130,disgust,25,678,Shadowhunters,0.03687315634218289
+Onyx Storm (The Empyrean Book 3,132,sadness,25,234,Shadowhunters,0.10683760683760683
+Shatter Me,11,positive,25,204,Shadowhunters,0.12254901960784313
+Shatter Me,12,disgust,25,349,Shadowhunters,0.07163323782234957
+Shatter Me,13,anticipation,25,301,Shadowhunters,0.08305647840531562
+Shatter Me,13,trust,25,301,Shadowhunters,0.08305647840531562
+Shatter Me,21,trust,25,263,Shadowhunters,0.09505703422053231
+Shatter Me,22,anger,25,266,Shadowhunters,0.09398496240601503
+Unravel Me,74,anger,25,195,Shadowhunters,0.1282051282051282
+Unravel Me,76,disgust,25,575,Shadowhunters,0.043478260869565216
+Fourth Wing,82,surprise,24,559,Shadowhunters,0.04293381037567084
+Ignite Me,79,anger,24,261,Shadowhunters,0.09195402298850575
+Ignite Me,80,fear,24,223,Shadowhunters,0.10762331838565023
+Ignite Me,80,sadness,24,223,Shadowhunters,0.10762331838565023
+Iron Flame,72,disgust,24,409,Shadowhunters,0.05867970660146699
+Iron Flame,73,surprise,24,395,Shadowhunters,0.060759493670886074
+Iron Flame,90,anticipation,24,379,Shadowhunters,0.0633245382585752
+Iron Flame,98,joy,24,549,Shadowhunters,0.04371584699453552
+Iron Flame,129,joy,24,558,Shadowhunters,0.043010752688172046
+Iron Flame,131,anticipation,24,252,Shadowhunters,0.09523809523809523
+Iron Flame,132,anticipation,24,354,Shadowhunters,0.06779661016949153
+Iron Flame,132,joy,24,354,Shadowhunters,0.06779661016949153
+Onyx Storm (The Empyrean Book 3,88,sadness,24,398,Shadowhunters,0.06030150753768844
+Onyx Storm (The Empyrean Book 3,116,disgust,24,467,Shadowhunters,0.05139186295503212
+Onyx Storm (The Empyrean Book 3,119,anger,24,370,Shadowhunters,0.06486486486486487
+Onyx Storm (The Empyrean Book 3,124,anger,24,274,Shadowhunters,0.08759124087591241
+Shatter Me,12,anticipation,24,349,Shadowhunters,0.06876790830945559
+Shatter Me,20,positive,24,248,Shadowhunters,0.0967741935483871
+Unravel Me,74,sadness,24,195,Shadowhunters,0.12307692307692308
+Unravel Me,78,anticipation,24,300,Shadowhunters,0.08
+Unravel Me,80,surprise,24,450,Shadowhunters,0.05333333333333334
+Iron Flame,72,surprise,23,409,Shadowhunters,0.05623471882640587
+Iron Flame,81,disgust,23,340,Shadowhunters,0.06764705882352941
+Iron Flame,88,surprise,23,428,Shadowhunters,0.053738317757009345
+Iron Flame,90,surprise,23,379,Shadowhunters,0.06068601583113457
+Iron Flame,91,surprise,23,475,Shadowhunters,0.04842105263157895
+Iron Flame,98,disgust,23,549,Shadowhunters,0.04189435336976321
+Iron Flame,100,joy,23,324,Shadowhunters,0.07098765432098765
+Onyx Storm (The Empyrean Book 3,71,surprise,23,631,Shadowhunters,0.03645007923930269
+Onyx Storm (The Empyrean Book 3,73,disgust,23,615,Shadowhunters,0.03739837398373984
+Onyx Storm (The Empyrean Book 3,74,joy,23,416,Shadowhunters,0.055288461538461536
+Onyx Storm (The Empyrean Book 3,82,surprise,23,474,Shadowhunters,0.04852320675105485
+Onyx Storm (The Empyrean Book 3,90,disgust,23,610,Shadowhunters,0.03770491803278689
+Onyx Storm (The Empyrean Book 3,96,anticipation,23,346,Shadowhunters,0.06647398843930635
+Onyx Storm (The Empyrean Book 3,99,sadness,23,434,Shadowhunters,0.052995391705069124
+Onyx Storm (The Empyrean Book 3,102,joy,23,391,Shadowhunters,0.058823529411764705
+Onyx Storm (The Empyrean Book 3,102,surprise,23,391,Shadowhunters,0.058823529411764705
+Onyx Storm (The Empyrean Book 3,123,surprise,23,451,Shadowhunters,0.050997782705099776
+Onyx Storm (The Empyrean Book 3,128,joy,23,676,Shadowhunters,0.034023668639053255
+Shatter Me,16,negative,23,134,Shadowhunters,0.17164179104477612
+Shatter Me,21,anger,23,263,Shadowhunters,0.08745247148288973
+Shatter Me,22,trust,23,266,Shadowhunters,0.08646616541353383
+Unravel Me,74,positive,23,195,Shadowhunters,0.11794871794871795
+Unravel Me,77,anger,23,458,Shadowhunters,0.05021834061135371
+Fourth Wing,82,joy,22,559,Shadowhunters,0.03935599284436494
+Fourth Wing,87,anticipation,22,382,Shadowhunters,0.05759162303664921
+Ignite Me,86,trust,22,177,Shadowhunters,0.12429378531073447
+Iron Flame,97,sadness,22,163,Shadowhunters,0.13496932515337423
+Iron Flame,100,anger,22,324,Shadowhunters,0.06790123456790123
+Onyx Storm (The Empyrean Book 3,81,joy,22,361,Shadowhunters,0.060941828254847646
+Onyx Storm (The Empyrean Book 3,81,surprise,22,361,Shadowhunters,0.060941828254847646
+Onyx Storm (The Empyrean Book 3,97,disgust,22,460,Shadowhunters,0.04782608695652174
+Onyx Storm (The Empyrean Book 3,108,joy,22,348,Shadowhunters,0.06321839080459771
+Onyx Storm (The Empyrean Book 3,119,joy,22,370,Shadowhunters,0.05945945945945946
+Onyx Storm (The Empyrean Book 3,121,disgust,22,418,Shadowhunters,0.05263157894736842
+The Mortal Instruments 05 - Cit,0,fear,22,186,Shadowhunters,0.11827956989247312
+Unravel Me,75,disgust,22,452,Shadowhunters,0.048672566371681415
+Unravel Me,78,anger,22,300,Shadowhunters,0.07333333333333333
+Ignite Me,79,anticipation,21,261,Shadowhunters,0.08045977011494253
+Ignite Me,81,joy,21,248,Shadowhunters,0.0846774193548387
+Ignite Me,86,anticipation,21,177,Shadowhunters,0.11864406779661017
+Iron Flame,73,disgust,21,395,Shadowhunters,0.053164556962025315
+Iron Flame,94,surprise,21,477,Shadowhunters,0.0440251572327044
+Iron Flame,131,anger,21,252,Shadowhunters,0.08333333333333333
+Iron Flame,131,joy,21,252,Shadowhunters,0.08333333333333333
+Onyx Storm (The Empyrean Book 3,75,disgust,21,541,Shadowhunters,0.038817005545286505
+Onyx Storm (The Empyrean Book 3,81,sadness,21,361,Shadowhunters,0.05817174515235457
+Onyx Storm (The Empyrean Book 3,98,disgust,21,543,Shadowhunters,0.03867403314917127
+Onyx Storm (The Empyrean Book 3,105,joy,21,430,Shadowhunters,0.04883720930232558
+Onyx Storm (The Empyrean Book 3,106,surprise,21,344,Shadowhunters,0.061046511627906974
+Onyx Storm (The Empyrean Book 3,107,disgust,21,502,Shadowhunters,0.04183266932270916
+Onyx Storm (The Empyrean Book 3,112,surprise,21,447,Shadowhunters,0.04697986577181208
+Onyx Storm (The Empyrean Book 3,113,disgust,21,644,Shadowhunters,0.03260869565217391
+Onyx Storm (The Empyrean Book 3,117,surprise,21,584,Shadowhunters,0.03595890410958904
+Onyx Storm (The Empyrean Book 3,119,surprise,21,370,Shadowhunters,0.05675675675675676
+Onyx Storm (The Empyrean Book 3,125,surprise,21,440,Shadowhunters,0.04772727272727273
+Shatter Me,16,positive,21,134,Shadowhunters,0.15671641791044777
+Shatter Me,19,disgust,21,356,Shadowhunters,0.05898876404494382
+Unravel Me,77,disgust,21,458,Shadowhunters,0.04585152838427948
+Unravel Me,78,sadness,21,300,Shadowhunters,0.07
+Unravel Me,78,surprise,21,300,Shadowhunters,0.07
+Ignite Me,79,joy,20,261,Shadowhunters,0.07662835249042145
+Ignite Me,82,trust,20,178,Shadowhunters,0.11235955056179775
+Ignite Me,83,surprise,20,417,Shadowhunters,0.047961630695443645
+Iron Flame,83,joy,20,526,Shadowhunters,0.03802281368821293
+Iron Flame,92,anger,20,184,Shadowhunters,0.10869565217391304
+Iron Flame,92,trust,20,184,Shadowhunters,0.10869565217391304
+Iron Flame,99,surprise,20,495,Shadowhunters,0.04040404040404041
+Iron Flame,116,anticipation,20,264,Shadowhunters,0.07575757575757576
+Onyx Storm (The Empyrean Book 3,71,joy,20,631,Shadowhunters,0.03169572107765452
+Onyx Storm (The Empyrean Book 3,97,joy,20,460,Shadowhunters,0.043478260869565216
+Onyx Storm (The Empyrean Book 3,97,surprise,20,460,Shadowhunters,0.043478260869565216
+Onyx Storm (The Empyrean Book 3,99,disgust,20,434,Shadowhunters,0.04608294930875576
+Onyx Storm (The Empyrean Book 3,112,disgust,20,447,Shadowhunters,0.0447427293064877
+Onyx Storm (The Empyrean Book 3,127,surprise,20,375,Shadowhunters,0.05333333333333334
+Shatter Me,19,joy,20,356,Shadowhunters,0.056179775280898875
+The Mortal Instruments 05 - Cit,0,trust,20,186,Shadowhunters,0.10752688172043011
+Fourth Wing,63,joy,19,583,Shadowhunters,0.032590051457975985
+Ignite Me,79,surprise,19,261,Shadowhunters,0.07279693486590039
+Ignite Me,80,disgust,19,223,Shadowhunters,0.08520179372197309
+Iron Flame,81,surprise,19,340,Shadowhunters,0.05588235294117647
+Iron Flame,88,joy,19,428,Shadowhunters,0.04439252336448598
+Iron Flame,92,fear,19,184,Shadowhunters,0.10326086956521739
+Iron Flame,94,joy,19,477,Shadowhunters,0.039832285115303984
+Iron Flame,131,sadness,19,252,Shadowhunters,0.07539682539682539
+Iron Flame,131,surprise,19,252,Shadowhunters,0.07539682539682539
+Onyx Storm (The Empyrean Book 3,66,joy,19,510,Shadowhunters,0.03725490196078431
+Onyx Storm (The Empyrean Book 3,74,disgust,19,416,Shadowhunters,0.04567307692307692
+Onyx Storm (The Empyrean Book 3,82,disgust,19,474,Shadowhunters,0.04008438818565401
+Onyx Storm (The Empyrean Book 3,82,joy,19,474,Shadowhunters,0.04008438818565401
+Onyx Storm (The Empyrean Book 3,85,joy,19,686,Shadowhunters,0.027696793002915453
+Onyx Storm (The Empyrean Book 3,104,disgust,19,603,Shadowhunters,0.03150912106135987
+Onyx Storm (The Empyrean Book 3,131,anticipation,19,341,Shadowhunters,0.05571847507331378
+Onyx Storm (The Empyrean Book 3,132,anger,19,234,Shadowhunters,0.0811965811965812
+Shatter Me,19,surprise,19,356,Shadowhunters,0.05337078651685393
+Shatter Me,21,joy,19,263,Shadowhunters,0.07224334600760456
+Shatter Me,22,anticipation,19,266,Shadowhunters,0.07142857142857142
+Shatter Me,22,joy,19,266,Shadowhunters,0.07142857142857142
+The Mortal Instruments 05 - Cit,0,sadness,19,186,Shadowhunters,0.10215053763440861
+Unravel Me,79,trust,19,261,Shadowhunters,0.07279693486590039
+Unravel Me,80,joy,19,450,Shadowhunters,0.042222222222222223
+Ignite Me,79,sadness,18,261,Shadowhunters,0.06896551724137931
+Ignite Me,82,anticipation,18,178,Shadowhunters,0.10112359550561797
+Ignite Me,82,sadness,18,178,Shadowhunters,0.10112359550561797
+Iron Flame,0,negative,18,144,Shadowhunters,0.125
+Iron Flame,0,trust,18,144,Shadowhunters,0.125
+Iron Flame,92,anticipation,18,184,Shadowhunters,0.09782608695652174
+Iron Flame,116,sadness,18,264,Shadowhunters,0.06818181818181818
+Iron Flame,117,disgust,18,320,Shadowhunters,0.05625
+Iron Flame,120,joy,18,552,Shadowhunters,0.03260869565217391
+Onyx Storm (The Empyrean Book 3,66,surprise,18,510,Shadowhunters,0.03529411764705882
+Onyx Storm (The Empyrean Book 3,84,disgust,18,531,Shadowhunters,0.03389830508474576
+Onyx Storm (The Empyrean Book 3,108,disgust,18,348,Shadowhunters,0.05172413793103448
+Onyx Storm (The Empyrean Book 3,119,disgust,18,370,Shadowhunters,0.04864864864864865
+Onyx Storm (The Empyrean Book 3,123,joy,18,451,Shadowhunters,0.03991130820399113
+Onyx Storm (The Empyrean Book 3,132,joy,18,234,Shadowhunters,0.07692307692307693
+Shatter Me,11,anger,18,204,Shadowhunters,0.08823529411764706
+Shatter Me,14,sadness,18,332,Shadowhunters,0.05421686746987952
+Shatter Me,19,anticipation,18,356,Shadowhunters,0.05056179775280899
+The Mortal Instruments 05 - Cit,0,anger,18,186,Shadowhunters,0.0967741935483871
+Fourth Wing,39,negative,17,120,Shadowhunters,0.14166666666666666
+Ignite Me,84,surprise,17,456,Shadowhunters,0.03728070175438596
+Iron Flame,0,fear,17,144,Shadowhunters,0.11805555555555555
+Iron Flame,83,surprise,17,526,Shadowhunters,0.03231939163498099
+Iron Flame,91,joy,17,475,Shadowhunters,0.035789473684210524
+Iron Flame,97,anger,17,163,Shadowhunters,0.10429447852760736
+Iron Flame,99,joy,17,495,Shadowhunters,0.03434343434343434
+Iron Flame,132,surprise,17,354,Shadowhunters,0.0480225988700565
+Onyx Storm (The Empyrean Book 3,0,positive,17,55,Shadowhunters,0.3090909090909091
+Onyx Storm (The Empyrean Book 3,116,joy,17,467,Shadowhunters,0.03640256959314775
+Onyx Storm (The Empyrean Book 3,122,surprise,17,266,Shadowhunters,0.06390977443609022
+Onyx Storm (The Empyrean Book 3,124,disgust,17,274,Shadowhunters,0.06204379562043796
+Shatter Me,12,surprise,17,349,Shadowhunters,0.04871060171919771
+Shatter Me,13,disgust,17,301,Shadowhunters,0.05647840531561462
+Shatter Me,20,anticipation,17,248,Shadowhunters,0.06854838709677419
+Shatter Me,20,disgust,17,248,Shadowhunters,0.06854838709677419
+Shatter Me,21,anticipation,17,263,Shadowhunters,0.06463878326996197
+Shatter Me,21,disgust,17,263,Shadowhunters,0.06463878326996197
+Shatter Me,22,disgust,17,266,Shadowhunters,0.06390977443609022
+Shatter Me,22,surprise,17,266,Shadowhunters,0.06390977443609022
+Ignite Me,80,anticipation,16,223,Shadowhunters,0.07174887892376682
+Ignite Me,82,anger,16,178,Shadowhunters,0.0898876404494382
+Iron Flame,81,joy,16,340,Shadowhunters,0.047058823529411764
+Iron Flame,97,fear,16,163,Shadowhunters,0.09815950920245399
+Onyx Storm (The Empyrean Book 3,88,disgust,16,398,Shadowhunters,0.04020100502512563
+Onyx Storm (The Empyrean Book 3,98,joy,16,543,Shadowhunters,0.029465930018416207
+Onyx Storm (The Empyrean Book 3,106,anger,16,344,Shadowhunters,0.046511627906976744
+Onyx Storm (The Empyrean Book 3,114,disgust,16,489,Shadowhunters,0.032719836400818
+Onyx Storm (The Empyrean Book 3,122,anticipation,16,266,Shadowhunters,0.06015037593984962
+Onyx Storm (The Empyrean Book 3,123,disgust,16,451,Shadowhunters,0.03547671840354767
+Unravel Me,79,surprise,16,261,Shadowhunters,0.06130268199233716
+Unravel Me,82,negative,16,96,Shadowhunters,0.16666666666666666
+Ignite Me,81,sadness,15,248,Shadowhunters,0.06048387096774194
+Iron Flame,73,joy,15,395,Shadowhunters,0.0379746835443038
+Iron Flame,116,joy,15,264,Shadowhunters,0.056818181818181816
+Onyx Storm (The Empyrean Book 3,81,disgust,15,361,Shadowhunters,0.04155124653739612
+Onyx Storm (The Empyrean Book 3,96,surprise,15,346,Shadowhunters,0.04335260115606936
+Onyx Storm (The Empyrean Book 3,117,joy,15,584,Shadowhunters,0.025684931506849314
+Onyx Storm (The Empyrean Book 3,118,joy,15,536,Shadowhunters,0.027985074626865673
+Onyx Storm (The Empyrean Book 3,122,sadness,15,266,Shadowhunters,0.05639097744360902
+Onyx Storm (The Empyrean Book 3,125,joy,15,440,Shadowhunters,0.03409090909090909
+Onyx Storm (The Empyrean Book 3,131,disgust,15,341,Shadowhunters,0.04398826979472141
+Onyx Storm (The Empyrean Book 3,131,joy,15,341,Shadowhunters,0.04398826979472141
+Shatter Me,11,anticipation,15,204,Shadowhunters,0.07352941176470588
+Shatter Me,11,trust,15,204,Shadowhunters,0.07352941176470588
+Shatter Me,12,joy,15,349,Shadowhunters,0.04297994269340974
+Shatter Me,16,trust,15,134,Shadowhunters,0.11194029850746269
+Unravel Me,82,positive,15,96,Shadowhunters,0.15625
+Fourth Wing,39,fear,14,120,Shadowhunters,0.11666666666666667
+Fourth Wing,87,joy,14,382,Shadowhunters,0.03664921465968586
+Ignite Me,79,disgust,14,261,Shadowhunters,0.05363984674329502
+Ignite Me,80,surprise,14,223,Shadowhunters,0.06278026905829596
+Ignite Me,80,trust,14,223,Shadowhunters,0.06278026905829596
+Ignite Me,82,fear,14,178,Shadowhunters,0.07865168539325842
+Ignite Me,86,joy,14,177,Shadowhunters,0.07909604519774012
+Ignite Me,86,sadness,14,177,Shadowhunters,0.07909604519774012
+Iron Flame,0,sadness,14,144,Shadowhunters,0.09722222222222222
+Onyx Storm (The Empyrean Book 3,122,joy,14,266,Shadowhunters,0.05263157894736842
+Onyx Storm (The Empyrean Book 3,124,joy,14,274,Shadowhunters,0.051094890510948905
+Onyx Storm (The Empyrean Book 3,124,surprise,14,274,Shadowhunters,0.051094890510948905
+Shatter Me,13,surprise,14,301,Shadowhunters,0.046511627906976744
+Shatter Me,17,surprise,14,415,Shadowhunters,0.033734939759036145
+Shatter Me,21,surprise,14,263,Shadowhunters,0.053231939163498096
+Fourth Wing,87,surprise,13,382,Shadowhunters,0.034031413612565446
+Ignite Me,81,anger,13,248,Shadowhunters,0.05241935483870968
+Iron Flame,0,anger,13,144,Shadowhunters,0.09027777777777778
+Iron Flame,92,surprise,13,184,Shadowhunters,0.07065217391304347
+Iron Flame,97,anticipation,13,163,Shadowhunters,0.07975460122699386
+Iron Flame,117,joy,13,320,Shadowhunters,0.040625
+Iron Flame,117,surprise,13,320,Shadowhunters,0.040625
+Iron Flame,132,disgust,13,354,Shadowhunters,0.03672316384180791
+Onyx Storm (The Empyrean Book 3,108,surprise,13,348,Shadowhunters,0.03735632183908046
+Onyx Storm (The Empyrean Book 3,131,surprise,13,341,Shadowhunters,0.03812316715542522
+Onyx Storm (The Empyrean Book 3,132,anticipation,13,234,Shadowhunters,0.05555555555555555
+Onyx Storm (The Empyrean Book 3,132,surprise,13,234,Shadowhunters,0.05555555555555555
+Shatter Me,0,positive,13,37,Shadowhunters,0.35135135135135137
+Shatter Me,16,joy,13,134,Shadowhunters,0.09701492537313433
+Shatter Me,20,trust,13,248,Shadowhunters,0.05241935483870968
+The Mortal Instruments 05 - Cit,0,disgust,13,186,Shadowhunters,0.06989247311827956
+Unravel Me,79,joy,13,261,Shadowhunters,0.04980842911877394
+Fourth Wing,39,anticipation,12,120,Shadowhunters,0.1
+Ignite Me,80,joy,12,223,Shadowhunters,0.053811659192825115
+Ignite Me,82,disgust,12,178,Shadowhunters,0.06741573033707865
+Ignite Me,82,joy,12,178,Shadowhunters,0.06741573033707865
+Ignite Me,86,anger,12,177,Shadowhunters,0.06779661016949153
+Iron Flame,0,disgust,12,144,Shadowhunters,0.08333333333333333
+Iron Flame,90,joy,12,379,Shadowhunters,0.0316622691292876
+Iron Flame,92,sadness,12,184,Shadowhunters,0.06521739130434782
+Iron Flame,121,disgust,12,390,Shadowhunters,0.03076923076923077
+Onyx Storm (The Empyrean Book 3,0,trust,12,55,Shadowhunters,0.21818181818181817
+Onyx Storm (The Empyrean Book 3,122,disgust,12,266,Shadowhunters,0.045112781954887216
+Shatter Me,16,disgust,12,134,Shadowhunters,0.08955223880597014
+Shatter Me,16,sadness,12,134,Shadowhunters,0.08955223880597014
+Shatter Me,20,surprise,12,248,Shadowhunters,0.04838709677419355
+Unravel Me,74,surprise,12,195,Shadowhunters,0.06153846153846154
+Unravel Me,79,anticipation,12,261,Shadowhunters,0.04597701149425287
+Unravel Me,82,anticipation,12,96,Shadowhunters,0.125
+Fourth Wing,39,sadness,11,120,Shadowhunters,0.09166666666666666
+Iron Flame,0,anticipation,11,144,Shadowhunters,0.0763888888888889
+Iron Flame,100,disgust,11,324,Shadowhunters,0.033950617283950615
+Iron Flame,116,surprise,11,264,Shadowhunters,0.041666666666666664
+Onyx Storm (The Empyrean Book 3,96,joy,11,346,Shadowhunters,0.031791907514450865
+Onyx Storm (The Empyrean Book 3,106,disgust,11,344,Shadowhunters,0.03197674418604651
+Onyx Storm (The Empyrean Book 3,115,disgust,11,352,Shadowhunters,0.03125
+Onyx Storm (The Empyrean Book 3,127,joy,11,375,Shadowhunters,0.029333333333333333
+Shatter Me,11,joy,11,204,Shadowhunters,0.05392156862745098
+Shatter Me,11,surprise,11,204,Shadowhunters,0.05392156862745098
+Shatter Me,13,joy,11,301,Shadowhunters,0.036544850498338874
+Shatter Me,16,surprise,11,134,Shadowhunters,0.08208955223880597
+Shatter Me,18,positive,11,32,Shadowhunters,0.34375
+Shatter Me,20,joy,11,248,Shadowhunters,0.04435483870967742
+Unravel Me,74,anticipation,11,195,Shadowhunters,0.05641025641025641
+Unravel Me,74,disgust,11,195,Shadowhunters,0.05641025641025641
+Unravel Me,74,trust,11,195,Shadowhunters,0.05641025641025641
+Unravel Me,81,negative,11,41,Shadowhunters,0.2682926829268293
+Ignite Me,81,disgust,10,248,Shadowhunters,0.04032258064516129
+Ignite Me,86,fear,10,177,Shadowhunters,0.05649717514124294
+Ignite Me,86,surprise,10,177,Shadowhunters,0.05649717514124294
+Iron Flame,131,disgust,10,252,Shadowhunters,0.03968253968253968
+Onyx Storm (The Empyrean Book 3,96,disgust,10,346,Shadowhunters,0.028901734104046242
+Shatter Me,0,trust,10,37,Shadowhunters,0.2702702702702703
+Shatter Me,11,disgust,10,204,Shadowhunters,0.049019607843137254
+Shatter Me,16,anticipation,10,134,Shadowhunters,0.07462686567164178
+The Mortal Instruments 05 - Cit,0,anticipation,10,186,Shadowhunters,0.053763440860215055
+Unravel Me,82,sadness,10,96,Shadowhunters,0.10416666666666667
+Unravel Me,82,trust,10,96,Shadowhunters,0.10416666666666667
+Fourth Wing,39,anger,9,120,Shadowhunters,0.075
+Fourth Wing,39,surprise,9,120,Shadowhunters,0.075
+Ignite Me,82,surprise,9,178,Shadowhunters,0.05056179775280899
+Shatter Me,16,fear,9,134,Shadowhunters,0.06716417910447761
+Unravel Me,78,disgust,9,300,Shadowhunters,0.03
+Unravel Me,82,fear,9,96,Shadowhunters,0.09375
+Fourth Wing,39,disgust,8,120,Shadowhunters,0.06666666666666667
+Ignite Me,86,disgust,8,177,Shadowhunters,0.04519774011299435
+Iron Flame,0,surprise,8,144,Shadowhunters,0.05555555555555555
+Iron Flame,92,joy,8,184,Shadowhunters,0.043478260869565216
+Iron Flame,97,trust,8,163,Shadowhunters,0.049079754601226995
+Shatter Me,14,positive,8,332,Shadowhunters,0.024096385542168676
+Shatter Me,16,anger,8,134,Shadowhunters,0.05970149253731343
+Unravel Me,82,anger,8,96,Shadowhunters,0.08333333333333333
+Unravel Me,82,disgust,8,96,Shadowhunters,0.08333333333333333
+Fourth Wing,39,joy,7,120,Shadowhunters,0.058333333333333334
+Fourth Wing,39,trust,7,120,Shadowhunters,0.058333333333333334
+Iron Flame,97,surprise,7,163,Shadowhunters,0.04294478527607362
+Iron Flame,116,disgust,7,264,Shadowhunters,0.026515151515151516
+Shatter Me,18,negative,7,32,Shadowhunters,0.21875
+The Mortal Instruments 05 - Cit,0,joy,7,186,Shadowhunters,0.03763440860215054
+Unravel Me,81,fear,7,41,Shadowhunters,0.17073170731707318
+Unravel Me,81,sadness,7,41,Shadowhunters,0.17073170731707318
+Iron Flame,97,disgust,6,163,Shadowhunters,0.03680981595092025
+Iron Flame,97,joy,5,163,Shadowhunters,0.03067484662576687
+Onyx Storm (The Empyrean Book 3,0,anticipation,5,55,Shadowhunters,0.09090909090909091
+Shatter Me,14,trust,5,332,Shadowhunters,0.015060240963855422
+The Mortal Instruments 05 - Cit,0,surprise,5,186,Shadowhunters,0.026881720430107527
+Unravel Me,74,joy,5,195,Shadowhunters,0.02564102564102564
+Unravel Me,81,anger,5,41,Shadowhunters,0.12195121951219512
+Unravel Me,82,surprise,5,96,Shadowhunters,0.052083333333333336
+Iron Flame,0,joy,4,144,Shadowhunters,0.027777777777777776
+Onyx Storm (The Empyrean Book 3,0,disgust,4,55,Shadowhunters,0.07272727272727272
+Onyx Storm (The Empyrean Book 3,0,sadness,4,55,Shadowhunters,0.07272727272727272
+Onyx Storm (The Empyrean Book 3,132,disgust,4,234,Shadowhunters,0.017094017094017096
+Shatter Me,14,surprise,4,332,Shadowhunters,0.012048192771084338
+Unravel Me,81,anticipation,4,41,Shadowhunters,0.0975609756097561
+Ignite Me,0,positive,3,4,Shadowhunters,0.75
+Iron Flame,92,disgust,3,184,Shadowhunters,0.016304347826086956
+Onyx Storm (The Empyrean Book 3,0,anger,3,55,Shadowhunters,0.05454545454545454
+Onyx Storm (The Empyrean Book 3,0,joy,3,55,Shadowhunters,0.05454545454545454
+Onyx Storm (The Empyrean Book 3,0,negative,3,55,Shadowhunters,0.05454545454545454
+Onyx Storm (The Empyrean Book 3,0,surprise,3,55,Shadowhunters,0.05454545454545454
+Shatter Me,0,negative,3,37,Shadowhunters,0.08108108108108109
+Shatter Me,0,sadness,3,37,Shadowhunters,0.08108108108108109
+Shatter Me,14,disgust,3,332,Shadowhunters,0.009036144578313253
+Shatter Me,18,fear,3,32,Shadowhunters,0.09375
+Shatter Me,18,sadness,3,32,Shadowhunters,0.09375
+Unravel Me,0,positive,3,8,Shadowhunters,0.375
+Unravel Me,82,joy,3,96,Shadowhunters,0.03125
+Unravel Me,101,positive,3,10,Shadowhunters,0.3
+Unravel Me,101,trust,3,10,Shadowhunters,0.3
+Iron Flame,66,anticipation,2,10,Shadowhunters,0.2
+Iron Flame,66,positive,2,10,Shadowhunters,0.2
+Shatter Me,0,anger,2,37,Shadowhunters,0.05405405405405406
+Shatter Me,0,anticipation,2,37,Shadowhunters,0.05405405405405406
+Shatter Me,0,joy,2,37,Shadowhunters,0.05405405405405406
+Shatter Me,14,anticipation,2,332,Shadowhunters,0.006024096385542169
+Shatter Me,14,joy,2,332,Shadowhunters,0.006024096385542169
+Shatter Me,18,anger,2,32,Shadowhunters,0.0625
+Shatter Me,18,joy,2,32,Shadowhunters,0.0625
+Shatter Me,18,trust,2,32,Shadowhunters,0.0625
+The Mortal Instruments 06 - Cit,7,positive,2,3,Shadowhunters,0.6666666666666666
+The Mortal Instruments 06 - Cit,9,positive,2,7,Shadowhunters,0.2857142857142857
+The Mortal Instruments 06 - Cit,9,trust,2,7,Shadowhunters,0.2857142857142857
+The Mortal Instruments 06 - Cit,22,anger,2,12,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,22,disgust,2,12,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,22,fear,2,12,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,22,negative,2,12,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,22,sadness,2,12,Shadowhunters,0.16666666666666666
+Unravel Me,81,disgust,2,41,Shadowhunters,0.04878048780487805
+Unravel Me,81,positive,2,41,Shadowhunters,0.04878048780487805
+Unravel Me,81,surprise,2,41,Shadowhunters,0.04878048780487805
+Fourth Wing,0,positive,1,1,Shadowhunters,1
+Ignite Me,0,joy,1,4,Shadowhunters,0.25
+Ignite Me,78,positive,1,2,Shadowhunters,0.5
+Ignite Me,78,trust,1,2,Shadowhunters,0.5
+Iron Flame,66,anger,1,10,Shadowhunters,0.1
+Iron Flame,66,disgust,1,10,Shadowhunters,0.1
+Iron Flame,66,fear,1,10,Shadowhunters,0.1
+Iron Flame,66,joy,1,10,Shadowhunters,0.1
+Iron Flame,66,negative,1,10,Shadowhunters,0.1
+Iron Flame,66,trust,1,10,Shadowhunters,0.1
+Onyx Storm (The Empyrean Book 3,0,fear,1,55,Shadowhunters,0.01818181818181818
+Shatter Me,0,fear,1,37,Shadowhunters,0.02702702702702703
+Shatter Me,0,surprise,1,37,Shadowhunters,0.02702702702702703
+Shatter Me,18,anticipation,1,32,Shadowhunters,0.03125
+Shatter Me,18,surprise,1,32,Shadowhunters,0.03125
+The Mortal Instruments 05 - Cit,1,anger,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 05 - Cit,1,anticipation,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 05 - Cit,1,disgust,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 05 - Cit,1,fear,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 05 - Cit,1,negative,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 05 - Cit,1,sadness,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 05 - Cit,2,anticipation,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 05 - Cit,2,positive,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 05 - Cit,2,trust,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 05 - Cit,4,anger,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,4,disgust,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,4,fear,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,4,negative,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,4,sadness,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,5,anticipation,1,1,Shadowhunters,1
+The Mortal Instruments 05 - Cit,8,fear,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 05 - Cit,8,positive,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 05 - Cit,8,sadness,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 05 - Cit,9,fear,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,9,positive,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,10,positive,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,10,trust,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,11,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,11,surprise,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,12,anger,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,12,disgust,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,12,fear,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,12,negative,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,12,sadness,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,15,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,15,sadness,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,20,joy,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,20,positive,1,2,Shadowhunters,0.5
+The Mortal Instruments 05 - Cit,21,sadness,1,1,Shadowhunters,1
+The Mortal Instruments 05 - Cit,22,anger,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,22,disgust,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,22,fear,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,22,negative,1,5,Shadowhunters,0.2
+The Mortal Instruments 05 - Cit,22,sadness,1,5,Shadowhunters,0.2
+The Mortal Instruments 06 - Cit,3,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,3,sadness,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,4,anticipation,1,1,Shadowhunters,1
+The Mortal Instruments 06 - Cit,5,positive,1,1,Shadowhunters,1
+The Mortal Instruments 06 - Cit,6,anger,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,6,anticipation,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,6,fear,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,6,negative,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,6,surprise,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,6,trust,1,6,Shadowhunters,0.16666666666666666
+The Mortal Instruments 06 - Cit,7,trust,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 06 - Cit,8,anger,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,8,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,9,disgust,1,7,Shadowhunters,0.14285714285714285
+The Mortal Instruments 06 - Cit,9,fear,1,7,Shadowhunters,0.14285714285714285
+The Mortal Instruments 06 - Cit,9,negative,1,7,Shadowhunters,0.14285714285714285
+The Mortal Instruments 06 - Cit,10,anger,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,10,fear,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,11,anger,1,5,Shadowhunters,0.2
+The Mortal Instruments 06 - Cit,11,disgust,1,5,Shadowhunters,0.2
+The Mortal Instruments 06 - Cit,11,fear,1,5,Shadowhunters,0.2
+The Mortal Instruments 06 - Cit,11,negative,1,5,Shadowhunters,0.2
+The Mortal Instruments 06 - Cit,11,surprise,1,5,Shadowhunters,0.2
+The Mortal Instruments 06 - Cit,12,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,12,sadness,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,13,fear,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,13,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,15,positive,1,1,Shadowhunters,1
+The Mortal Instruments 06 - Cit,16,anger,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 06 - Cit,16,fear,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 06 - Cit,16,negative,1,3,Shadowhunters,0.3333333333333333
+The Mortal Instruments 06 - Cit,18,disgust,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,18,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,20,positive,1,1,Shadowhunters,1
+The Mortal Instruments 06 - Cit,21,negative,1,1,Shadowhunters,1
+The Mortal Instruments 06 - Cit,22,anticipation,1,12,Shadowhunters,0.08333333333333333
+The Mortal Instruments 06 - Cit,22,surprise,1,12,Shadowhunters,0.08333333333333333
+The Mortal Instruments 06 - Cit,23,negative,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,23,sadness,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,24,anticipation,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,24,joy,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,24,positive,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,24,surprise,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,25,anticipation,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,25,joy,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,25,positive,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,25,trust,1,4,Shadowhunters,0.25
+The Mortal Instruments 06 - Cit,26,joy,1,2,Shadowhunters,0.5
+The Mortal Instruments 06 - Cit,26,positive,1,2,Shadowhunters,0.5
+Unravel Me,0,anticipation,1,8,Shadowhunters,0.125
+Unravel Me,0,joy,1,8,Shadowhunters,0.125
+Unravel Me,0,negative,1,8,Shadowhunters,0.125
+Unravel Me,0,sadness,1,8,Shadowhunters,0.125
+Unravel Me,0,trust,1,8,Shadowhunters,0.125
+Unravel Me,73,positive,1,2,Shadowhunters,0.5
+Unravel Me,73,trust,1,2,Shadowhunters,0.5
+Unravel Me,81,joy,1,41,Shadowhunters,0.024390243902439025
+Unravel Me,88,positive,1,2,Shadowhunters,0.5
+Unravel Me,88,trust,1,2,Shadowhunters,0.5
+Unravel Me,90,anger,1,7,Shadowhunters,0.14285714285714285
+Unravel Me,90,anticipation,1,7,Shadowhunters,0.14285714285714285
+Unravel Me,90,fear,1,7,Shadowhunters,0.14285714285714285
+Unravel Me,90,joy,1,7,Shadowhunters,0.14285714285714285
+Unravel Me,90,negative,1,7,Shadowhunters,0.14285714285714285
+Unravel Me,90,positive,1,7,Shadowhunters,0.14285714285714285
+Unravel Me,90,trust,1,7,Shadowhunters,0.14285714285714285
+Unravel Me,101,anger,1,10,Shadowhunters,0.1
+Unravel Me,101,anticipation,1,10,Shadowhunters,0.1
+Unravel Me,101,negative,1,10,Shadowhunters,0.1
+Unravel Me,101,sadness,1,10,Shadowhunters,0.1
