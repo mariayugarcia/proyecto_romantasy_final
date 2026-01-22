@@ -544,7 +544,7 @@ chapters_classic <- books_with_chapters_dataset %>%
   mutate(text_full = clean_text_for_model(text_full)) %>%
   filter(nchar(text_full) > 100)
 
-chapters_empyrean <- books_with_chapters %>%
+chapters_empyrean <- books_with_chapters_dataset %>%
   filter(book %in% c("fourth_wing", "iron_flame", "onyx_storm")) %>%
   group_by(book, chapter_num) %>%
   summarise(text_full = paste(text, collapse = " "), .groups = "drop") %>%
@@ -782,4 +782,5 @@ p3 <- ggplot(sentimentr_results_all, aes(x = sentiment, fill = saga)) +
   )
 
 ggsave("output/graficos/distribucion_tono_emocional.png", p3, dpi = 300, width = 10, height = 6)
+
 
