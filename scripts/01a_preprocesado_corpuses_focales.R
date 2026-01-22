@@ -94,6 +94,17 @@ books_with_chapters_shatterme_empyrean <- books_with_chapters %>%
     )
   )
 
+# Resumen del corpus
+corpus_summary <- books_with_chapters_shatterme_empyrean %>%
+  group_by(saga, book) %>%
+  summarise(
+    total_lines = n(),
+    total_chapters = max(chapter_num, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+knitr::kable(corpus_summary, caption = "Caracterización del corpus")
+
 saveRDS(books_with_chapters_shatterme_empyrean, "data/processed/books_with_chapters_shatterme_empyrean.rds")
 
 
@@ -206,6 +217,34 @@ if (length(missing_books) > 0) {
 books_with_chapters_dataset <- books_with_chapters_dataset %>%
   mutate(saga = book_to_saga[book])
 
+# --- Resumen del corpus (ahora con saga) ---
+corpus_summary_dataset <- books_with_chapters_dataset %>%
+  group_by(book, saga) %>%  # ← incluir saga aquí
+  summarise(
+    total_lines = n(),
+    total_chapters = max(chapter_num, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+
+DT::datatable(
+  corpus_summary_dataset,
+  caption = "Caracterización del corpus: libros del dataset agrupados por saga (sagas populares ~2010–2015)",
+  options = list(
+    pageLength = 25,
+    searching = TRUE,
+    ordering = TRUE,      # ← permite ordenar al hacer clic en columnas
+    autoWidth = TRUE,
+    scrollX = TRUE
+  ),
+  colnames = c(
+    "Libro" = "book",
+    "Saga" = "saga",
+    "Líneas totales" = "total_lines",
+    "Capítulos totales" = "total_chapters"
+  )
+)
+
 # tokenización
 tidy_books_dataset <- books_with_chapters_dataset %>%
   filter(nchar(trimws(text)) > 0) %>%
@@ -216,3 +255,4 @@ tidy_books_dataset <- books_with_chapters_dataset %>%
 
 saveRDS(books_with_chapters_dataset, "data/processed/books_with_chapters_dataset.rds")
 saveRDS(tidy_books_dataset, "data/processed/tidy_books_dataset.rds")
+
