@@ -55,5 +55,18 @@ books_with_chapters <- map2_df(
 ) %>%
   mutate(saga = "Shadowhunters")
 
+
+# Resumen del corpus
+corpus_summary <- books_with_chapters %>%
+  dplyr::group_by(book) %>%
+  dplyr::summarise(
+    total_lines    = dplyr::n(),
+    total_chapters = max(chapter_num),
+    .groups = "drop"
+  )
+
+knitr::kable(corpus_summary, caption = "Composición inicial del corpus por libro")
+
 # --- Guardar ---
 saveRDS(books_with_chapters, "data/processed/books_shadowhunters.rds")
+
