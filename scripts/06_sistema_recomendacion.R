@@ -13,7 +13,7 @@ metricas <- tibble(
   densidad_red = map_dbl(redes_por_saga, ~ edge_density(.x$grafo))
 )
 
-# --- 2. Cargar ratings de Goodreads (con el nuevo formato) ---
+# --- 2. Cargar ratings de Goodreads ---
 goodreads <- read_csv("data/processed/goodreads_procesado.csv")
 
 # --- 3. Cargar sentimiento AFINN ---
@@ -114,7 +114,7 @@ ratings_dataset <- goodreads %>%
   ) %>%
   arrange(desc(rating_promedio))
 
-# Tabla con nombres de columna personalizados
+# Tabla con nombres de columna 
 tabla_ratings <- knitr::kable(
   ratings_dataset,
   caption = "Ratings promedio por saga (Goodreads)",
@@ -126,7 +126,6 @@ print(tabla_ratings)
 
 # --- 8. Sistema de recomendación ---
 
-# --- 8. Sistema de recomendación ---
 ratings_saga <- goodreads %>%
   group_by(saga) %>%
   summarise(rating_goodreads = mean(rating, na.rm = TRUE), .groups = "drop")
@@ -246,6 +245,7 @@ ggsave("output/graficos/ratings_saga.png", g_ratings, dpi = 300, width = 10, hei
 
 # --- 13. Guardar tabla de ratings ---
 write_csv(ratings_dataset, "data/processed/ratings_dataset.csv")
+
 
 
 
