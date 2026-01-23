@@ -2,7 +2,7 @@
 library(tidyverse)
 library(tidytext)
 
-# --- Mismas funciones (o source("scripts/utils.R")) ---
+# --- Mismas funciones que en 01a ---
 clean_book_lines <- function(file_path) {
   lines <- readLines(file_path, warn = FALSE, encoding = "UTF-8")
   ack_pos <- grep("^\\s*acknowledgements\\s*$", tolower(lines))
@@ -69,4 +69,5 @@ knitr::kable(corpus_summary, caption = "Composición inicial del corpus por libr
 
 # --- Guardar ---
 saveRDS(books_with_chapters, "data/processed/books_shadowhunters.rds")
+
 
