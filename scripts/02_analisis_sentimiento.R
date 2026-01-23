@@ -131,7 +131,7 @@ afinn_chapter <- tidy_books_clean %>%
     .groups = "drop"
   )
 
-# Asignar saga según nombre del libro (AJUSTADO)
+# Asignar saga según nombre del libro 
 evolucion <- afinn_chapter %>%
   mutate(
     saga = case_when(
@@ -502,7 +502,7 @@ custom_stop_words <- tibble(
 tidy_books_clean_dataset <- tidy_books_clean_dataset %>%
   anti_join(custom_stop_words, by = "word")
 
-# --- Resumen del corpus (ahora con saga) ---
+# --- Resumen del corpus ---
 corpus_summary_dataset <- books_with_chapters_dataset %>%
   group_by(book, saga) %>%  # ← incluir saga aquí
   summarise(
@@ -518,7 +518,7 @@ DT::datatable(
   options = list(
     pageLength = 25,
     searching = TRUE,
-    ordering = TRUE,      # ← permite ordenar al hacer clic en columnas
+    ordering = TRUE,      
     autoWidth = TRUE,
     scrollX = TRUE
   ),
@@ -786,4 +786,5 @@ p3 <- ggplot(sentimentr_results_all, aes(x = sentiment, fill = saga)) +
   )
 
 ggsave("output/graficos/distribucion_tono_emocional.png", p3, dpi = 300, width = 10, height = 6)
+
 
